@@ -5,28 +5,35 @@ import json
 import re
 import time
 
-regionArray = ['sfc']
+regionArray = ['sfc', 'sby', 'eby', 'pen', 'nby', 'scz']
 # ['sfc', 'sby', 'eby', 'pen', 'nby', 'scz']
 # Apa is apartments/housing for rent
 # Hou is apartments wanted
 # Rooms and shares is roo
 
 filename = datetime.now()
-filename = filename.strftime('%m_%d_%Y:%H_%M_%S.txt')
+filename = filename.strftime('%m_%d_%Y_%H_%M_%S.txt')
 f = open(filename, 'a+')
 
 def main(): 
+  f.write("{")
+  first = True;
   for area in regionArray:
     # f.write("REGION: " + area + "\n")
-    latest_item_details = getLatestItemDetails(area)
-    f.write("{\"" + area + "\":[")
+    if(first == False): 
+      f.write(",")
+    else:
+      first = False
+    latest_item_details = {} # getLatestItemDetails(area)
+    f.write("\"" + area + "\":[")
     cl = CraigslistForSale(site='sfbay', area=area, category='sss',
                     filters={'max_price': 4000, 'min_price': 0})
-    new_most_recent_item = printResults(latest_item_details, cl.get_results(sort_by='newest', geotagged=True, limit=60000));
+    new_most_recent_item = printResults(latest_item_details, cl.get_results(sort_by='newest', geotagged=True, limit=2500));
     # most_recent_file.write("}")
-    writeToMostRecentFile(area, new_most_recent_item)
+    # writeToMostRecentFile(area, new_most_recent_item)
+    f.write("]")
 
-  f.write("]}")
+  f.write("}")
   f.close()
 
 def printResults(latest_item_details, results):
