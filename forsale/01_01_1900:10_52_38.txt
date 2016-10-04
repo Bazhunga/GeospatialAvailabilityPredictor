@@ -1,4 +1,4 @@
-REGION: eby
+REGION:eby
 {'name': u'Media Bookshelf (Perfect for record collection)', 'has_image': True, 'url': u'http://sfbay.craigslist.org/eby/fuo/5786598156.html', 'has_map': True, 'price': u'$140', 'geotag': None, 'where': u'san leandro', 'id': u'5786598156', 'datetime': u'2016-09-28 07:38'}
 {'name': u'Caprice Impala glass', 'has_image': True, 'url': u'http://sfbay.craigslist.org/eby/pts/5768410365.html', 'has_map': True, 'price': u'$75', 'geotag': (37.9864, -122.135), 'where': u'concord / pleasant hill / martinez', 'id': u'5768410365', 'datetime': u'2016-09-28 07:38'}
 {'name': u'Holmes Portable Oil Filled Radiator Heater', 'has_image': True, 'url': u'http://sfbay.craigslist.org/eby/hsh/5770554280.html', 'has_map': True, 'price': u'$12', 'geotag': (37.657596, -121.850739), 'where': u'dublin / pleasanton / livermore', 'id': u'5770554280', 'datetime': u'2016-09-28 07:38'}
