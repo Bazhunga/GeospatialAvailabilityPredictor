@@ -1,0 +1,497 @@
+REGION: eby
+
+{"name": "OFF ROAD WHEELS ON SALE KMC XD MOTO METAL", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5790932849.html", "has_map": true, "price": "$2400", "geotag": "none", "where": "CONCORD", "id": "5790932849", "datetime": "2016-09-22 19:04"}
+
+{"name": "15 INCH  WHEELS  4X100 HELLA FLUSH! INTEGRA MAITA CIVC ETC", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5790942409.html", "has_map": true, "price": "$549", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5790942409", "datetime": "2016-09-22 19:04"}
+
+{"name": "Swingline 87831 Chrome Fashion Metal Stapler 20 Sheets New!!!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5794758422.html", "has_map": true, "price": "$14", "geotag": "none", "where": "pittsburg / antioch", "id": "5794758422", "datetime": "2016-09-22 19:04"}
+
+{"name": "JORDAN 12 MASTER SIZE 12 - JORDAN 12 THE MASTER -", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5786848267.html", "has_map": true, "price": "$345", "geotag": (37.8071, -122.2851), "where": "SAN PABLO", "id": "5786848267", "datetime": "2016-09-22 19:04"}
+
+{"name": "235 75 15 GOODYEAR TIRES BRAND NEW INSTALLED 4 NEW", "has_image": false, "url": "http://sfbay.craigslist.org/eby/wtd/5790989817.html", "has_map": false, "price": "$370", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5790989817", "datetime": "2016-09-22 19:04"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 5.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5777025657.html", "has_map": true, "price": "$190", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5777025657", "datetime": "2016-09-22 19:04"}
+
+{"name": "Epiphone PR-350NA Acoustic Guitar", "has_image": false, "url": "http://sfbay.craigslist.org/eby/msg/5794765167.html", "has_map": false, "price": "$150", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5794765167", "datetime": "2016-09-22 19:04"}
+
+{"name": "Camaro ZL1 NPP dual mode exhaust", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5782606473.html", "has_map": true, "price": "$400", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782606473", "datetime": "2016-09-22 19:04"}
+
+{"name": "Trade my black s7 Edge for s7 ATT Samsung Galaxy", "has_image": false, "url": "http://sfbay.craigslist.org/eby/mob/5786870102.html", "has_map": false, "price": "$1", "geotag": "none", "where": "fremont / union city / newark", "id": "5786870102", "datetime": "2016-09-22 19:04"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 14 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771527397.html", "has_map": true, "price": "$290", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771527397", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 GYM RED - SIZE 14 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771530109.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771530109", "datetime": "2016-09-22 19:03"}
+
+{"name": "Want bike cheap!", "has_image": false, "url": "http://sfbay.craigslist.org/eby/wan/5794720232.html", "has_map": false, "price": "$20", "geotag": "none", "where": "East Bay or SF", "id": "5794720232", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 6.5 - JORDAN 12 FLU GAME SIZE 6.5", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765141451.html", "has_map": true, "price": "$340", "geotag": (37.7166, -121.9226), "where": "DUBLIN", "id": "5765141451", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 8.5 - JORDAN 12 FLU GAME SIZE 8.5", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765141644.html", "has_map": true, "price": "$340", "geotag": (37.7166, -121.9226), "where": "DUBLIN", "id": "5765141644", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FRENCH BLUE SIZE 10.5 - JORDAN XII FRENCH BLUE SIZE 10", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765138961.html", "has_map": true, "price": "$290", "geotag": (37.8071, -122.2851), "where": "SAN PABLO", "id": "5765138961", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 MASTER SIZE 14 - JORDAN 12 THE MASTER -", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765140904.html", "has_map": true, "price": "$345", "geotag": (37.8071, -122.2851), "where": "SAN PABLO", "id": "5765140904", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 6.5 - JORDAN 12 FLU GAME SIZE 6.5", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765141811.html", "has_map": true, "price": "$340", "geotag": (37.7166, -121.9226), "where": "DUBLIN", "id": "5765141811", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 13 GREY TOES -- SIZE 10.5 -- WWW.SUPPORTYOURLOCAL.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5749809806.html", "has_map": true, "price": "$270", "geotag": "none", "where": "SAN PABLO", "id": "5749809806", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 5 - JORDAN 12 FLU GAME SIZE 5", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765141251.html", "has_map": true, "price": "$230", "geotag": (37.7166, -121.9226), "where": "DUBLIN", "id": "5765141251", "datetime": "2016-09-22 19:03"}
+
+{"name": "NIKE SB DUNK HI X BAO HAUS X CHAIRMAN BAO DUNKS SIZE 9", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5749809011.html", "has_map": true, "price": "$185", "geotag": "none", "where": "EMERYVILLE, RICHMOND, OAKLAND, DUBLIN", "id": "5749809011", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 12 - JORDAN 12 FLU GAME SIZE 9", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5749808560.html", "has_map": true, "price": "$340", "geotag": "none", "where": "DUBLIN", "id": "5749808560", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FRENCH BLUE SIZE 10 - JORDAN XII FRENCH BLUE SIZE 10", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5749809419.html", "has_map": true, "price": "$330", "geotag": "none", "where": "SAN PABLO", "id": "5749809419", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 MASTER SIZE 12 - JORDAN 12 THE MASTER -", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765139252.html", "has_map": true, "price": "$345", "geotag": (37.8071, -122.2851), "where": "SAN PABLO", "id": "5765139252", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 1 BRED JORDAN 1 BANNED  SIZE 6 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5777028332.html", "has_map": true, "price": "$190", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5777028332", "datetime": "2016-09-22 19:03"}
+
+{"name": "2006 Express Van Airbag", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5782573089.html", "has_map": true, "price": "$30", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782573089", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 1 BRED JORDAN 1 BANNED  SIZE 6.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5777033875.html", "has_map": true, "price": "$190", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5777033875", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 13 GREY TOES -- SIZE 10.5 -- WWW.SUPPORTYOURLOCAL.COM", "has_image": false, "url": "http://sfbay.craigslist.org/eby/clo/5786848614.html", "has_map": false, "price": "$270", "geotag": "none", "where": "SAN PABLO", "id": "5786848614", "datetime": "2016-09-22 19:03"}
+
+{"name": "Green star polyps coral", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5794764677.html", "has_map": true, "price": "$40", "geotag": "none", "where": "san leandro", "id": "5794764677", "datetime": "2016-09-22 19:03"}
+
+{"name": "Floral Glossy Dresser", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fud/5794748541.html", "has_map": true, "price": "$280", "geotag": (37.8961, -122.1119), "where": "lafayette / orinda / moraga", "id": "5794748541", "datetime": "2016-09-22 19:03"}
+
+{"name": "Honda CR500 parts", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5782572940.html", "has_map": true, "price": "$100", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782572940", "datetime": "2016-09-22 19:03"}
+
+{"name": "99-04 Mustang GT BBK X-pipe", "has_image": false, "url": "http://sfbay.craigslist.org/eby/pts/5794764270.html", "has_map": false, "price": "$50", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5794764270", "datetime": "2016-09-22 19:03"}
+
+{"name": "2002 Audi A4", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cto/5794764268.html", "has_map": true, "price": "$3800", "geotag": (37.6374, -122.067), "where": "hayward / castro valley", "id": "5794764268", "datetime": "2016-09-22 19:03"}
+
+{"name": "E67 ls engine control module 12633264", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5782541437.html", "has_map": true, "price": "$40", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782541437", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 10  www.SupportYourLocalPusha.com", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771533516.html", "has_map": true, "price": "$330", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5771533516", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 GYM RED - SIZE 6.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771534174.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5771534174", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 12 GYM RED - SIZE 7 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771533424.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5771533424", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 11 RETRO 72-10 SIZE 11 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": false, "url": "http://sfbay.craigslist.org/eby/clo/5771533628.html", "has_map": false, "price": "$340", "geotag": "none", "where": "OAKLAND", "id": "5771533628", "datetime": "2016-09-22 19:03"}
+
+{"name": "JORDAN 14 LANEY SIZE 10 - SIZE 11.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773116557.html", "has_map": true, "price": "$255", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773116557", "datetime": "2016-09-22 19:02"}
+
+{"name": "Campagnolo shifters, brakes, derailleurs", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bop/5794764065.html", "has_map": true, "price": "$1", "geotag": (37.860252, -122.270451), "where": "berkeley", "id": "5794764065", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 12 FLU GAME SIZE 10  www.SupportYourLocalPusha.com", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773066483.html", "has_map": true, "price": "$330", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5773066483", "datetime": "2016-09-22 19:02"}
+
+{"name": "Honda cr crf brake pads and rotor", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5782541285.html", "has_map": true, "price": "$150", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782541285", "datetime": "2016-09-22 19:02"}
+
+{"name": "Mustang wheels", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5794764013.html", "has_map": true, "price": "$380", "geotag": (37.9658, -121.7758), "where": "pittsburg / antioch", "id": "5794764013", "datetime": "2016-09-22 19:02"}
+
+{"name": "FLYKNIT RACER MULTI SIZE 9.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cld/5773136743.html", "has_map": true, "price": "$210", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773136743", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 6 MAROON SIZE 14 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773112960.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5773112960", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 12 PSNY - SIZE 11 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773115286.html", "has_map": true, "price": "$640", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5773115286", "datetime": "2016-09-22 19:02"}
+
+{"name": "FOAMPOSITE FRUITY PEBBLES BLACK SIZE 6 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773118544.html", "has_map": true, "price": "$250", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773118544", "datetime": "2016-09-22 19:02"}
+
+{"name": "FOAMPOSITE GUCCI WHITE SIZE 9 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773120353.html", "has_map": true, "price": "$290", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773120353", "datetime": "2016-09-22 19:02"}
+
+{"name": "FLYKNIT RACER MULTI SIZE 10 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773137817.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5773137817", "datetime": "2016-09-22 19:02"}
+
+{"name": "YZ 250 two stroke air filters NEW", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5782533481.html", "has_map": true, "price": "$40", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782533481", "datetime": "2016-09-22 19:02"}
+
+{"name": "FLYKNIT RACER MULTI SIZE 9 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773135850.html", "has_map": true, "price": "$200", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773135850", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 12 UNIVERSITY BLUE SIZE 6 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773141970.html", "has_map": true, "price": "$230", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773141970", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 12 UNIVERSITY BLUE SIZE 6.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773143600.html", "has_map": true, "price": "$230", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773143600", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BANNED SIZE 7 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5783679220.html", "has_map": true, "price": "$190", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5783679220", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 12 GYM RED - SIZE 6 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771535015.html", "has_map": true, "price": "$210", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771535015", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BANNED SIZE 4 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5783680825.html", "has_map": true, "price": "$175", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5783680825", "datetime": "2016-09-22 19:02"}
+
+{"name": "Full Size Mattress!! 54" x 74"", "has_image": false, "url": "http://sfbay.craigslist.org/eby/fuo/5794763743.html", "has_map": false, "price": "$99", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5794763743", "datetime": "2016-09-22 19:02"}
+
+{"name": "BMW X5 SET OF 4  20" RIMS AND SNOW TIRES", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wto/5776062623.html", "has_map": true, "price": "$1850", "geotag": (37.7562, -121.9522), "where": "danville / san ramon", "id": "5776062623", "datetime": "2016-09-22 19:02"}
+
+{"name": "1967-1972 C10 K10 K5 complete seats and show quality interior", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5782533349.html", "has_map": true, "price": "$800", "geotag": "none", "where": "dublin / pleasanton / livermore", "id": "5782533349", "datetime": "2016-09-22 19:02"}
+
+{"name": u"Subs 8"", "has_image": false, "url": "http://sfbay.craigslist.org/eby/hab/5794756811.html", "has_map": false, "price": "$1", "geotag": "none", "where": "berkeley", "id": "5794756811", "datetime": "2016-09-22 19:02"}
+
+{"name": "Hand carved jade pendant with silk knotted cord", "has_image": true, "url": "http://sfbay.craigslist.org/eby/jwl/5794763563.html", "has_map": true, "price": "$20", "geotag": "none", "where": "hayward / castro valley", "id": "5794763563", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BANNED SIZE 5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5783680057.html", "has_map": true, "price": "$190", "geotag": (37.9724, -122.3369), "where": "all over the bay", "id": "5783680057", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BRED JORDAN 1 BANNED SIZE 6.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5783678117.html", "has_map": true, "price": "$190", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5783678117", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 6 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791422443.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791422443", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 4.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791423190.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791423190", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 4 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791421831.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791421831", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 7 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791422777.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791422777", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791422124.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791422124", "datetime": "2016-09-22 19:02"}
+
+{"name": "Livid Base Midi Controller LVBASE01", "has_image": true, "url": "http://sfbay.craigslist.org/eby/msg/5785991610.html", "has_map": true, "price": "$100", "geotag": (37.81153, -122.299633), "where": "oakland west", "id": "5785991610", "datetime": "2016-09-22 19:02"}
+
+{"name": "Automatic Solder Paste Mixer 140028", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bfd/5794723532.html", "has_map": true, "price": "$799", "geotag": (37.648028, -122.126362), "where": "hayward / castro valley", "id": "5794723532", "datetime": "2016-09-22 19:02"}
+
+{"name": "5-gallon plastic jugs", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mat/5794748199.html", "has_map": true, "price": "$10", "geotag": (37.94, -122.362), "where": "richmond / point / annex", "id": "5794748199", "datetime": "2016-09-22 19:02"}
+
+{"name": "Campagnolo shifters, brakes, derailleurs", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bop/5794763205.html", "has_map": true, "price": "$1", "geotag": "none", "where": "hayward / castro valley", "id": "5794763205", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 11 LOW GOLD SIZE 10 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771504757.html", "has_map": true, "price": "$260", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5771504757", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 GOLD SIZE 14 LOW - www.SupportYourLocalPusha.com", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771507454.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771507454", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LOW GOLD SIZE 10.5 - www.SupportYourLocalPusha.com", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771506307.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5771506307", "datetime": "2016-09-22 19:01"}
+
+{"name": "Rebuilt H4 SU Carburetors", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5783103741.html", "has_map": true, "price": "$400", "geotag": (38.359022, -121.982231), "where": "fairfield / vacaville", "id": "5783103741", "datetime": "2016-09-22 19:01"}
+
+{"name": "Brand New MacBook Pro 13.3" Retina Display 2.7GHz Core i5/8GB/256GB", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sys/5794762995.html", "has_map": true, "price": "$1199", "geotag": (37.5368, -122.032), "where": "fremont / union city / newark", "id": "5794762995", "datetime": "2016-09-22 19:01"}
+
+{"name": "random barbie clothes and little kiddles", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5794763002.html", "has_map": true, "price": "$5", "geotag": (37.8365, -122.2804), "where": "emeryville", "id": "5794763002", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LOW GOLD - SIZE 6 - JORDAN 11 LOW GOLD", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771508439.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5771508439", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 11 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771312606.html", "has_map": true, "price": "$240", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5771312606", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LOW GOLD SIZE 7 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771501754.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5771501754", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 MASTER SIZE 14  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773149133.html", "has_map": true, "price": "$320", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773149133", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771312020.html", "has_map": true, "price": "$240", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5771312020", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LEGEND BLUE SIZE 4.5 WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773160908.html", "has_map": true, "price": "$230", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773160908", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 FRENCH BLUE SIZE 10.5  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773147125.html", "has_map": true, "price": "$285", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5773147125", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 COLUMBIA SIZE 4.5", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773162281.html", "has_map": true, "price": "$230", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5773162281", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 MASTER SIZE 12  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773148413.html", "has_map": true, "price": "$320", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773148413", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 MASTER SIZE 4.5  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773151005.html", "has_map": true, "price": "$220", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5773151005", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765142356.html", "has_map": true, "price": "$260", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5765142356", "datetime": "2016-09-22 19:01"}
+
+{"name": "RARE Jean Claude Mahey Black Lacquer & Brass Sideboard Credenza", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fud/5794756934.html", "has_map": true, "price": "$2499", "geotag": (37.780145, -121.980879), "where": "danville / san ramon", "id": "5794756934", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765142241.html", "has_map": true, "price": "$240", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5765142241", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765142637.html", "has_map": true, "price": "$260", "geotag": "none", "where": "all over the bay", "id": "5765142637", "datetime": "2016-09-22 19:01"}
+
+{"name": "KOHLER 37-Inch Oval Vanity Top K-2798-8-G81", "has_image": true, "url": "http://sfbay.craigslist.org/eby/hsh/5783102546.html", "has_map": true, "price": "$200", "geotag": (38.3847, -121.9887), "where": "fairfield / vacaville", "id": "5783102546", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY RED SIZE 11 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776984837.html", "has_map": true, "price": "$300", "geotag": (38.0066, -122.2637), "where": "none", "id": "5776984837", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY BLUE SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776987210.html", "has_map": true, "price": "$300", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5776987210", "datetime": "2016-09-22 19:01"}
+
+{"name": "LITTLE TIKES DISCOVER SOUNDS SPORTS CENTER", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tag/5791280340.html", "has_map": true, "price": "$15", "geotag": (37.842868, -122.250023), "where": "North Oakland", "id": "5791280340", "datetime": "2016-09-22 19:01"}
+
+{"name": "Moving out of State", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fuo/5794762608.html", "has_map": true, "price": "$15", "geotag": (37.6586, -122.0472), "where": "hayward / castro valley", "id": "5794762608", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY RED SIZE 14 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776982272.html", "has_map": true, "price": "$14", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5776982272", "datetime": "2016-09-22 19:01"}
+
+{"name": "Powermatic 8" jointer", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tls/5794762565.html", "has_map": true, "price": "$725", "geotag": (38.270263, -122.069607), "where": "fairfield / vacaville", "id": "5794762565", "datetime": "2016-09-22 19:01"}
+
+{"name": "Whirlpool Wher25 Reverse Osmosis Water Filter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/hab/5794762567.html", "has_map": true, "price": "$100", "geotag": (37.7641, -122.1633), "where": "oakland hills / mills", "id": "5794762567", "datetime": "2016-09-22 19:01"}
+
+{"name": "New Simonton Windows Nail on", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mat/5794762515.html", "has_map": true, "price": "$60", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5794762515", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 7 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791422777.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791422777", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791422124.html", "has_map": true, "price": "$180", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5791422124", "datetime": "2016-09-22 19:02"}
+
+{"name": "Livid Base Midi Controller LVBASE01", "has_image": true, "url": "http://sfbay.craigslist.org/eby/msg/5785991610.html", "has_map": true, "price": "$100", "geotag": (37.81153, -122.299633), "where": "oakland west", "id": "5785991610", "datetime": "2016-09-22 19:02"}
+
+{"name": "Automatic Solder Paste Mixer 140028", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bfd/5794723532.html", "has_map": true, "price": "$799", "geotag": (37.648028, -122.126362), "where": "hayward / castro valley", "id": "5794723532", "datetime": "2016-09-22 19:02"}
+
+{"name": "5-gallon plastic jugs", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mat/5794748199.html", "has_map": true, "price": "$10", "geotag": (37.94, -122.362), "where": "richmond / point / annex", "id": "5794748199", "datetime": "2016-09-22 19:02"}
+
+{"name": "Campagnolo shifters, brakes, derailleurs", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bop/5794763205.html", "has_map": true, "price": "$1", "geotag": "none", "where": "hayward / castro valley", "id": "5794763205", "datetime": "2016-09-22 19:02"}
+
+{"name": "JORDAN 11 LOW GOLD SIZE 10 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771504757.html", "has_map": true, "price": "$260", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5771504757", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 GOLD SIZE 14 LOW - www.SupportYourLocalPusha.com", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771507454.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771507454", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LOW GOLD SIZE 10.5 - www.SupportYourLocalPusha.com", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771506307.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5771506307", "datetime": "2016-09-22 19:01"}
+
+{"name": "Rebuilt H4 SU Carburetors", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5783103741.html", "has_map": true, "price": "$400", "geotag": (38.359022, -121.982231), "where": "fairfield / vacaville", "id": "5783103741", "datetime": "2016-09-22 19:01"}
+
+{"name": "Brand New MacBook Pro 13.3" Retina Display 2.7GHz Core i5/8GB/256GB", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sys/5794762995.html", "has_map": true, "price": "$1199", "geotag": (37.5368, -122.032), "where": "fremont / union city / newark", "id": "5794762995", "datetime": "2016-09-22 19:01"}
+
+{"name": "random barbie clothes and little kiddles", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5794763002.html", "has_map": true, "price": "$5", "geotag": (37.8365, -122.2804), "where": "emeryville", "id": "5794763002", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LOW GOLD - SIZE 6 - JORDAN 11 LOW GOLD", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771508439.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5771508439", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 11 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771312606.html", "has_map": true, "price": "$240", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5771312606", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LOW GOLD SIZE 7 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771501754.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5771501754", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 MASTER SIZE 14  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773149133.html", "has_map": true, "price": "$320", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773149133", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771312020.html", "has_map": true, "price": "$240", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5771312020", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 LEGEND BLUE SIZE 4.5 WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773160908.html", "has_map": true, "price": "$230", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773160908", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 FRENCH BLUE SIZE 10.5  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773147125.html", "has_map": true, "price": "$285", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5773147125", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 11 COLUMBIA SIZE 4.5", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773162281.html", "has_map": true, "price": "$230", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5773162281", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 MASTER SIZE 12  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773148413.html", "has_map": true, "price": "$320", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5773148413", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 12 MASTER SIZE 4.5  WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773151005.html", "has_map": true, "price": "$220", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5773151005", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765142356.html", "has_map": true, "price": "$260", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5765142356", "datetime": "2016-09-22 19:01"}
+
+{"name": "RARE Jean Claude Mahey Black Lacquer & Brass Sideboard Credenza", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fud/5794756934.html", "has_map": true, "price": "$2499", "geotag": (37.780145, -121.980879), "where": "danville / san ramon", "id": "5794756934", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765142241.html", "has_map": true, "price": "$240", "geotag": (38.0066, -122.2637), "where": "all over the bay", "id": "5765142241", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5765142637.html", "has_map": true, "price": "$260", "geotag": "none", "where": "all over the bay", "id": "5765142637", "datetime": "2016-09-22 19:01"}
+
+{"name": "KOHLER 37-Inch Oval Vanity Top K-2798-8-G81", "has_image": true, "url": "http://sfbay.craigslist.org/eby/hsh/5783102546.html", "has_map": true, "price": "$200", "geotag": (38.3847, -121.9887), "where": "fairfield / vacaville", "id": "5783102546", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY RED SIZE 11 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776984837.html", "has_map": true, "price": "$300", "geotag": (38.0066, -122.2637), "where": "none", "id": "5776984837", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY BLUE SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776987210.html", "has_map": true, "price": "$300", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5776987210", "datetime": "2016-09-22 19:01"}
+
+{"name": "LITTLE TIKES DISCOVER SOUNDS SPORTS CENTER", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tag/5791280340.html", "has_map": true, "price": "$15", "geotag": (37.842868, -122.250023), "where": "North Oakland", "id": "5791280340", "datetime": "2016-09-22 19:01"}
+
+{"name": "Moving out of State", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fuo/5794762608.html", "has_map": true, "price": "$15", "geotag": (37.6586, -122.0472), "where": "hayward / castro valley", "id": "5794762608", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY RED SIZE 14 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776982272.html", "has_map": true, "price": "$14", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5776982272", "datetime": "2016-09-22 19:01"}
+
+{"name": "Powermatic 8" jointer", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tls/5794762565.html", "has_map": true, "price": "$725", "geotag": (38.270263, -122.069607), "where": "fairfield / vacaville", "id": "5794762565", "datetime": "2016-09-22 19:01"}
+
+{"name": "Whirlpool Wher25 Reverse Osmosis Water Filter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/hab/5794762567.html", "has_map": true, "price": "$100", "geotag": (37.7641, -122.1633), "where": "oakland hills / mills", "id": "5794762567", "datetime": "2016-09-22 19:01"}
+
+{"name": "New Simonton Windows Nail on", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mat/5794762515.html", "has_map": true, "price": "$60", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5794762515", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE OPTIC YELLOW SIZE 14 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776992572.html", "has_map": true, "price": "$300", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5776992572", "datetime": "2016-09-22 19:01"}
+
+{"name": "FOAMPOSITE UNIVERSITY BLUE SIZE 14 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776988874.html", "has_map": true, "price": "$300", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5776988874", "datetime": "2016-09-22 19:01"}
+
+{"name": "JORDAN 1 BRED SIZE 6 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5783683905.html", "has_map": true, "price": "$190", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5783683905", "datetime": "2016-09-22 19:01"}
+
+{"name": "Supreme New York Medium Jacket", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5794762262.html", "has_map": true, "price": "$275", "geotag": (37.7205, -122.1587), "where": "san leandro", "id": "5794762262", "datetime": "2016-09-22 19:01"}
+
+{"name": "Marshall MG100FX Half Stack combo", "has_image": true, "url": "http://sfbay.craigslist.org/eby/app/5794762133.html", "has_map": true, "price": "$275", "geotag": (38.002785, -121.720066), "where": "brentwood / oakley", "id": "5794762133", "datetime": "2016-09-22 19:01"}
+
+{"name": "**ALMONDorMIX FIREWOOD\U0001f49asameday deliveryBUY LOCALguarantee", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5787208881.html", "has_map": true, "price": "$125", "geotag": (37.9864, -122.135), "where": "EASTBAY///GUARANTEE THE BEST", "id": "5787208881", "datetime": "2016-09-22 19:00"}
+
+{"name": "Great working dishwasher", "has_image": true, "url": "http://sfbay.craigslist.org/eby/app/5784017929.html", "has_map": true, "price": "$30", "geotag": (38.4403, -121.8088), "where": "hercules, pinole, san pablo, el sob", "id": "5784017929", "datetime": "2016-09-22 19:00"}
+
+{"name": "SEASONED ALMONDorMIX FIREWOOD", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5754492767.html", "has_map": true, "price": "$125", "geotag": "none", "where": "PLEASANT HILL/LAFAYETTE/DANVILLE", "id": "5754492767", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 11 RETRO 72-10 SIZE 9.5 ---- SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773064706.html", "has_map": true, "price": "$340", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5773064706", "datetime": "2016-09-22 19:00"}
+
+{"name": "SEASONED ALMOND FIREWOOD", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5763962660.html", "has_map": true, "price": "$125", "geotag": "none", "where": "PLEASANT HILL/LAFAYETTE/DANVILLE", "id": "5763962660", "datetime": "2016-09-22 19:00"}
+
+{"name": "Great working dishwasher", "has_image": true, "url": "http://sfbay.craigslist.org/eby/app/5784017590.html", "has_map": true, "price": "$30", "geotag": (38.4403, -121.8088), "where": "fairfield / vacaville", "id": "5784017590", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 4.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5777022430.html", "has_map": true, "price": "$190", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5777022430", "datetime": "2016-09-22 19:00"}
+
+{"name": "Choice of HP Office Jet 6500 Wirless or Epson RX580 Photo Printer", "has_image": true, "url": "http://sfbay.craigslist.org/eby/eld/5794755794.html", "has_map": true, "price": "$35", "geotag": (37.780145, -121.980879), "where": "danville / san ramon", "id": "5794755794", "datetime": "2016-09-22 19:00"}
+
+{"name": "2001 bmw 740il", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cto/5794761633.html", "has_map": true, "price": "$2500", "geotag": (38.005107, -121.761157), "where": "pittsburg / antioch", "id": "5794761633", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 1 BANNED JORDAN 1 BRED SIZE 4 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5777020886.html", "has_map": true, "price": "$180", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5777020886", "datetime": "2016-09-22 19:00"}
+
+{"name": "Lockers", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5785701361.html", "has_map": true, "price": "$500", "geotag": (37.5308, -121.9712), "where": "fremont / union city / newark", "id": "5785701361", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 11 RETRO 72-10 SIZE 9.5 ---- SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773064515.html", "has_map": true, "price": "$340", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5773064515", "datetime": "2016-09-22 19:00"}
+
+{"name": "FOAMPOSITE OPTIC YELLOW SIZE 10.5 - SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5776994190.html", "has_map": true, "price": "$300", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5776994190", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 11 RETRO 72-10 SIZE 9.5 ---- SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773065045.html", "has_map": true, "price": "$340", "geotag": (37.8071, -122.2851), "where": "all over the bay", "id": "5773065045", "datetime": "2016-09-22 19:00"}
+
+{"name": "Lumineers - 2 Tickets - Thurs 10/6 - Greek Theatre", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tix/5794761474.html", "has_map": true, "price": "$105", "geotag": (37.766329, -122.240764), "where": "alameda", "id": "5794761474", "datetime": "2016-09-22 19:00"}
+
+{"name": "Nike Flyknit Racer Multi Color  -- Size 9 -- www.SupportYourLocalPusha", "has_image": false, "url": "http://sfbay.craigslist.org/eby/clo/5766142939.html", "has_map": false, "price": "$220", "geotag": "none", "where": "eastbay", "id": "5766142939", "datetime": "2016-09-22 19:00"}
+
+{"name": "Nike Flyknit Racer Multi Color  -- Size 9 -- www.SupportYourLocalPusha", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5769416516.html", "has_map": true, "price": "$190", "geotag": (37.9724, -122.3369), "where": "all over the bay", "id": "5769416516", "datetime": "2016-09-22 19:00"}
+
+{"name": "Nike Flyknit Racer Multi Color  -- Size 9 -- www.SupportYourLocalPusha", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5773064849.html", "has_map": true, "price": "$190", "geotag": (37.9724, -122.3369), "where": "all over the bay", "id": "5773064849", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771526188.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5771526188", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791431811.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5791431811", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791436460.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5791436460", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 11 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791429847.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5791429847", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 11 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791430027.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5791430027", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 14 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5791432608.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5791432608", "datetime": "2016-09-22 19:00"}
+
+{"name": "JORDAN 14 LANEY SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": false, "url": "http://sfbay.craigslist.org/eby/clo/5791436916.html", "has_map": false, "price": "$240", "geotag": "none", "where": "ALL OVER THE BAY", "id": "5791436916", "datetime": "2016-09-22 19:00"}
+
+{"name": "Belkin F5D9230-4 Wireless-G Plus MIMO Router", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sop/5773434702.html", "has_map": true, "price": "$20", "geotag": (37.7957, -122.2429), "where": "oakland lake merritt / grand", "id": "5773434702", "datetime": "2016-09-22 19:00"}
+
+{"name": "oil painting", "has_image": true, "url": "http://sfbay.craigslist.org/eby/atq/5794705892.html", "has_map": true, "price": "$200", "geotag": (38.1551, -121.3086), "where": "Woodbridge", "id": "5794705892", "datetime": "2016-09-22 18:59"}
+
+{"name": "Couch For Sale", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fuo/5794761096.html", "has_map": true, "price": "$200", "geotag": (37.9823, -122.0362), "where": "brentwood / oakley", "id": "5794761096", "datetime": "2016-09-22 18:59"}
+
+{"name": "HP ink cartridges", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sop/5794761010.html", "has_map": true, "price": "$175", "geotag": "none", "where": "fairfield / vacaville", "id": "5794761010", "datetime": "2016-09-22 18:59"}
+
+{"name": u"JBL 4313  new surrounds/JBL"s best boom and sizzle!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/ele/5782693557.html", "has_map": true, "price": "$499", "geotag": (37.6094, -118.8656), "where": "walnut creek", "id": "5782693557", "datetime": "2016-09-22 18:59"}
+
+{"name": "NETGEAR XE102 Wall-Plugged Ethernet Bridge", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sop/5778187185.html", "has_map": true, "price": "$30", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5778187185", "datetime": "2016-09-22 18:59"}
+
+{"name": "MIRO WHEELS ON SALE 19x8.5 19x9.5 TYPE 111", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5794734445.html", "has_map": true, "price": "$799", "geotag": (37.773836, -122.232084), "where": "oakland east", "id": "5794734445", "datetime": "2016-09-22 18:59"}
+
+{"name": "Hynix 1GB PC2-3200s Laptop Memory", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sop/5773536624.html", "has_map": true, "price": "$12", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5773536624", "datetime": "2016-09-22 18:59"}
+
+{"name": "Acoustic Research 6ft Pro II Series Component Video Cable", "has_image": true, "url": "http://sfbay.craigslist.org/eby/ele/5777969659.html", "has_map": true, "price": "$15", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5777969659", "datetime": "2016-09-22 18:59"}
+
+{"name": "Mini Wine Glasses/shooters Set of 6", "has_image": true, "url": "http://sfbay.craigslist.org/eby/hsh/5778052828.html", "has_map": true, "price": "$20", "geotag": (37.7957, -122.2429), "where": "oakland lake merritt / grand", "id": "5778052828", "datetime": "2016-09-22 18:59"}
+
+{"name": "Ladies diamond ring", "has_image": true, "url": "http://sfbay.craigslist.org/eby/jwl/5771031268.html", "has_map": true, "price": "$250", "geotag": (37.9658, -121.7758), "where": "none", "id": "5771031268", "datetime": "2016-09-22 18:59"}
+
+{"name": "Road Warrior Forma Boots", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5789952704.html", "has_map": true, "price": "$150", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5789952704", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW CHERRY SIZE 11 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771516193.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771516193", "datetime": "2016-09-22 18:59"}
+
+{"name": "Insignia 24" HDTV", "has_image": true, "url": "http://sfbay.craigslist.org/eby/ele/5778050190.html", "has_map": true, "price": "$80", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5778050190", "datetime": "2016-09-22 18:59"}
+
+{"name": "Jordan IV Thunder, Adidas NMD", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5794760279.html", "has_map": true, "price": "$180", "geotag": (37.7205, -122.1587), "where": "san leandro", "id": "5794760279", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 4 CEMENT - SIZE 9 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771525582.html", "has_map": true, "price": "$290", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5771525582", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW NAVY SIZE 13 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771513564.html", "has_map": true, "price": "$260", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5771513564", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW CHERRY - SIZE 7 - JORDAN 11 CHERRY", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771523525.html", "has_map": true, "price": "$210", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771523525", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW CHERRY - SIZE 6.5 - JORDAN 11 CHERRY", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771523035.html", "has_map": true, "price": "$210", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771523035", "datetime": "2016-09-22 18:59"}
+
+{"name": "Alpinestars Scout waterproof boots", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5789951997.html", "has_map": true, "price": "$160", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5789951997", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW NAVY SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771514201.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771514201", "datetime": "2016-09-22 18:59"}
+
+{"name": "Brand new Samsung s7edge unopened", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mob/5794760217.html", "has_map": true, "price": "$480", "geotag": (37.75131, -121.769253), "where": "dublin / pleasanton / livermore", "id": "5794760217", "datetime": "2016-09-22 18:59"}
+
+{"name": "Holographic Pokemon Cards", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clt/5791421332.html", "has_map": true, "price": "$1", "geotag": (37.9939, -121.8089), "where": "pittsburg / antioch", "id": "5791421332", "datetime": "2016-09-22 18:59"}
+
+{"name": "215 70 15 GOODYEAR TIRES BRAND NEW INSTALLED SET BEST PRICE", "has_image": false, "url": "http://sfbay.craigslist.org/eby/wtd/5790980372.html", "has_map": false, "price": "$299", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5790980372", "datetime": "2016-09-22 18:59"}
+
+{"name": "OFF ROAD WHEELS ON SALE KMC XD MOTO METAL", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5790999398.html", "has_map": true, "price": "$2400", "geotag": "none", "where": "none", "id": "5790999398", "datetime": "2016-09-22 18:58"}
+
+{"name": "Fulltone Clyde Deluxe Wah", "has_image": true, "url": "http://sfbay.craigslist.org/eby/msg/5794760116.html", "has_map": true, "price": "$160", "geotag": (37.54063, -121.973305), "where": "fremont / union city / newark", "id": "5794760116", "datetime": "2016-09-22 18:58"}
+
+{"name": "215 70 15 GOODYEAR TIRES BRAND NEW INSTALLED SET BEST PRICE", "has_image": false, "url": "http://sfbay.craigslist.org/eby/wtd/5791008924.html", "has_map": false, "price": "$299", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5791008924", "datetime": "2016-09-22 18:58"}
+
+{"name": "Icon Tuscadero leather jkt", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5789953115.html", "has_map": true, "price": "$150", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5789953115", "datetime": "2016-09-22 18:58"}
+
+{"name": "17" RIMS & TIRES 650+tax INSTALLED 205 40 17", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5791018603.html", "has_map": true, "price": "$649", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5791018603", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY SIZE 6 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771522482.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5771522482", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY - SIZE 6 - JORDAN 11 CHERRY", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771512530.html", "has_map": true, "price": "$230", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5771512530", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771515227.html", "has_map": true, "price": "$260", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5771515227", "datetime": "2016-09-22 18:58"}
+
+{"name": "Apple DVI (M) To VGA (F) Monitor Adapter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sop/5773409063.html", "has_map": true, "price": "$20", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5773409063", "datetime": "2016-09-22 18:58"}
+
+{"name": "Swingline 87830 Chrome Fashion Metal Stapler 20 Sheets New!!!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5794759922.html", "has_map": true, "price": "$14", "geotag": "none", "where": "pittsburg / antioch", "id": "5794759922", "datetime": "2016-09-22 18:58"}
+
+{"name": "Cummins AEM reusable Air Filter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5789951517.html", "has_map": true, "price": "$35", "geotag": (37.9575, -121.975), "where": "concord / pleasant hill / martinez", "id": "5789951517", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY - SIZE 7 - JORDAN 11 CHERRY", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771523525.html", "has_map": true, "price": "$210", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771523525", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW CHERRY - SIZE 6.5 - JORDAN 11 CHERRY", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771523035.html", "has_map": true, "price": "$210", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771523035", "datetime": "2016-09-22 18:59"}
+
+{"name": "Alpinestars Scout waterproof boots", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5789951997.html", "has_map": true, "price": "$160", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5789951997", "datetime": "2016-09-22 18:59"}
+
+{"name": "JORDAN 11 LOW NAVY SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771514201.html", "has_map": true, "price": "$260", "geotag": (37.8071, -122.2851), "where": "ALL OVER THE BAY", "id": "5771514201", "datetime": "2016-09-22 18:59"}
+
+{"name": "Brand new Samsung s7edge unopened", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mob/5794760217.html", "has_map": true, "price": "$480", "geotag": (37.75131, -121.769253), "where": "dublin / pleasanton / livermore", "id": "5794760217", "datetime": "2016-09-22 18:59"}
+
+{"name": "Holographic Pokemon Cards", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clt/5791421332.html", "has_map": true, "price": "$1", "geotag": (37.9939, -121.8089), "where": "pittsburg / antioch", "id": "5791421332", "datetime": "2016-09-22 18:59"}
+
+{"name": "215 70 15 GOODYEAR TIRES BRAND NEW INSTALLED SET BEST PRICE", "has_image": false, "url": "http://sfbay.craigslist.org/eby/wtd/5790980372.html", "has_map": false, "price": "$299", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5790980372", "datetime": "2016-09-22 18:59"}
+
+{"name": "OFF ROAD WHEELS ON SALE KMC XD MOTO METAL", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5790999398.html", "has_map": true, "price": "$2400", "geotag": "none", "where": "none", "id": "5790999398", "datetime": "2016-09-22 18:58"}
+
+{"name": "Fulltone Clyde Deluxe Wah", "has_image": true, "url": "http://sfbay.craigslist.org/eby/msg/5794760116.html", "has_map": true, "price": "$160", "geotag": (37.54063, -121.973305), "where": "fremont / union city / newark", "id": "5794760116", "datetime": "2016-09-22 18:58"}
+
+{"name": "215 70 15 GOODYEAR TIRES BRAND NEW INSTALLED SET BEST PRICE", "has_image": false, "url": "http://sfbay.craigslist.org/eby/wtd/5791008924.html", "has_map": false, "price": "$299", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5791008924", "datetime": "2016-09-22 18:58"}
+
+{"name": "Icon Tuscadero leather jkt", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5789953115.html", "has_map": true, "price": "$150", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5789953115", "datetime": "2016-09-22 18:58"}
+
+{"name": "17" RIMS & TIRES 650+tax INSTALLED 205 40 17", "has_image": true, "url": "http://sfbay.craigslist.org/eby/wtd/5791018603.html", "has_map": true, "price": "$649", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5791018603", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY SIZE 6 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771522482.html", "has_map": true, "price": "$210", "geotag": (38.0066, -122.2637), "where": "ALL OVER THE BAY", "id": "5771522482", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY - SIZE 6 - JORDAN 11 CHERRY", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771512530.html", "has_map": true, "price": "$230", "geotag": (37.9724, -122.3369), "where": "ALL OVER THE BAY", "id": "5771512530", "datetime": "2016-09-22 18:58"}
+
+{"name": "JORDAN 11 LOW CHERRY SIZE 10.5 - WWW.SUPPORTYOURLOCALPUSHA.COM", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5771515227.html", "has_map": true, "price": "$260", "geotag": (37.7166, -121.9226), "where": "ALL OVER THE BAY", "id": "5771515227", "datetime": "2016-09-22 18:58"}
+
+{"name": "Apple DVI (M) To VGA (F) Monitor Adapter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/sop/5773409063.html", "has_map": true, "price": "$20", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5773409063", "datetime": "2016-09-22 18:58"}
+
+{"name": "Swingline 87830 Chrome Fashion Metal Stapler 20 Sheets New!!!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/for/5794759922.html", "has_map": true, "price": "$14", "geotag": "none", "where": "pittsburg / antioch", "id": "5794759922", "datetime": "2016-09-22 18:58"}
+
+{"name": "Cummins AEM reusable Air Filter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5789951517.html", "has_map": true, "price": "$35", "geotag": (37.9575, -121.975), "where": "concord / pleasant hill / martinez", "id": "5789951517", "datetime": "2016-09-22 18:58"}
+
+{"name": "KOBE 9 MAESTRO - KOBE 9 - www.SupportYourLocalPusha.com - SZ 10", "has_image": false, "url": "http://sfbay.craigslist.org/eby/clo/5760252548.html", "has_map": false, "price": "$390", "geotag": "none", "where": "HILLTOP / HERCULES / DUBLIN / OAKLAND", "id": "5760252548", "datetime": "2016-09-22 18:58"}
+
+{"name": "Framed Traditional Chinese Art For Sale", "has_image": true, "url": "http://sfbay.craigslist.org/eby/art/5794759891.html", "has_map": true, "price": "$50", "geotag": (37.762844, -122.265987), "where": "alameda", "id": "5794759891", "datetime": "2016-09-22 18:58"}
+
+{"name": "Lois Prices Grocery Outlet Bobble Head", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clt/5791443824.html", "has_map": true, "price": "$1", "geotag": (37.9939, -121.8089), "where": "pittsburg / antioch", "id": "5791443824", "datetime": "2016-09-22 18:58"}
+
+{"name": "harley road glide 26" wheel chrome", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mpo/5760396998.html", "has_map": true, "price": "$2200", "geotag": (37.9658, -121.7758), "where": "none", "id": "5760396998", "datetime": "2016-09-22 18:58"}
+
+{"name": "Ibanez Soundgear SR500 4 string Bass with Case Like New", "has_image": true, "url": "http://sfbay.craigslist.org/eby/ele/5794759769.html", "has_map": true, "price": "$150", "geotag": (38.0985, -122.2124), "where": "vallejo / benicia", "id": "5794759769", "datetime": "2016-09-22 18:58"}
+
+{"name": "2004 Audi A8 salvage", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cto/5760411472.html", "has_map": true, "price": "$3900", "geotag": (37.9658, -121.7758), "where": "none", "id": "5760411472", "datetime": "2016-09-22 18:58"}
+
+{"name": "Billabong wetsuit around age 10", "has_image": false, "url": "http://sfbay.craigslist.org/eby/spo/5794759475.html", "has_map": false, "price": "$15", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5794759475", "datetime": "2016-09-22 18:58"}
+
+{"name": "Tube Heroes Deluxe Gaming Pack 4 Pack New!!!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tag/5794759381.html", "has_map": true, "price": "$12", "geotag": "none", "where": "pittsburg / antioch", "id": "5794759381", "datetime": "2016-09-22 18:58"}
+
+{"name": "RadioShack Pro-83 200 Channel Compact scanner", "has_image": true, "url": "http://sfbay.craigslist.org/eby/ele/5791498348.html", "has_map": true, "price": "$1", "geotag": (37.9939, -121.8089), "where": "pittsburg / antioch", "id": "5791498348", "datetime": "2016-09-22 18:58"}
+
+{"name": "2003  GMC Yukon", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cto/5776274542.html", "has_map": true, "price": "$2900", "geotag": (37.9658, -121.7758), "where": "none", "id": "5776274542", "datetime": "2016-09-22 18:58"}
+
+{"name": "Ibanez Soundgear SR500 4 string Bass with Case Like New", "has_image": true, "url": "http://sfbay.craigslist.org/eby/msg/5794759100.html", "has_map": true, "price": "$150", "geotag": (38.0985, -122.2124), "where": "vallejo / benicia", "id": "5794759100", "datetime": "2016-09-22 18:57"}
+
+{"name": "Challenger stock air intake", "has_image": true, "url": "http://sfbay.craigslist.org/eby/pts/5794759102.html", "has_map": true, "price": "$50", "geotag": "none", "where": "fairfield / vacaville", "id": "5794759102", "datetime": "2016-09-22 18:57"}
+
+{"name": "Scooter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tag/5794759025.html", "has_map": true, "price": "$5", "geotag": (37.974922, -122.027973), "where": "concord / pleasant hill / martinez", "id": "5794759025", "datetime": "2016-09-22 18:57"}
+
+{"name": "bmw castrol 10w-60, oem fm booster, dot4, super blue fluids", "has_image": false, "url": "http://sfbay.craigslist.org/eby/pts/5794759011.html", "has_map": false, "price": "$15", "geotag": "none", "where": "oakland hills / mills", "id": "5794759011", "datetime": "2016-09-22 18:57"}
+
+{"name": "Tritonal Concert at the Fox on 9/24 - 1 Ticket available", "has_image": false, "url": "http://sfbay.craigslist.org/eby/tix/5794759004.html", "has_map": false, "price": "$45", "geotag": "none", "where": "oakland downtown", "id": "5794759004", "datetime": "2016-09-22 18:57"}
+
+{"name": "\u3013\u277c\u3013 FREE DELIVERY\u3013\u277c\u30132PC SECTIONAL SOFA", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fud/5753962787.html", "has_map": true, "price": "$549", "geotag": (37.7636, -121.9155), "where": "danville / san ramon", "id": "5753962787", "datetime": "2016-09-22 18:57"}
+
+{"name": "Microtek Artixscan M1 Digital Scanner", "has_image": true, "url": "http://sfbay.craigslist.org/eby/ele/5794758895.html", "has_map": true, "price": "$299", "geotag": (37.816527, -122.28748), "where": "oakland downtown", "id": "5794758895", "datetime": "2016-09-22 18:57"}
+
+{"name": "Honeywell B Plus HRF-B1 Air Purifier Pre-Filter New!!!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/hsh/5794758854.html", "has_map": true, "price": "$9", "geotag": "none", "where": "pittsburg / antioch", "id": "5794758854", "datetime": "2016-09-22 18:57"}
+
+{"name": "West Elm Blake Chaise - like new!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fuo/5790016995.html", "has_map": true, "price": "$400", "geotag": (37.8753, -122.0703), "where": "walnut creek", "id": "5790016995", "datetime": "2016-09-22 18:57"}
+
+{"name": "Scooter", "has_image": true, "url": "http://sfbay.craigslist.org/eby/mcy/5794752709.html", "has_map": true, "price": "$345", "geotag": "none", "where": "hayward / castro valley", "id": "5794752709", "datetime": "2016-09-22 18:57"}
+
+{"name": "Wedgewood stove", "has_image": false, "url": "http://sfbay.craigslist.org/eby/app/5794758554.html", "has_map": false, "price": "$100", "geotag": "none", "where": "oakland lake merritt / grand", "id": "5794758554", "datetime": "2016-09-22 18:57"}
+
+{"name": "New HQ 50W Power Supply for CO2 Laser Engraving Cutting Machine130008", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bfd/5794717521.html", "has_map": true, "price": "$160", "geotag": (37.647977, -122.125912), "where": "hayward / castro valley", "id": "5794717521", "datetime": "2016-09-22 18:57"}
+
+{"name": "Dewalt 18v bare tool drill  or charger sold by piece", "has_image": true, "url": "http://sfbay.craigslist.org/eby/tls/5761859138.html", "has_map": true, "price": "$30", "geotag": (37.994321, -121.897769), "where": "pittsburg / antioch", "id": "5761859138", "datetime": "2016-09-22 18:57"}
+
+{"name": "1999 Plymouth Voyager", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cto/5790083175.html", "has_map": true, "price": "$1000", "geotag": (38.0031, -121.9172), "where": "pittsburg / antioch", "id": "5790083175", "datetime": "2016-09-22 18:57"}
+
+{"name": "Penny Hardaway Sharpie Foam pack", "has_image": true, "url": "http://sfbay.craigslist.org/eby/clo/5794758249.html", "has_map": true, "price": "$625", "geotag": (37.7205, -122.1587), "where": "san leandro", "id": "5794758249", "datetime": "2016-09-22 18:57"}
+
+{"name": "Sofa & Love: Brand New!", "has_image": false, "url": "http://sfbay.craigslist.org/eby/fud/5769727057.html", "has_map": false, "price": "$395", "geotag": "none", "where": "concord / pleasant hill / martinez", "id": "5769727057", "datetime": "2016-09-22 18:57"}
+
+{"name": "~Beautiful Industrial Bar Table and Chairs~ Best Prices!", "has_image": true, "url": "http://sfbay.craigslist.org/eby/fud/5779025384.html", "has_map": true, "price": "$399", "geotag": "none", "where": "vallejo / benicia", "id": "5779025384", "datetime": "2016-09-22 18:57"}
+
+{"name": "Black pearls", "has_image": false, "url": "http://sfbay.craigslist.org/eby/jwl/5786378769.html", "has_map": false, "price": "$75", "geotag": "none", "where": "none", "id": "5786378769", "datetime": "2016-09-22 18:57"}
+
+{"name": "01 SS Monte Carlo needs eng must tow", "has_image": true, "url": "http://sfbay.craigslist.org/eby/cto/5770029524.html", "has_map": true, "price": "$800", "geotag": "none", "where": "pittsburg / antioch", "id": "5770029524", "datetime": "2016-09-22 18:56"}
+
+{"name": "Specialized  S Works 2014 Medium 29r", "has_image": true, "url": "http://sfbay.craigslist.org/eby/bik/5794758008.html", "has_map": true, "price": "$3950", "geotag": (37.5308, -121.9712), "where": "fremont / union city / newark", "id": "5794758008", "datetime": "2016-09-22 18:56"}

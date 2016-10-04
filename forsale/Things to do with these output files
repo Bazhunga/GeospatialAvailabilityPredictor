@@ -1,0 +1,12 @@
+Things to do with these output files
+> Get rid of the u'
+> Change True to true, False to false
+> Change None to "none"
+> Change '' to ""
+SOLVED USING JSON.DUMPS
+
+Need to sanitize input to make it free of double quotes and backslashes (DONE)
+
+Need to put first thing into a most_recent_item.json (DONE)
+
+Need to scrape starting from the past to more into the past 
