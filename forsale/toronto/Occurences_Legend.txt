@@ -1,0 +1,60 @@
+art: arts & crafts - by owner
+hvo: heavy equipment - by owner
+ppd: appliances by dealer
+app: appliances by owner
+ptd: auto parts by dealer
+rvs: rvs by owner
+sop: computer parts by owner
+tag: toys and games by owner
+ard: arts and crafts by dealer
+spo: sporting good by owner
+sdp: computer parts by dealer
+pts: auto parts by owner
+wan: wanted by owner
+mat: materials by owner
+vgm: video gaming by owner
+clo: clothing and accessories by owner
+tix: tix by owner
+for: general for sale by owner
+grq: farm and garden by dealer
+cld: clothing and accessories by dealer
+hab: health and beauty - by owner
+had: health and beauty - by dealer
+eld: electronics - by dealer
+ele: electronics - by owwner
+bfs: business/commercial - by owner
+grd: farm & garden - by owner
+sgd: sporting goods - by dealer
+bdp: bicycle parts - by dealer
+msg: musical instruments - by owner
+bab: baby & kid stuff - by owner
+wto: auto wheels & tires - by owner
+bid: bicycles - by dealer
+bkd: books & magazines - by dealer
+pho: photo/video - by owner
+bik: bicycles - by owner
+hsd: household items - by dealer
+syd: computers - by dealer
+mpo: motorcycle parts - by owner
+hsh: household items - by owner
+tld: tools - by dealer
+phd: photo/video - by dealer
+sys: computers - by owner
+clt: collectibles - by owner
+mcy: motorcycles/scooters - by owner
+bks: books & magazines - by owner
+mob: cell phones - by owner
+fod: general for sale - by dealer
+mod: cell phones - by dealer
+tls: tools - by owner
+emd: cds / dvds / vhs - by owner
+snw: atvs, utvs, snowmobiles - by owner
+bop: bicycle parts - by owner
+bpo: boat parts - by owner
+ctd: cars & trucks - by dealer
+jwl: jewelry - by owner
+atq: antiques - by owner
+fuo: furniture - by owner
+boa: boats - by owner
+cto: cars & trucks - by owner
+

@@ -86,9 +86,9 @@ if __name__ == "__main__":
       else:
          occurence_dict[code] = 1
 
-   print occurence_dict
+   print occurence_dict.keys()
 
-   graph_occurences(occurence_dict)
+   # graph_occurences(occurence_dict)
 
 
 
