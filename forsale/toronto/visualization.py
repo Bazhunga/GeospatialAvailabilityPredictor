@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import os
 import json
+import re
 from pandas.io.json import json_normalize
 
 def debugItemDataPrint(item_data):
@@ -19,7 +20,19 @@ def print_full(x):
 
 def partitionDataToronto(item_data):
    # item_data = item_data[item_data['where'].str.contains('toronto', case=False, na='nan')]
+   # TODO
    print_full(item_data)
+
+def getUniqueCategoryCode(item):
+   m = re.search('org/tor/(.+?)/', item)
+   return m
+
+def graph_occurences(oc_dict):
+   plt.bar(range(len(oc_dict)), oc_dict.values(), align='center')
+   plt.xticks(range(len(oc_dict)), oc_dict.keys(), rotation='vertical')
+   plt.show()
+
+
 
 def plot_occurence_of_items(item_data):
    item_data = item_data.drop('geotag', 1)
@@ -48,7 +61,6 @@ if __name__ == "__main__":
    item_data = item_data.drop('has_image', 1)
    item_data = item_data.drop('has_map', 1)
    item_data = item_data.drop('id', 1)
-   item_data = item_data.drop('url', 1)
 
    # Debug
    # debugItemDataColumns(item_data)
@@ -62,8 +74,21 @@ if __name__ == "__main__":
 
    # partitionDataToronto(item_data)
 
-   plot_occurence_of_items(item_data)
+   # plot_occurence_of_items(item_data)
    # partitionDataToronto(item_data)
+
+   # print_full(item_data['url'])
+   occurence_dict = {}
+   for item_url in item_data['url']:
+      code = str(getUniqueCategoryCode(item_url).group(1))
+      if code in occurence_dict:
+         occurence_dict[code] = occurence_dict[code] + 1
+      else:
+         occurence_dict[code] = 1
+
+   print occurence_dict
+
+   graph_occurences(occurence_dict)
 
 
 

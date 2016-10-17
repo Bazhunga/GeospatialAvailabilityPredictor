@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
    df_items = json_normalize(master_data["tor"])
    # Get rid of useless columns 
-   df_items = df_items.drop(['has_image', 'has_map', 'id', 'url', 'datetime'] , 1)
+   df_items = df_items.drop(['has_image', 'has_map', 'id', 'datetime'] , 1)
    debugItemDataColumns(df_items)
 
    map_data(df_items)
