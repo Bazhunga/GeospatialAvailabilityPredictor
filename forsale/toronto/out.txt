@@ -1,0 +1,94 @@
+/home/kevin/GeospatialAvailabilityPredictor/forsale/toronto/bigger.json
+[u'datetime', u'geotag', u'name', u'price', u'where']
+              datetime                   geotag  \
+18    2016-10-10 17:15                     None   
+23    2016-10-10 17:15                     None   
+31    2016-10-10 17:14                     None   
+402   2016-10-10 15:24                     None   
+453   2016-10-10 15:16   [43.745034, -79.39851]   
+792   2016-10-10 14:10  [43.686881, -79.390708]   
+1028  2016-10-10 13:17  [43.722717, -79.405081]   
+1286  2016-10-10 12:36  [43.726258, -79.327343]   
+1287  2016-10-10 12:36  [43.726258, -79.327343]   
+1306  2016-10-10 12:35  [43.726258, -79.327343]   
+1309  2016-10-10 12:35  [43.726258, -79.327343]   
+1398  2016-10-10 12:12  [43.652795, -79.372874]   
+1485  2016-10-10 11:53  [43.687979, -79.393893]   
+1514  2016-10-10 11:49  [43.653239, -79.448377]   
+1626  2016-10-10 11:18  [43.781998, -79.148419]   
+1893  2016-10-10 10:15  [43.781998, -79.148419]   
+1915  2016-10-10 10:13  [43.673191, -79.466694]   
+1924  2016-10-10 10:13  [43.673191, -79.466694]   
+1925  2016-10-10 10:13  [43.673191, -79.466694]   
+1927  2016-10-10 10:13  [43.673191, -79.466694]   
+1982  2016-10-10 10:10  [43.673191, -79.466694]   
+2019  2016-10-10 10:02  [43.781998, -79.148419]   
+2045  2016-10-10 09:59                     None   
+2076  2016-10-10 09:51  [43.672007, -79.445682]   
+2114  2016-10-10 09:41  [43.747087, -79.580362]   
+2175  2016-10-10 09:17  [43.651062, -79.526195]   
+2178  2016-10-10 09:16  [43.656983, -79.511185]   
+2179  2016-10-10 09:16  [43.656983, -79.511185]   
+2485  2016-10-10 06:05  [43.656983, -79.511185]   
+
+                                                   name price  \
+18                 MICHAEL JORDAN RUNNING SHOES SIZE 11  $240   
+23    SHAQUILLE O'NEIL RUNNING SHOES LOGO SHAQ JAMAI...  $160   
+31              NIKE GOLF SHOES SOFT CLEATS NEW SIZE 10   $90   
+402          white boy's suite and tan dress shoes sz 8   $30   
+453   Brand New Horse-shoe Huggie Clear Zirconia Sil...   $24   
+792                 Protex Snowshoes and Poles with bag   $40   
+1028  Girls Ski Boots - size 18.5 (fits size 12 shoe...   $30   
+1286  Schott NYC & DC Shoes Mens Short Duffle Jacket...  $199   
+1287  Schott NYC & DC Shoes Mens Curbside Flannel Ja...  $199   
+1306  Saucony BreakThru Men's Running Shoes Size 11 ...   $99   
+1309  Asics Men's GEL-Speedstar 6 Running Shoe Size ...   $99   
+1398                              Shoes sizes 7 and 7.5   $50   
+1485          Men's Black leather dress shoes - Size 11   $65   
+1514  Barbie Shoes and Sunglasses Vintage Japan Hong...   $40   
+1626  Gorgeous Couture Dress Shoes-Nine West,Marinel...   $15   
+1893                      Girls New Mexx & Esprit Shoes   $15   
+1915                         Boys Water Shoes - Size 12    $2   
+1924             Size 12 Black Leather Shoes with Heels   $10   
+1925             Taupe Softspots Leather Shoes - Size 7   $30   
+1927                   Men's Rubber Overshoes - Size XL   $10   
+1982           Taupe Softspots Leather Shoes - Size 6.5   $30   
+2019                           Poetic Justice Shoes-NEW   $60   
+2045                     Authentic Coach Shoes - Size 7   $45   
+2076                                         Nike shoes   $40   
+2114  WOMEN'S SHOES COACH NOVA SZ.10M.  PLEASE LET M...   $25   
+2175  Women's Skechers Relaxed Fit (slip on) SZ 6 wa...   $10   
+2178  Men`s Shoes Rockport XCS (size 10 us) BROWN sl...   $29   
+2179     Men`s Shoes Rockport (size 13 us) dark slip on   $29   
+2485  Women`s Shoes Heels Ron White ( 3/3.5 heels) s...   $12   
+
+                      where  
+18      Warden and Lawrence  
+23      Warden and Lawrence  
+31                     None  
+402                 toronto  
+453      York Mills& Leslie  
+792                    None  
+1028                   None  
+1286                Toronto  
+1287                Toronto  
+1306                Toronto  
+1309                Toronto  
+1398    Jarvis and Richmond  
+1485                   None  
+1514                toronto  
+1626                Toronto  
+1893           Toronto East  
+1915                   None  
+1924                   None  
+1925                   None  
+1927     St Clair and Keele  
+1982                   None  
+2019                Toronto  
+2045                Toronto  
+2076  Davenport @ lansdowne  
+2114          KIPLING&FINCH  
+2175              etobicoke  
+2178              etobicoke  
+2179              etobicoke  
+2485              etobicoke  
