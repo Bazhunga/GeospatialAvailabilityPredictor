@@ -1,0 +1,27 @@
+Things that I need to do
+1. Get the distance (haversine?) of each item to a ward centroid
+   a. Keep a dictionary of item category occurences for each ward
+   b. Assign each ward category rankings 
+   c. Demographics to Categories?   
+
+Load wards into a dictionary
+Load centroids into matrix
+
+[[X1, Y1],
+[X2, Y2],
+[X3, Y3]]
+
+For every item (2500 items), extract the geographical coordinates
+Get the nearest ward it belongs to
+Increment the entry in the ward dictionary by 1
+
+Ward dictionary
+Key: Ward number
+Value: A dictionary of category occurences
+
+Result: The most common category from the wards 
+
+Conclusions so far: 
+2500 data points, 888 without any geotags, therefore it's still a little sparse distributed over 44 wards 
+
+Next: 

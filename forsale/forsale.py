@@ -5,7 +5,8 @@ import json
 import re
 import time
 
-regionArray = ['tor', 'drh', 'yrk', 'bra', 'mss', 'oak']
+regionArray = ['tor']
+# ['tor', 'drh', 'yrk', 'bra', 'mss', 'oak']
 # ['sfc', 'sby', 'eby', 'pen', 'nby', 'scz']
 # Apa is apartments/housing for rent
 # Hou is apartments wanted

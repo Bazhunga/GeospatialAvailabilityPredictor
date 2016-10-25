@@ -1,0 +1,48 @@
+/home/kevin/GeospatialAvailabilityPredictor/forsale/toronto/centroids/centroid_data_toronto.csv
+['SCODE_NAME', 'xcoord', 'ycoord']
+Getting json from /home/kevin/GeospatialAvailabilityPredictor/forsale/toronto/bigger.json
+WARD CATEGORY DICTIONARY
+1: {'bfs': 1}
+2: {'bab': 1, 'tix': 1, 'bks': 2, 'pho': 2, 'ele': 3, 'sys': 1, 'jwl': 1, 'mob': 2, 'msg': 3, 'fuo': 3, 'spo': 3}
+3: {'emd': 1, 'clo': 3, 'art': 2, 'bks': 1, 'hsh': 3, 'spo': 2, 'tag': 1, 'atq': 4, 'fuo': 7}
+4: {'emd': 8, 'clo': 3, 'art': 1, 'for': 1, 'vgm': 2, 'hsh': 4, 'bks': 4, 'ele': 1, 'bfs': 6, 'sop': 1, 'mob': 1, 'tag': 2, 'sys': 1, 'atq': 1, 'msg': 3, 'fuo': 4, 'cto': 1, 'clt': 15, 'app': 1, 'bab': 1}
+5: {'app': 1, 'rvs': 1, 'sop': 2, 'tag': 7, 'spo': 9, 'pts': 7, 'clo': 1, 'clt': 9, 'hab': 5, 'ele': 2, 'bfs': 2, 'grd': 6, 'msg': 1, 'jwl': 9, 'bik': 2, 'mpo': 1, 'hsh': 1, 'snw': 1, 'wto': 6, 'tls': 1, 'bop': 1, 'bab': 4, 'atq': 1, 'fuo': 1}
+6: {'hab': 1, 'syd': 16, 'hsh': 1, 'ele': 3, 'ctd': 3, 'sop': 1, 'pts': 1, 'app': 1, 'mod': 4}
+7: {'bik': 1, 'hab': 1, 'spo': 1, 'ctd': 3, 'sop': 1, 'jwl': 10, 'tld': 8, 'clt': 1, 'fuo': 1, 'hsh': 1}
+8: {'bik': 1}
+9: {'fuo': 1, 'art': 1, 'for': 1}
+10: {'fuo': 2, 'hsh': 1, 'tag': 1, 'for': 2, 'ele': 2}
+11: {'clo': 1, 'for': 1, 'atq': 4, 'msg': 1, 'spo': 1, 'clt': 16}
+12: {'bfs': 1, 'clo': 7, 'pho': 4, 'bik': 9, 'for': 3, 'hsh': 6, 'spo': 4, 'ele': 9, 'sys': 5, 'sop': 6, 'tag': 4, 'bab': 1, 'msg': 7, 'atq': 4, 'clt': 27, 'fuo': 2, 'app': 1, 'wto': 1}
+13: {'clo': 15, 'pho': 1, 'for': 1, 'hsh': 1, 'bfs': 1, 'tag': 2, 'fuo': 6}
+14: {'msg': 1, 'fuo': 4, 'tag': 2, 'atq': 1}
+15: {'syd': 1, 'ptd': 1, 'eld': 1, 'msg': 6, 'bab': 2, 'spo': 3, 'clt': 1, 'mob': 2, 'sop': 1, 'fuo': 2}
+16: {'app': 1, 'sop': 1, 'spo': 5, 'sdp': 2, 'pts': 3, 'vgm': 4, 'clo': 9, 'hab': 1, 'eld': 1, 'ele': 2, 'bfs': 1, 'clt': 1, 'pho': 5, 'bik': 9, 'syd': 2, 'hsh': 14, 'sys': 1, 'bks': 1, 'mob': 1, 'mod': 1, 'tls': 1, 'bab': 31, 'atq': 1, 'fuo': 3}
+17: {'art': 5, 'sop': 3, 'tag': 8, 'sgd': 1, 'bik': 10, 'vgm': 1, 'clo': 1, 'for': 3, 'cld': 2, 'ele': 3, 'msg': 1, 'jwl': 1, 'pho': 5, 'mat': 1, 'syd': 2, 'hsh': 9, 'clt': 22, 'bks': 2, 'wto': 2, 'bop': 1, 'bab': 2, 'atq': 37, 'fuo': 14}
+18: {'clo': 8, 'art': 1, 'bik': 3, 'for': 6, 'hsh': 7, 'atq': 1, 'pho': 1, 'wto': 1, 'sys': 1, 'sop': 1, 'grd': 1, 'tag': 1, 'mob': 6, 'msg': 4, 'fuo': 37, 'app': 1, 'cto': 2, 'hab': 1, 'spo': 1}
+19: {'art': 5, 'app': 2, 'sop': 3, 'spo': 10, 'vgm': 3, 'clo': 7, 'tix': 1, 'for': 4, 'hab': 1, 'ele': 15, 'clt': 1, 'jwl': 1, 'wto': 1, 'pho': 5, 'bik': 1, 'wan': 1, 'hsh': 4, 'sys': 3, 'msg': 3, 'mcy': 1, 'mob': 5, 'mod': 2, 'bab': 1, 'atq': 1, 'fuo': 14}
+20: {'art': 1, 'for': 1, 'bks': 1, 'hsh': 2, 'atq': 5, 'bab': 1, 'mcy': 2, 'spo': 5, 'clt': 5, 'fuo': 5, 'app': 1, 'bik': 3}
+21: {'tls': 2, 'clo': 12, 'pho': 3, 'bik': 3, 'for': 1, 'hsh': 1, 'ele': 1, 'mob': 1, 'tag': 3, 'bab': 4, 'phd': 8, 'spo': 2, 'clt': 1, 'fuo': 7, 'cto': 1, 'hab': 1}
+22: {'bab': 1, 'art': 1, 'for': 1, 'vgm': 1, 'hsh': 7, 'ele': 6, 'sys': 1, 'sop': 1, 'grd': 2, 'jwl': 1, 'fuo': 2, 'msg': 1, 'mob': 3, 'cto': 1, 'pts': 1, 'app': 4, 'wto': 2}
+23: {'art': 1, 'mat': 1, 'bks': 1, 'ppd': 16, 'hab': 2, 'spo': 1, 'atq': 1, 'ele': 2, 'bfs': 1, 'sop': 2, 'fuo': 5, 'msg': 2, 'mob': 1, 'hsh': 2}
+24: {'art': 1, 'hsh': 1, 'jwl': 8, 'msg': 2, 'fuo': 12, 'tix': 1}
+25: {'sys': 1, 'fuo': 2, 'bab': 1, 'for': 2}
+26: {'clo': 6, 'bik': 3, 'for': 2, 'sop': 1, 'hsh': 19, 'grd': 1, 'ele': 3, 'msg': 2, 'mob': 3, 'jwl': 2, 'atq': 3, 'clt': 4, 'fuo': 9, 'app': 1}
+27: {'tix': 3, 'clo': 9, 'pho': 6, 'for': 2, 'vgm': 2, 'hsh': 1, 'hab': 1, 'bks': 3, 'atq': 5, 'emd': 1, 'ele': 1, 'clt': 14, 'jwl': 2, 'mob': 2, 'msg': 1, 'fuo': 18, 'cto': 1, 'sop': 3, 'bid': 1}
+28: {'art': 1, 'clo': 1, 'pho': 5, 'atq': 1, 'sys': 2, 'sop': 1, 'bab': 2, 'spo': 1, 'msg': 1, 'mob': 1, 'fuo': 1}
+29: {'tls': 1, 'pho': 1, 'bik': 5, 'eld': 1, 'phd': 2, 'sys': 2, 'sop': 1, 'tag': 1, 'bab': 2, 'jwl': 1, 'fuo': 9, 'msg': 1, 'mob': 2, 'ele': 1, 'wto': 1}
+30: {'bik': 3, 'for': 1, 'sys': 2, 'mob': 11, 'msg': 1, 'fuo': 1}
+31: {'emd': 3, 'clo': 1, 'art': 3, 'bik': 4, 'for': 2, 'bop': 1, 'hsh': 17, 'spo': 2, 'pho': 1, 'ele': 6, 'bfs': 2, 'sop': 1, 'grd': 2, 'tag': 14, 'jwl': 1, 'atq': 4, 'clt': 24, 'fuo': 15, 'fod': 2, 'pts': 1, 'app': 1}
+32: {'clo': 1, 'bik': 1, 'for': 5, 'hsh': 1, 'sop': 2, 'spo': 1, 'clt': 1, 'fuo': 3, 'msg': 1}
+33: {'clo': 18, 'pho': 3, 'bik': 1, 'hab': 5, 'grd': 1, 'spo': 2, 'fuo': 1, 'pts': 1, 'wto': 1}
+34: {'tls': 2, 'clo': 1, 'hsh': 1, 'ctd': 2, 'app': 1, 'mod': 1}
+35: {'ctd': 1, 'bik': 1}
+36: {'pho': 6, 'for': 1, 'tag': 1, 'msg': 2, 'cto': 1, 'pts': 2, 'wto': 4}
+37: {'vgm': 1, 'fuo': 1, 'ele': 1}
+38: {'emd': 1, 'for': 2, 'ele': 1, 'sys': 1, 'grd': 1, 'fuo': 4, 'msg': 2, 'boa': 1, 'phd': 4, 'pts': 1}
+39: {'msg': 1, 'pts': 1, 'ele': 7}
+40: {'tls': 3, 'clo': 2, 'pho': 21, 'grq': 7, 'hsh': 1, 'sys': 13, 'bks': 2, 'clt': 1, 'wto': 1}
+41: {'sys': 1, 'vgm': 1, 'grd': 1, 'pts': 3, 'art': 1}
+42: {'tls': 2, 'pho': 1, 'bik': 2, 'ele': 17, 'atq': 4, 'msg': 1, 'fuo': 6, 'cto': 1}
+43: {'emd': 3, 'clo': 14, 'tix': 1, 'bik': 10, 'bab': 1, 'vgm': 1, 'hsh': 4, 'spo': 6, 'atq': 7, 'bfs': 1, 'sop': 1, 'tag': 2, 'jwl': 2, 'bks': 2, 'clt': 2, 'mob': 1, 'ele': 1, 'pts': 1, 'fuo': 1}
+44: {}

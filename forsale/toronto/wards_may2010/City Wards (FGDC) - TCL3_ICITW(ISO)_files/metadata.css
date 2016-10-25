@@ -1,0 +1,171 @@
+EM {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.allLinks {
+	FONT-SIZE: 10pt; COLOR: #3399cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.allLinks:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+.formText {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.selectText {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: "Courier New", Courier, mono
+}
+.headerLinks {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #72c7f1; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.headerLinks:link {
+	COLOR: #72c7f1
+}
+A.headerLinks:visited {
+	COLOR: #72c7f1
+}
+A.headerLinks:hover {
+	COLOR: #ffcc00; TEXT-DECORATION: underline
+}
+DIV.allLinks {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.gateTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #cc3333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.gateTitleText {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.gateIntro {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.boxTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #006699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.explorerTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #cc3333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.explorerText {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 14pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.explorerList {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.detailsTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.detailsText {
+	FONT-SIZE: 9pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.boxText {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.subText {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.boxText:link {
+	COLOR: #000000
+}
+A.boxText:visited {
+	COLOR: #000000
+}
+A.boxText:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #339933; TEXT-DECORATION: underline
+}
+.footerLinks {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.footerLinks:link {
+	COLOR: #666666
+}
+A.footerLinks:visited {
+	COLOR: #666666
+}
+A.footerLinks:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.mainTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #cc3333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.mainGreyTitle {
+	FONT-SIZE: 13pt; COLOR: #a0a0a0; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.smallTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #999999; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.sectionTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #006699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.headTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.toolbarTitle {
+	FONT-SIZE: 14pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodyText {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 16pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodyTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 10pt; COLOR: #333333; LINE-HEIGHT: 14pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.homeBottomLinks {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.homeBottomLinks:link {
+	COLOR: #000000
+}
+A.homeBottomLinks:visited {
+	COLOR: #000000
+}
+A.homeBottomLinks:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+.homepageText {
+	FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 19pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.homeTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #cc3333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.homeBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.homeLinkBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #006699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.homeLinkBold:link {
+	COLOR: #006699
+}
+A.homeLinkBold:visited {
+	COLOR: #006699
+}
+A.homeLinkBold:hover {
+	COLOR: #006699; TEXT-DECORATION: underline
+}
+.homeLink {
+	FONT-SIZE: 8pt; COLOR: #006699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.homeLink:link {
+	COLOR: #006699
+}
+A.homeLink:visited {
+	COLOR: #006699
+}
+A.homeLink:hover {
+	COLOR: #006699; TEXT-DECORATION: underline
+}
+.banner {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; COLOR: #064e80; FONT-FAMILY: ARIAL; BACKGROUND-COLOR: #b5d6fb
+}
+.FormTitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #004284; FONT-STYLE: normal; FONT-FAMILY: ARIAL; BACKGROUND-COLOR: #b5d6fb; TEXT-ALIGN: left
+}
