@@ -6,6 +6,7 @@ import json
 import re
 from pandas.io.json import json_normalize
 
+# Visualizes the data that was collected by creating a bar graph with x axis as categories and y axis as occurrences 
 def debugItemDataPrint(item_data):
    print item_data
 

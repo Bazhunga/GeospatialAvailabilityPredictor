@@ -5,6 +5,7 @@ import os
 import json
 import folium
 import re
+import operator
 from haversine import *
 from pandas.io.json import json_normalize
 
@@ -23,7 +24,7 @@ def get_population_map(basePath):
 
 def get_centroid_map(basePath):
    path = (basePath + "/centroids/centroid_data_toronto.csv")
-   print path
+   # print path
    df_items = pd.read_csv(path) # names=['GEO_ID','CREATE_ID','NAME', 'SCODE_NAME', 'LCODE_NAME', 'TYPE_DESC', 'TYPE_CODE', 'OBJECTID', 'xcoord', 'ycoord'])
    df_items = df_items.drop(['GEO_ID', 'CREATE_ID', 'NAME', 'LCODE_NAME', 'TYPE_DESC', 'TYPE_CODE', 'OBJECTID'], 1)
    df_items = df_items.sort_values(by=['SCODE_NAME'])
@@ -112,6 +113,15 @@ def print_full(x):
    print(x)
    pd.reset_option('display.max_rows')
 
+def graph_occurences(oc_dict, ward_key, directory_to_save_to):
+   plt.clf()
+   plt.bar(range(len(oc_dict)), oc_dict.values(), align='center')
+   plt.xticks(range(len(oc_dict)), oc_dict.keys(), rotation='vertical')
+   plt.title("Most common category occurrences for Ward" + str(ward_key))
+   # plt.show()
+   # fig = plt.figure()
+   plt.savefig('Ward_' + str(ward_key)+".png")
+
 def verify_wardcatdict(ward_category_dict):
    total = 0
    for key in ward_category_dict:
@@ -136,8 +146,29 @@ if __name__ == "__main__":
    # print ward_centroid_dict
 
    # GET THE ITEMS INTO DATAFRAME
-   json_file_name = "bigger.json"
-   df_items = get_items_asdataframe(json_file_name)
+   # json_file_name = "bigger.json"
+   # df_items = get_items_asdataframe(json_file_name)
+   first_item = True
+   # df_items = get_ite
+   dataframelist = []
+   for filename in os.listdir(os.getcwd() + "/data"):
+      print filename
+
+      # if (first_item == True):
+      #    print("TRUE")
+      #    df_items = get_items_asdataframe("data/" + filename)
+      #    print df_items.shape
+      #    first_item = False
+      # else:
+      #    print("FALSE")
+      #    df_items_temp = get_items_asdataframe("data/" + filename)
+      #    df_items.append(df_items_temp, ignore_index=True)
+      #    print df_items.shape
+      dataframelist.append(get_items_asdataframe("data/" + filename))
+
+   df_items = pd.concat(dataframelist)
+   # print df_items.shape
+
    # print_full(df_items)
 
    # FIND NEAREST NEIGHBOUR OF THE ITEM USING HAVERSINE
@@ -146,3 +177,21 @@ if __name__ == "__main__":
    print("WARD CATEGORY DICTIONARY")
    for key in ward_category_dict:
       print(str(key) + ": " + str(ward_category_dict.get(key)))
+
+   print("Ward category most common occurrences")
+   for ward_key in ward_category_dict:
+      temp_freq_dict = ward_category_dict.get(ward_key)
+      try:
+         temp_max = max(temp_freq_dict.iteritems(), key=operator.itemgetter(1)) # Gets the category with max # occurrences
+      except ValueError:
+         temp_max = ['none', 0]
+      print(str(ward_key) + ": " + str(temp_max[0]) + " with " + str(temp_max[1]) + " occurrences")
+
+   # verify_wardcatdict(ward_category_dict)
+
+   # Graphing the occurences
+   png_folder = os.getcwd() + "/ward_cat_occurence_graphs"
+   for ward_key in ward_category_dict:
+      temp_freq_dict = ward_category_dict.get(ward_key)
+      graph_occurences(temp_freq_dict, ward_key, png_folder)
+

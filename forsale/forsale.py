@@ -13,7 +13,7 @@ regionArray = ['tor']
 # Rooms and shares is roo
 
 filename = datetime.now()
-filename = filename.strftime('%m_%d_%Y_%H_%M_%S.txt')
+filename = filename.strftime('%m_%d_%Y_%H_%M_%S.json')
 f = open(filename, 'a+')
 
 def main(): 

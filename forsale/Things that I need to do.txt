@@ -1,4 +1,9 @@
 Things that I need to do
+
+
+========================================================
+Oct ??, 2016
+========================================================
 1. Get the distance (haversine?) of each item to a ward centroid
    a. Keep a dictionary of item category occurences for each ward
    b. Assign each ward category rankings 
@@ -24,4 +29,51 @@ Result: The most common category from the wards
 Conclusions so far: 
 2500 data points, 888 without any geotags, therefore it's still a little sparse distributed over 44 wards 
 
-Next: 
+========================================================
+Oct ??, 2016
+========================================================
+Bunched together data over a week and plotted it, looks better now
+Very distinct spikes for categories per ward
+
+Improvements: Make the categories finer than just the provided categories on CL
+
+TODO: **Normalize the data by dividing by the total number of entries!!
+
+========================================================
+Nov 11, 2016
+========================================================
+Things to explore:
+
+Visualizers: 
+K means for each category to find out where these are located?
+> Implement this with a slider for how many days scraped to take into account
+
+Plot the distribution of people for each ward
+> Plot the population by age groups
+> Plot it by males
+> Plot it by females
+> Plot by #private dwellings by structure type
+> Plot by household type
+> Household size
+> Family type
+> Children age
+
+Logistic Regression
+Age groups to categories
+x --> ??
+
+***Get a distribution of categories when given a certain population
+The DoC would be the probability that a certain category would appear
+
+Display the most common category 
+
+Multiclass logistic or binary classification per category??
+
+Other words I have to figure out: 
+Clustering Non Gaussian
+Power Law (fitting?)
+Cluter Items with Kmeans
+Generalized Linear Models
+Elkan Noto 2008 learning from only positive labeled and unlabeled data
+Sparse SVD (PMF?) generalization of the eigendecomposition of a positive semidefinite normal matrix
+EM demographic model
