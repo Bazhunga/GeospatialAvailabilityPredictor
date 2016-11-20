@@ -1,4 +1,3 @@
-from __future__ import print_function
 import matplotlib.pyplot as plt 
 import pandas as pd
 import numpy as np
@@ -12,3 +11,6 @@ from pandas.io.json import json_normalize
 
 a = np.load('ward_agegroup_training.npy').item()
 print(a['ward_33']['65 to 69 years'])
+
+b = np.load('ward_most_common_targets.npy').item()
+print(b)

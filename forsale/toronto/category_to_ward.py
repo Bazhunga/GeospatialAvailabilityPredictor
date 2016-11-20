@@ -122,6 +122,27 @@ def graph_occurences(oc_dict, ward_key, directory_to_save_to):
    # fig = plt.figure()
    plt.savefig('Ward_' + str(ward_key)+".png")
 
+def get_most_common_category_per_ward_as_dict(ward_category_dict):
+   print("WARD CATEGORY DICTIONARY")
+   for key in ward_category_dict:
+      print(str(key) + ": " + str(ward_category_dict.get(key)))
+
+   ward_top = {}
+   print("Ward category most common occurrences")
+   for ward_key in ward_category_dict:
+      total = sum(ward_category_dict[ward_key].values())
+      print total
+      temp_freq_dict = ward_category_dict.get(ward_key)
+      try:
+         temp_max = max(temp_freq_dict.iteritems(), key=operator.itemgetter(1)) # Gets the category with max # occurrences
+      except ValueError:
+         temp_max = ['none', 0]
+      ward_top[ward_key] = str(temp_max[0])
+      print(str(ward_key) + ": " + ward_top[ward_key] + " with " + str(temp_max[1]) + " occurrences")
+
+   np.save("ward_most_common_targets.npy", ward_top)
+
+
 def verify_wardcatdict(ward_category_dict):
    total = 0
    for key in ward_category_dict:
@@ -172,26 +193,17 @@ if __name__ == "__main__":
    # print_full(df_items)
 
    # FIND NEAREST NEIGHBOUR OF THE ITEM USING HAVERSINE
+   print "Working on the haversine boss."
    ward_category_dict = get_most_common_categories_per_ward(ward_centroid_dict, df_items)
 
-   print("WARD CATEGORY DICTIONARY")
-   for key in ward_category_dict:
-      print(str(key) + ": " + str(ward_category_dict.get(key)))
 
-   print("Ward category most common occurrences")
-   for ward_key in ward_category_dict:
-      temp_freq_dict = ward_category_dict.get(ward_key)
-      try:
-         temp_max = max(temp_freq_dict.iteritems(), key=operator.itemgetter(1)) # Gets the category with max # occurrences
-      except ValueError:
-         temp_max = ['none', 0]
-      print(str(ward_key) + ": " + str(temp_max[0]) + " with " + str(temp_max[1]) + " occurrences")
+   # SAVE THE MOST COMMON CATEGORY
+   get_most_common_category_per_ward_as_dict(ward_category_dict)
 
    # verify_wardcatdict(ward_category_dict)
 
    # Graphing the occurences
-   png_folder = os.getcwd() + "/ward_cat_occurence_graphs"
-   for ward_key in ward_category_dict:
-      temp_freq_dict = ward_category_dict.get(ward_key)
-      graph_occurences(temp_freq_dict, ward_key, png_folder)
-
+   # png_folder = os.getcwd() + "/ward_cat_occurence_graphs"
+   # for ward_key in ward_category_dict:
+   #    temp_freq_dict = ward_category_dict.get(ward_key)
+   #    graph_occurences(temp_freq_dict, ward_key, png_folder)

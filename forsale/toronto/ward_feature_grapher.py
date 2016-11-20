@@ -45,14 +45,19 @@ def graph_ward_info(wi_dict, basePath, poptype):
    directory = basePath + "/2011_ward_info_csv/2011_Ward_POP_by_" + poptype + "/"
 
    #TODO: NEED TO NORMALIZE 
-
    for ward in wi_dict:
-      print (ward)
+      total = 0
+      # This is inefficient. You should precalculate these. 
+      for category in wi_dict[ward]:
+         total += wi_dict[ward][category]
+
+      # print (total)
+      # print (ward)
       plt.rcParams.update({'figure.autolayout': True})
       plt.clf()
-      plt.bar(range(len(wi_dict[ward])), wi_dict[ward].values(), align='center')
+      plt.bar(range(len(wi_dict[ward])), [float(x) / float(total) for x in wi_dict[ward].values()], align='center')
       plt.xticks(range(len(wi_dict[ward])), wi_dict[ward].keys(), rotation=90, ha='center')
-      plt.title("Population by age group")
+      plt.title("Population by " + poptype)
       fig = plt.gcf()
       fig.set_size_inches(18.5, 10.5)
       # plt.show()
@@ -66,8 +71,8 @@ if __name__ == "__main__":
    # Usage
    # Put a csv file with the fn format being 2011_Ward_POP_by_<POPTYPE>.csv
    # Create a directory with fn format being 2011_Ward_POP_by_<POPTYPE>
-   poptype = "agegroup"
-   # poptype = "females"
+   # poptype = "agegroup"
+   poptype = "females"
    # poptype = "males"
    # poptype = "householdtype"
 
