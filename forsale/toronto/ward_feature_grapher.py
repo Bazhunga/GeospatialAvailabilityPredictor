@@ -41,7 +41,8 @@ def get_ward_info_as_dict(df_wpop):
 
    return wi_dict
 
-def graph_ward_info(wi_dict, basePath, poptype):
+# Graph the distributions 
+def graph_ward_info(wi_dict, basePath, poptype): 
    directory = basePath + "/2011_ward_info_csv/2011_Ward_POP_by_" + poptype + "/"
 
    #TODO: NEED TO NORMALIZE 

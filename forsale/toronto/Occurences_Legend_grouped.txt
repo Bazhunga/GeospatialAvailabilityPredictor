@@ -1,0 +1,109 @@
+>>Household
+app: appliances by owner
+fuo: furniture - by owner
+hsd: household items - by dealer
+hsh: household items - by owner
+
+>>Collectibles
+atq: antiques - by owner
+clt: collectibles - by owner
+
+>>Arts and Crafts
+ard: arts and crafts by dealer
+art: arts & crafts - by owner
+
+>>Bikes
+bdp: bicycle parts - by dealer
+bid: bicycles - by dealer
+bik: bicycles - by owner
+bop: bicycle parts - by owner
+
+>>Child stuff
+bab: baby & kid stuff - by owner
+
+>>Cars
+ctd: cars & trucks - by dealer
+cto: cars & trucks - by owner
+
+>>Business
+bfs: business/commercial - by owner
+
+>>Books
+bkd: books & magazines - by dealer
+bks: books & magazines - by owner
+
+>>Boats
+boa: boats - by owner
+bpo: boat parts - by owner
+
+>>Clothing
+cld: clothing and accessories by dealer
+clo: clothing and accessories by owner
+
+>>Electronics
+eld: electronics - by dealer
+ele: electronics - by owwner
+emd: cds / dvds / vhs - by owner
+
+>>General
+fod: general for sale - by dealer
+for: general for sale by owner
+
+>>Farming
+grd: farm & garden - by owner
+grq: farm and garden by dealer
+
+>>Heath and Beauty
+hab: health and beauty - by owner
+had: health and beauty - by dealer
+
+>> Equipment
+hvo: heavy equipment - by owner
+
+>> Jewelry
+jwl: jewelry - by owner
+
+>> Materials
+mat: materials by owner
+
+>> Moterbikes
+mcy: motorcycles/scooters - by owner
+mpo: motorcycle parts - by owner
+
+>> Cellphones
+mob: cell phones - by owner
+mod: cell phones - by dealer
+
+>> Sports
+sgd: sporting goods - by dealer
+spo: sporting good by owner
+
+>> Autoparts
+ptd: auto parts by dealer
+pts: auto parts by owner
+wto: auto wheels & tires - by owner
+
+>> Photo/Video
+phd: photo/video - by dealer
+pho: photo/video - by owner
+
+>> Computer/parts
+sop: computer parts by owner
+syd: computers - by dealer
+sys: computers - by owner
+sdp: computer parts by dealer
+
+>> Recreational Vehicles
+rvs: rvs by owner
+snw: atvs, utvs, snowmobiles - by owner
+
+>> Tools
+tld: tools - by dealer
+tls: tools - by owner
+
+msg: musical instruments - by owner
+ppd: appliances by dealer
+tag: toys and games by owner
+tix: tix by owner
+vgm: video gaming by owner
+wan: wanted by owner
