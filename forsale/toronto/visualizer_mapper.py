@@ -8,7 +8,6 @@ from pandas.io.json import json_normalize
 
 # This file plots craigslist items on a map
 
-
 def debugItemDataPrint(item_data):
    print item_data
 

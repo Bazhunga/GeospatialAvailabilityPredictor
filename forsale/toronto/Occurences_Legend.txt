@@ -1,17 +1,23 @@
 app: appliances by owner
 ard: arts and crafts by dealer
 art: arts & crafts - by owner
+atd: antiques - by dealer
 atq: antiques - by owner
 bab: baby & kid stuff - by owner
+bad: baby & kid stuff - by dealer
+bar: barter
 bdp: bicycle parts - by dealer
+bfd: business/commercial - by dealer
 bfs: business/commercial - by owner
 bid: bicycles - by dealer
 bik: bicycles - by owner
 bkd: books & magazines - by dealer
 bks: books & magazines - by owner
 boa: boats - by owner
+bod: boats - by dealer
 bop: bicycle parts - by owner
 bpo: boat parts - by owner
+cbd: collectibles - by dealer
 cld: clothing and accessories by dealer
 clo: clothing and accessories by owner
 clt: collectibles - by owner
@@ -20,6 +26,7 @@ cto: cars & trucks - by owner
 eld: electronics - by dealer
 ele: electronics - by owwner
 emd: cds / dvds / vhs - by owner
+emq: cds / dvds / vhs - by dealer
 fod: general for sale - by dealer
 for: general for sale by owner
 fuo: furniture - by owner
@@ -29,13 +36,18 @@ hab: health and beauty - by owner
 had: health and beauty - by dealer
 hsd: household items - by dealer
 hsh: household items - by owner
+hvd: heavy equipment - by dealer
 hvo: heavy equipment - by owner
+jwd: jewelry - by dealer
 jwl: jewelry - by owner
+mad: materials - by dealer
 mat: materials by owner
+mcd: motorcycles/scooters - by dealer
 mcy: motorcycles/scooters - by owner
 mob: cell phones - by owner
 mod: cell phones - by dealer
 mpo: motorcycle parts - by owner
+msd: musical instruments - by dealer
 msg: musical instruments - by owner
 phd: photo/video - by dealer
 pho: photo/video - by owner
@@ -45,15 +57,22 @@ pts: auto parts by owner
 rvs: rvs by owner
 sdp: computer parts by dealer
 sgd: sporting goods - by dealer
+snd: atvs, utvs, snowmobiles - by dealer
 snw: atvs, utvs, snowmobiles - by owner
 sop: computer parts by owner
 spo: sporting good by owner
 syd: computers - by dealer
 sys: computers - by owner
+tad: toys & games - by dealer
 tag: toys and games by owner
 tix: tix by owner
 tld: tools - by dealer
 tls: tools - by owner
+tro: trailers - by owner
+vgd: video gaming - by dealer
 vgm: video gaming by owner
+wad: wanted - by dealer
 wan: wanted by owner
+wtd: auto wheels & tires - by dealer
 wto: auto wheels & tires - by owner
+zip: free stuff

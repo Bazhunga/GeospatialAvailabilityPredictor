@@ -9,6 +9,10 @@ import operator
 from haversine import *
 from pandas.io.json import json_normalize
 
+#============================================================
+# Kevin Zhu
+# Used to find the most common categories per ward 
+#============================================================
 def debugItemDataPrint(item_data):
    print item_data
 
