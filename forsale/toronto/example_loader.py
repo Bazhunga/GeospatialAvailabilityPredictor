@@ -33,14 +33,14 @@ age_group_order = ["0 to 4 years",
                   "80 to 84 years",
                   "85 years and over"]
                   
-a = np.load('ward_agegroup_training.npy').item()
-
-for ward in range(1, 44):
-   wardkey = "ward_" + str(ward)
-   for ag in age_group_order: 
-      print("Ward " + str(ward) + ": " + ag + " " + str(a[wardkey][ag]))
-
-# This is no longer useful
-# b = np.load('ward_most_common_targets.npy').item()
-# print(b)
-
+a = np.load('np_feature_list_wards.npy').item()
+print(a)
+# total = 0
+# for ward in range(1, 44):
+#    for topic in a[ward]:
+#       total = total + a[ward][topic]
+# print(total)
+   # wardkey = "ward_" + str(ward)
+   # for ag in age_group_order: 
+   #    print("Ward " + str(ward) + ": " + ag + " " + str(a[wardkey][ag]))
+   #    total = total + a[wardkey][ag]

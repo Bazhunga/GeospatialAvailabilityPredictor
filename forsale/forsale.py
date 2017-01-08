@@ -29,7 +29,7 @@ def main():
     f.write("\"" + area + "\":[")
     cl = CraigslistForSale(site='toronto', area=area, category='sss',
                     filters={'max_price': 4000, 'min_price': 0})
-    new_most_recent_item = printResults(latest_item_details, cl.get_results(sort_by='newest', geotagged=True, limit=3000));
+    new_most_recent_item = printResults(latest_item_details, cl.get_results(sort_by='newest', geotagged=True, limit=2500));
     # most_recent_file.write("}")
     # writeToMostRecentFile(area, new_most_recent_item)
     f.write("]")

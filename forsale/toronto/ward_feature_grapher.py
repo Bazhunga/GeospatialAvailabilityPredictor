@@ -10,6 +10,9 @@ import operator
 from haversine import *
 from pandas.io.json import json_normalize
 
+# Used to graph the distributions of people in each group for different
+# ward features (Agegroup, females, males, etc)
+
 def get_ward_info(basePath, feature_type):
    path = (basePath + "/2011_ward_info_csv/2011_Ward_POP_by_" + feature_type + ".csv")
    # print path
@@ -72,8 +75,8 @@ if __name__ == "__main__":
    # Usage
    # Put a csv file with the fn format being 2011_Ward_POP_by_<POPTYPE>.csv
    # Create a directory with fn format being 2011_Ward_POP_by_<POPTYPE>
-   # poptype = "agegroup"
-   poptype = "females"
+   poptype = "agegroup"
+   # poptype = "females"
    # poptype = "males"
    # poptype = "householdtype"
 
@@ -84,5 +87,5 @@ if __name__ == "__main__":
    # print(wi_dict)
    # graph_ward_info(wi_dict, basePath, poptype)
 
-   np.save("ward_"+poptype+"_training.npy", wi_dict)
+   # np.save("ward_"+poptype+"_training.npy", wi_dict)
 

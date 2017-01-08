@@ -13,6 +13,13 @@ from pandas.io.json import json_normalize
 # Kevin Zhu
 # Used to find the most common categories per ward 
 #============================================================
+
+#============================================================
+# Adjustable items
+#============================================================
+
+
+
 def debugItemDataPrint(item_data):
    print item_data
 
@@ -61,65 +68,84 @@ def get_empty_ward_dict(ward_centroid_dict):
    ward_category_dict = {}
    for key in ward_centroid_dict:
       ward_category_dict[key] = {
-      'app': 0,
-      'ard': 0,
-      'art': 0,
-      'atq': 0,
-      'bab': 0,
-      'bdp': 0,
-      'bfs': 0,
-      'bid': 0,
-      'bik': 0,
-      'bkd': 0,
-      'bks': 0,
-      'boa': 0,
-      'bop': 0,
-      'bpo': 0,
-      'cld': 0,
-      'clo': 0,
-      'clt': 0,
-      'ctd': 0,
-      'cto': 0,
-      'eld': 0,
-      'ele': 0,
-      'emd': 0,
-      'fod': 0,
-      'for': 0,
-      'fuo': 0,
-      'grd': 0,
-      'grq': 0,
-      'hab': 0,
-      'had': 0,
-      'hsd': 0,
-      'hsh': 0,
-      'hvo': 0,
-      'jwl': 0,
-      'mat': 0,
-      'mcy': 0,
-      'mob': 0,
-      'mod': 0,
-      'mpo': 0,
-      'msg': 0,
-      'phd': 0,
-      'pho': 0,
-      'ppd': 0,
-      'ptd': 0,
-      'pts': 0,
-      'rvs': 0,
-      'sdp': 0,
-      'sgd': 0,
-      'snw': 0,
-      'sop': 0,
-      'spo': 0,
-      'syd': 0,
-      'sys': 0,
-      'tag': 0,
-      'tix': 0,
-      'tld': 0,
-      'tls': 0,
-      'vgm': 0,
-      'wan': 0,
-      'wto': 0
+      "app":0,
+      "ard":0,
+      "art":0,
+      "atd":0,
+      "atq":0,
+      "bab":0,
+      "bad":0,
+      "bar":0,
+      "bdp":0,
+      "bfd":0,
+      "bfs":0,
+      "bid":0,
+      "bik":0,
+      "bkd":0,
+      "bks":0,
+      "boa":0,
+      "bod":0,
+      "bop":0,
+      "bpo":0,
+      "cbd":0,
+      "cld":0,
+      "clo":0,
+      "clt":0,
+      "ctd":0,
+      "cto":0,
+      "eld":0,
+      "ele":0,
+      "emd":0,
+      "emq":0,
+      "fod":0,
+      "for":0,
+      "fuo":0,
+      "grd":0,
+      "grq":0,
+      "hab":0,
+      "had":0,
+      "hsd":0,
+      "hsh":0,
+      "hvd":0,
+      "hvo":0,
+      "jwd":0,
+      "jwl":0,
+      "mad":0,
+      "mat":0,
+      "mcd":0,
+      "mcy":0,
+      "mob":0,
+      "mod":0,
+      "mpo":0,
+      "msd":0,
+      "msg":0,
+      "phd":0,
+      "pho":0,
+      "ppd":0,
+      "ptd":0,
+      "pts":0,
+      "rvs":0,
+      "sdp":0,
+      "sgd":0,
+      "snd":0,
+      "snw":0,
+      "sop":0,
+      "spo":0,
+      "syd":0,
+      "sys":0,
+      "tad":0,
+      "tag":0,
+      "tix":0,
+      "tld":0,
+      "tls":0,
+      "tro":0,
+      "vgd":0,
+      "vgm":0,
+      "wad":0,
+      "wan":0,
+      "wtd":0,
+      "wto":0,
+      "zip":0
    }
    # print ward_category_dict
    return ward_category_dict
@@ -168,7 +194,7 @@ def get_most_common_categories_per_ward(ward_centroid_dict, df_items):
          # No geotag. Skip this one
          pass_count += 1
          pass
-   # print("Passcount: " + str(pass_count))
+   print("Passcount: " + str(pass_count))
    return ward_category_dict
 
 def print_full(x):
@@ -192,7 +218,7 @@ def graph_occurences(oc_dict, ward_key, directory_to_save_to):
    #plt.show()
    # raw_input()
    # fig = plt.figure()
-   plt.savefig('Ward_' + str(ward_key)+".png")
+   plt.savefig(directory_to_save_to + 'Ward_' + str(ward_key)+".png")
 
 def normalize(oc_dict):
    total = 0.0;
@@ -280,22 +306,23 @@ if __name__ == "__main__":
       dataframelist.append(get_items_asdataframe("data/" + filename))
 
    df_items = pd.concat(dataframelist)
-   # print df_items.shape
 
+   # print df_items.shape
    # print_full(df_items)
 
    # FIND NEAREST NEIGHBOUR OF THE ITEM USING HAVERSINE
-   print "Working on the haversine boss."
+   print "Calculating the nearest neighbours."
    ward_category_dict = get_most_common_categories_per_ward(ward_centroid_dict, df_items)
 
    # >>>> Save the raw association of postings to ward
+   print("Saving raw association of postings to ward")
    ward_category_dict_to_npy(ward_category_dict)
 
    # >>>> Save the most common category
    # get_most_common_category_per_ward_as_dict(ward_category_dict)
 
    # >>>> Graphing the occurences
-   # png_folder = os.getcwd() + "/ward_cat_occurence_graphs"
+   # png_folder = os.getcwd() + "/ward_cat_occurence_graphs/"
    # for ward_key in ward_category_dict:
    #    temp_freq_dict = ward_category_dict.get(ward_key)
    #    graph_occurences(temp_freq_dict, ward_key, png_folder)

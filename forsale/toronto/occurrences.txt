@@ -1,0 +1,219 @@
+01_03_2017_03_00_01.json
+12_18_2016_03_00_02.json
+12_09_2016_03_00_01.json
+11_28_2016_02_00_02.json
+12_02_2016_03_00_01.json
+12_24_2016_03_00_02.json
+11_08_2016_02_00_05.json
+11_26_2016_18_33_33.json
+12_10_2016_03_00_02.json
+12_22_2016_03_00_01.json
+11_01_2016_21_43_48.json
+11_06_2016_14_07_53.json
+12_03_2016_03_00_01.json
+11_17_2016_02_00_01.json
+12_15_2016_03_00_02.json
+12_06_2016_03_00_02.json
+10_27_2016_09_54_33.json
+10_27_2016_19_41_39.json
+12_23_2016_03_00_01.json
+11_02_2016_20_17_25.json
+12_04_2016_03_00_02.json
+12_14_2016_03_00_02.json
+10_27_2016_23_03_20.json
+10_16_2016_04_00_04.json
+12_31_2016_03_00_01.json
+11_12_2016_12_25_01.json
+11_29_2016_02_00_05.json
+12_07_2016_03_00_01.json
+11_06_2016_14_08_47.json
+12_05_2016_03_00_01.json
+11_25_2016_02_00_03.json
+11_30_2016_03_00_02.json
+11_16_2016_02_00_01.json
+11_21_2016_02_00_04.json
+12_12_2016_03_00_01.json
+12_21_2016_03_00_02.json
+01_02_2017_03_00_02.json
+10_17_2016_04_00_03.json
+11_01_2016_02_00_03.json
+11_27_2016_02_00_02.json
+11_13_2016_02_00_01.json
+10_14_2016_04_00_08.json
+11_14_2016_02_00_03.json
+12_28_2016_03_00_01.json
+11_15_2016_02_00_10.json
+12_29_2016_03_00_01.json
+10_31_2016_02_00_06.json
+12_16_2016_03_00_01.json
+12_30_2016_03_00_01.json
+12_01_2016_03_00_01.json
+10_29_2016_02_00_05.json
+10_18_2016_04_00_03.json
+11_07_2016_02_00_04.json
+11_29_2016_03_00_03.json
+11_24_2016_02_00_02.json
+11_22_2016_02_00_03.json
+10_26_2016_22_10_09.json
+11_02_2016_02_00_04.json
+11_11_2016_02_00_05.json
+11_10_2016_02_00_09.json
+10_19_2016_18_17_46.json
+11_23_2016_02_00_01.json
+10_20_2016_20_56_28.json
+10_30_2016_02_00_06.json
+10_10_2016_17_33_21.json
+10_24_2016_18_17_59.json
+11_20_2016_02_00_05.json
+10_22_2016_11_47_41.json
+10_21_2016_01_15_27.json
+12_11_2016_03_00_01.json
+11_09_2016_02_00_04.json
+11_18_2016_02_00_01.json
+12_13_2016_03_00_01.json
+12_26_2016_03_00_01.json
+11_19_2016_02_00_05.json
+12_25_2016_03_00_02.json
+12_20_2016_03_00_02.json
+10_15_2016_04_00_04.json
+12_08_2016_03_00_01.json
+10_23_2016_23_49_21.json
+12_19_2016_03_00_01.json
+01_01_2017_03_00_01.json
+12_17_2016_03_00_01.json
+12_27_2016_03_00_01.json
+Working on the haversine boss.
+WARD CATEGORY DICTIONARY
+1: {'vgm': 0, 'art': 1, 'cbd': 0, 'ppd': 0, 'app': 3, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 1, 'tag': 4, 'ard': 0, 'spo': 11, 'sdp': 0, 'pts': 0, 'sgd': 0, 'mat': 1, 'fod': 0, 'clo': 6, 'tix': 20, 'hvo': 1, 'for': 8, 'bfd': 0, 'cld': 0, 'hab': 13, 'wad': 1, 'had': 0, 'eld': 0, 'ele': 17, 'bfs': 199, 'grd': 0, 'bdp': 0, 'clt': 0, 'emq': 0, 'mod': 0, 'hsh': 6, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 0, 'bik': 4, 'hsd': 10, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 3, 'phd': 0, 'sys': 5, 'msg': 7, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 2, 'mob': 5, 'wan': 0, 'fuo': 56, 'tls': 3, 'emd': 0, 'atd': 0, 'msd': 1, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 5, 'jwl': 0, 'atq': 12, 'boa': 0, 'cto': 1, 'bod': 0}
+2: {'vgm': 5, 'art': 5, 'cbd': 0, 'ppd': 135, 'app': 6, 'ptd': 2, 'hvd': 0, 'rvs': 0, 'sop': 7, 'tag': 41, 'ard': 0, 'spo': 76, 'sdp': 0, 'pts': 14, 'sgd': 0, 'mat': 21, 'fod': 1, 'clo': 81, 'tix': 11, 'hvo': 1, 'for': 12, 'bfd': 17, 'cld': 0, 'hab': 2, 'wad': 0, 'had': 0, 'eld': 1, 'ele': 49, 'bfs': 18, 'grd': 7, 'bdp': 0, 'clt': 34, 'emq': 0, 'mod': 0, 'hsh': 50, 'bkd': 0, 'snd': 0, 'tld': 119, 'pho': 27, 'bik': 9, 'hsd': 14, 'syd': 0, 'mpo': 0, 'bid': 9, 'mcd': 0, 'wto': 3, 'phd': 0, 'sys': 26, 'msg': 79, 'wtd': 1, 'mad': 76, 'mcy': 0, 'bks': 21, 'mob': 45, 'wan': 2, 'fuo': 60, 'tls': 56, 'emd': 5, 'atd': 2, 'msd': 94, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 44, 'vgd': 0, 'bad': 2, 'tad': 48, 'bab': 28, 'jwl': 23, 'atq': 70, 'boa': 0, 'cto': 5, 'bod': 3}
+3: {'vgm': 2, 'art': 4, 'cbd': 0, 'ppd': 0, 'app': 3, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 9, 'tag': 2, 'ard': 0, 'spo': 23, 'sdp': 0, 'pts': 2, 'sgd': 0, 'mat': 3, 'fod': 0, 'clo': 36, 'tix': 3, 'hvo': 0, 'for': 3, 'bfd': 0, 'cld': 0, 'hab': 2, 'wad': 0, 'had': 0, 'eld': 2, 'ele': 36, 'bfs': 0, 'grd': 0, 'bdp': 0, 'clt': 5, 'emq': 0, 'mod': 0, 'hsh': 40, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 5, 'bik': 1, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 0, 'phd': 0, 'sys': 1, 'msg': 9, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 11, 'mob': 18, 'wan': 0, 'fuo': 76, 'tls': 0, 'emd': 2, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 22, 'jwl': 9, 'atq': 19, 'boa': 0, 'cto': 3, 'bod': 0}
+4: {'vgm': 27, 'art': 13, 'cbd': 0, 'ppd': 0, 'app': 6, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 16, 'tag': 45, 'ard': 0, 'spo': 43, 'sdp': 0, 'pts': 5, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 99, 'tix': 46, 'hvo': 0, 'for': 31, 'bfd': 0, 'cld': 0, 'hab': 5, 'wad': 0, 'had': 3, 'eld': 0, 'ele': 42, 'bfs': 9, 'grd': 3, 'bdp': 0, 'clt': 136, 'emq': 0, 'mod': 0, 'hsh': 118, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 9, 'bik': 4, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 9, 'phd': 0, 'sys': 4, 'msg': 79, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 40, 'mob': 5, 'wan': 2, 'fuo': 125, 'tls': 3, 'emd': 81, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 2, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 63, 'jwl': 5, 'atq': 34, 'boa': 0, 'cto': 2, 'bod': 0}
+5: {'vgm': 8, 'art': 28, 'cbd': 8, 'ppd': 0, 'app': 50, 'ptd': 0, 'hvd': 0, 'rvs': 2, 'sop': 19, 'tag': 87, 'ard': 0, 'spo': 197, 'sdp': 1, 'pts': 173, 'sgd': 8, 'mat': 3, 'fod': 5, 'clo': 52, 'tix': 15, 'hvo': 3, 'for': 67, 'bfd': 1, 'cld': 0, 'hab': 76, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 69, 'bfs': 48, 'grd': 135, 'bdp': 6, 'clt': 88, 'emq': 2, 'mod': 0, 'hsh': 133, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 9, 'bik': 27, 'hsd': 2, 'syd': 0, 'mpo': 38, 'bid': 24, 'mcd': 0, 'wto': 18, 'phd': 0, 'sys': 14, 'msg': 85, 'wtd': 0, 'mad': 0, 'mcy': 12, 'bks': 16, 'mob': 13, 'wan': 1, 'fuo': 180, 'tls': 41, 'emd': 11, 'atd': 0, 'msd': 1, 'bar': 0, 'zip': 0, 'tro': 8, 'snw': 8, 'bop': 21, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 6, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 99, 'jwl': 55, 'atq': 36, 'boa': 7, 'cto': 5, 'bod': 0}
+6: {'vgm': 0, 'art': 0, 'cbd': 0, 'ppd': 0, 'app': 30, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 19, 'tag': 1, 'ard': 0, 'spo': 17, 'sdp': 9, 'pts': 10, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 38, 'tix': 5, 'hvo': 0, 'for': 15, 'bfd': 0, 'cld': 0, 'hab': 8, 'wad': 0, 'had': 2, 'eld': 37, 'ele': 18, 'bfs': 4, 'grd': 1, 'bdp': 0, 'clt': 1, 'emq': 0, 'mod': 229, 'hsh': 10, 'bkd': 0, 'snd': 1, 'tld': 0, 'pho': 1, 'bik': 0, 'hsd': 6, 'syd': 397, 'mpo': 0, 'bid': 1, 'mcd': 2, 'wto': 7, 'phd': 0, 'sys': 3, 'msg': 2, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 0, 'mob': 2, 'wan': 1, 'fuo': 17, 'tls': 1, 'emd': 3, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 1, 'bpo': 0, 'ctd': 35, 'vgd': 0, 'bad': 0, 'tad': 3, 'bab': 6, 'jwl': 4, 'atq': 1, 'boa': 0, 'cto': 3, 'bod': 2}
+7: {'vgm': 4, 'art': 7, 'cbd': 0, 'ppd': 3, 'app': 23, 'ptd': 93, 'hvd': 11, 'rvs': 0, 'sop': 12, 'tag': 7, 'ard': 0, 'spo': 38, 'sdp': 5, 'pts': 38, 'sgd': 0, 'mat': 38, 'fod': 14, 'clo': 70, 'tix': 12, 'hvo': 0, 'for': 37, 'bfd': 46, 'cld': 0, 'hab': 44, 'wad': 0, 'had': 0, 'eld': 4, 'ele': 29, 'bfs': 31, 'grd': 0, 'bdp': 0, 'clt': 36, 'emq': 0, 'mod': 0, 'hsh': 23, 'bkd': 0, 'snd': 0, 'tld': 72, 'pho': 9, 'bik': 7, 'hsd': 15, 'syd': 42, 'mpo': 6, 'bid': 0, 'mcd': 0, 'wto': 16, 'phd': 2, 'sys': 15, 'msg': 23, 'wtd': 0, 'mad': 7, 'mcy': 0, 'bks': 5, 'mob': 10, 'wan': 2, 'fuo': 51, 'tls': 57, 'emd': 4, 'atd': 0, 'msd': 9, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 3, 'bpo': 0, 'ctd': 38, 'vgd': 6, 'bad': 0, 'tad': 0, 'bab': 36, 'jwl': 87, 'atq': 0, 'boa': 0, 'cto': 8, 'bod': 0}
+8: {'vgm': 0, 'art': 0, 'cbd': 0, 'ppd': 0, 'app': 0, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 17, 'tag': 2, 'ard': 0, 'spo': 2, 'sdp': 0, 'pts': 3, 'sgd': 0, 'mat': 1, 'fod': 0, 'clo': 1, 'tix': 4, 'hvo': 0, 'for': 3, 'bfd': 0, 'cld': 0, 'hab': 0, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 15, 'bfs': 0, 'grd': 0, 'bdp': 0, 'clt': 4, 'emq': 0, 'mod': 0, 'hsh': 3, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 29, 'bik': 1, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 5, 'phd': 30, 'sys': 45, 'msg': 2, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 7, 'mob': 1, 'wan': 0, 'fuo': 11, 'tls': 8, 'emd': 1, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 1, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 0, 'jwl': 0, 'atq': 4, 'boa': 1, 'cto': 1, 'bod': 0}
+9: {'vgm': 0, 'art': 21, 'cbd': 0, 'ppd': 0, 'app': 17, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 13, 'tag': 24, 'ard': 0, 'spo': 14, 'sdp': 0, 'pts': 5, 'sgd': 0, 'mat': 10, 'fod': 0, 'clo': 59, 'tix': 7, 'hvo': 0, 'for': 18, 'bfd': 1, 'cld': 0, 'hab': 12, 'wad': 0, 'had': 0, 'eld': 6, 'ele': 208, 'bfs': 13, 'grd': 1, 'bdp': 0, 'clt': 23, 'emq': 0, 'mod': 0, 'hsh': 144, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 6, 'bik': 4, 'hsd': 0, 'syd': 0, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 3, 'phd': 0, 'sys': 13, 'msg': 2, 'wtd': 0, 'mad': 15, 'mcy': 0, 'bks': 21, 'mob': 36, 'wan': 0, 'fuo': 111, 'tls': 2, 'emd': 1, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 5, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 2, 'bab': 51, 'jwl': 4, 'atq': 7, 'boa': 0, 'cto': 3, 'bod': 0}
+10: {'vgm': 3, 'art': 6, 'cbd': 0, 'ppd': 0, 'app': 8, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 2, 'tag': 187, 'ard': 0, 'spo': 58, 'sdp': 0, 'pts': 4, 'sgd': 0, 'mat': 2, 'fod': 0, 'clo': 189, 'tix': 1, 'hvo': 0, 'for': 22, 'bfd': 0, 'cld': 0, 'hab': 71, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 22, 'bfs': 2, 'grd': 3, 'bdp': 0, 'clt': 93, 'emq': 0, 'mod': 0, 'hsh': 83, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 5, 'bik': 5, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 8, 'phd': 0, 'sys': 6, 'msg': 10, 'wtd': 0, 'mad': 0, 'mcy': 2, 'bks': 1, 'mob': 5, 'wan': 1, 'fuo': 82, 'tls': 121, 'emd': 1, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 1, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 34, 'jwl': 1, 'atq': 9, 'boa': 0, 'cto': 10, 'bod': 0}
+11: {'vgm': 1, 'art': 0, 'cbd': 0, 'ppd': 0, 'app': 4, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 5, 'tag': 0, 'ard': 0, 'spo': 18, 'sdp': 0, 'pts': 3, 'sgd': 0, 'mat': 1, 'fod': 13, 'clo': 25, 'tix': 3, 'hvo': 0, 'for': 2, 'bfd': 0, 'cld': 0, 'hab': 0, 'wad': 6, 'had': 0, 'eld': 0, 'ele': 41, 'bfs': 3, 'grd': 4, 'bdp': 0, 'clt': 34, 'emq': 0, 'mod': 0, 'hsh': 5, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 6, 'bik': 0, 'hsd': 1, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 3, 'phd': 0, 'sys': 4, 'msg': 6, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 39, 'mob': 6, 'wan': 0, 'fuo': 17, 'tls': 0, 'emd': 0, 'atd': 0, 'msd': 1, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 19, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 5, 'jwl': 0, 'atq': 7, 'boa': 0, 'cto': 3, 'bod': 0}
+12: {'vgm': 10, 'art': 50, 'cbd': 0, 'ppd': 0, 'app': 18, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 64, 'tag': 34, 'ard': 0, 'spo': 40, 'sdp': 0, 'pts': 8, 'sgd': 0, 'mat': 2, 'fod': 1, 'clo': 106, 'tix': 18, 'hvo': 0, 'for': 69, 'bfd': 0, 'cld': 0, 'hab': 8, 'wad': 0, 'had': 0, 'eld': 7, 'ele': 91, 'bfs': 2, 'grd': 0, 'bdp': 0, 'clt': 97, 'emq': 0, 'mod': 0, 'hsh': 120, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 27, 'bik': 130, 'hsd': 1, 'syd': 19, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 29, 'phd': 0, 'sys': 70, 'msg': 173, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 33, 'mob': 62, 'wan': 6, 'fuo': 203, 'tls': 11, 'emd': 12, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 13, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 17, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 52, 'jwl': 16, 'atq': 38, 'boa': 0, 'cto': 6, 'bod': 0}
+13: {'vgm': 11, 'art': 25, 'cbd': 0, 'ppd': 0, 'app': 13, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 15, 'tag': 22, 'ard': 0, 'spo': 25, 'sdp': 0, 'pts': 4, 'sgd': 0, 'mat': 4, 'fod': 7, 'clo': 134, 'tix': 10, 'hvo': 3, 'for': 44, 'bfd': 0, 'cld': 2, 'hab': 22, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 47, 'bfs': 6, 'grd': 2, 'bdp': 0, 'clt': 93, 'emq': 0, 'mod': 0, 'hsh': 205, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 22, 'bik': 10, 'hsd': 0, 'syd': 3, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 5, 'phd': 0, 'sys': 20, 'msg': 51, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 102, 'mob': 20, 'wan': 1, 'fuo': 178, 'tls': 3, 'emd': 87, 'atd': 0, 'msd': 8, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 1, 'bop': 12, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 16, 'jwl': 5, 'atq': 26, 'boa': 4, 'cto': 16, 'bod': 0}
+14: {'vgm': 1, 'art': 0, 'cbd': 0, 'ppd': 0, 'app': 13, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 3, 'tag': 7, 'ard': 0, 'spo': 26, 'sdp': 0, 'pts': 3, 'sgd': 0, 'mat': 3, 'fod': 0, 'clo': 15, 'tix': 2, 'hvo': 4, 'for': 23, 'bfd': 0, 'cld': 0, 'hab': 1, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 9, 'bfs': 1, 'grd': 11, 'bdp': 0, 'clt': 19, 'emq': 0, 'mod': 0, 'hsh': 102, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 79, 'bik': 8, 'hsd': 6, 'syd': 0, 'mpo': 0, 'bid': 18, 'mcd': 0, 'wto': 5, 'phd': 0, 'sys': 11, 'msg': 48, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 14, 'mob': 11, 'wan': 1, 'fuo': 28, 'tls': 7, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 1, 'jwl': 58, 'atq': 11, 'boa': 0, 'cto': 14, 'bod': 0}
+15: {'vgm': 1, 'art': 41, 'cbd': 0, 'ppd': 0, 'app': 9, 'ptd': 5, 'hvd': 0, 'rvs': 0, 'sop': 6, 'tag': 22, 'ard': 0, 'spo': 126, 'sdp': 6, 'pts': 9, 'sgd': 0, 'mat': 26, 'fod': 0, 'clo': 33, 'tix': 16, 'hvo': 1, 'for': 745, 'bfd': 0, 'cld': 4, 'hab': 1, 'wad': 0, 'had': 0, 'eld': 11, 'ele': 32, 'bfs': 0, 'grd': 103, 'bdp': 0, 'clt': 105, 'emq': 0, 'mod': 0, 'hsh': 254, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 19, 'bik': 14, 'hsd': 0, 'syd': 93, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 4, 'phd': 0, 'sys': 3, 'msg': 82, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 91, 'mob': 11, 'wan': 1, 'fuo': 204, 'tls': 27, 'emd': 11, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 139, 'jwl': 1, 'atq': 133, 'boa': 0, 'cto': 4, 'bod': 0}
+16: {'vgm': 47, 'art': 10, 'cbd': 0, 'ppd': 0, 'app': 14, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 78, 'tag': 25, 'ard': 0, 'spo': 40, 'sdp': 49, 'pts': 17, 'sgd': 0, 'mat': 4, 'fod': 0, 'clo': 145, 'tix': 2, 'hvo': 2, 'for': 18, 'bfd': 0, 'cld': 20, 'hab': 16, 'wad': 0, 'had': 0, 'eld': 32, 'ele': 74, 'bfs': 34, 'grd': 9, 'bdp': 0, 'clt': 50, 'emq': 0, 'mod': 25, 'hsh': 138, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 48, 'bik': 87, 'hsd': 1, 'syd': 55, 'mpo': 3, 'bid': 0, 'mcd': 0, 'wto': 13, 'phd': 0, 'sys': 26, 'msg': 44, 'wtd': 0, 'mad': 0, 'mcy': 3, 'bks': 33, 'mob': 15, 'wan': 1, 'fuo': 184, 'tls': 87, 'emd': 1, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 10, 'jwd': 0, 'grq': 0, 'bpo': 38, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 163, 'jwl': 0, 'atq': 13, 'boa': 1, 'cto': 0, 'bod': 0}
+17: {'vgm': 25, 'art': 48, 'cbd': 0, 'ppd': 1, 'app': 58, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 24, 'tag': 152, 'ard': 0, 'spo': 16, 'sdp': 0, 'pts': 3, 'sgd': 1, 'mat': 9, 'fod': 10, 'clo': 182, 'tix': 24, 'hvo': 0, 'for': 66, 'bfd': 0, 'cld': 2, 'hab': 19, 'wad': 0, 'had': 0, 'eld': 1, 'ele': 120, 'bfs': 7, 'grd': 3, 'bdp': 0, 'clt': 395, 'emq': 0, 'mod': 2, 'hsh': 314, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 32, 'bik': 136, 'hsd': 0, 'syd': 2, 'mpo': 1, 'bid': 0, 'mcd': 1, 'wto': 11, 'phd': 0, 'sys': 30, 'msg': 88, 'wtd': 0, 'mad': 1, 'mcy': 0, 'bks': 68, 'mob': 34, 'wan': 1, 'fuo': 430, 'tls': 10, 'emd': 23, 'atd': 0, 'msd': 2, 'bar': 0, 'zip': 1, 'tro': 0, 'snw': 0, 'bop': 48, 'jwd': 0, 'grq': 2, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 24, 'jwl': 18, 'atq': 557, 'boa': 0, 'cto': 10, 'bod': 0}
+18: {'vgm': 28, 'art': 35, 'cbd': 0, 'ppd': 0, 'app': 48, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 24, 'tag': 16, 'ard': 0, 'spo': 72, 'sdp': 0, 'pts': 11, 'sgd': 0, 'mat': 13, 'fod': 10, 'clo': 172, 'tix': 29, 'hvo': 0, 'for': 74, 'bfd': 0, 'cld': 0, 'hab': 27, 'wad': 4, 'had': 0, 'eld': 0, 'ele': 89, 'bfs': 5, 'grd': 5, 'bdp': 0, 'clt': 15, 'emq': 0, 'mod': 1, 'hsh': 171, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 52, 'bik': 55, 'hsd': 0, 'syd': 28, 'mpo': 4, 'bid': 0, 'mcd': 0, 'wto': 12, 'phd': 0, 'sys': 28, 'msg': 164, 'wtd': 0, 'mad': 0, 'mcy': 3, 'bks': 17, 'mob': 62, 'wan': 2, 'fuo': 610, 'tls': 52, 'emd': 10, 'atd': 0, 'msd': 1, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 7, 'jwd': 0, 'grq': 0, 'bpo': 2, 'ctd': 0, 'vgd': 1, 'bad': 0, 'tad': 0, 'bab': 30, 'jwl': 8, 'atq': 25, 'boa': 0, 'cto': 14, 'bod': 0}
+19: {'vgm': 53, 'art': 66, 'cbd': 0, 'ppd': 0, 'app': 54, 'ptd': 2, 'hvd': 0, 'rvs': 1, 'sop': 84, 'tag': 29, 'ard': 0, 'spo': 131, 'sdp': 12, 'pts': 13, 'sgd': 0, 'mat': 20, 'fod': 10, 'clo': 549, 'tix': 103, 'hvo': 0, 'for': 174, 'bfd': 0, 'cld': 1, 'hab': 29, 'wad': 93, 'had': 3, 'eld': 7, 'ele': 344, 'bfs': 27, 'grd': 7, 'bdp': 0, 'clt': 65, 'emq': 0, 'mod': 759, 'hsh': 251, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 94, 'bik': 86, 'hsd': 2, 'syd': 12, 'mpo': 2, 'bid': 7, 'mcd': 3, 'wto': 53, 'phd': 0, 'sys': 121, 'msg': 131, 'wtd': 0, 'mad': 0, 'mcy': 2, 'bks': 171, 'mob': 230, 'wan': 21, 'fuo': 342, 'tls': 10, 'emd': 16, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 29, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 57, 'jwl': 64, 'atq': 14, 'boa': 0, 'cto': 9, 'bod': 0}
+20: {'vgm': 9, 'art': 49, 'cbd': 0, 'ppd': 0, 'app': 10, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 4, 'tag': 42, 'ard': 0, 'spo': 31, 'sdp': 2, 'pts': 3, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 124, 'tix': 19, 'hvo': 1, 'for': 70, 'bfd': 0, 'cld': 0, 'hab': 8, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 38, 'bfs': 5, 'grd': 38, 'bdp': 0, 'clt': 64, 'emq': 0, 'mod': 0, 'hsh': 44, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 14, 'bik': 62, 'hsd': 2, 'syd': 0, 'mpo': 4, 'bid': 0, 'mcd': 0, 'wto': 7, 'phd': 0, 'sys': 13, 'msg': 51, 'wtd': 0, 'mad': 0, 'mcy': 3, 'bks': 13, 'mob': 3, 'wan': 1, 'fuo': 213, 'tls': 2, 'emd': 4, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 4, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 20, 'jwl': 16, 'atq': 85, 'boa': 0, 'cto': 7, 'bod': 0}
+21: {'vgm': 25, 'art': 10, 'cbd': 0, 'ppd': 0, 'app': 60, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 15, 'tag': 44, 'ard': 0, 'spo': 50, 'sdp': 0, 'pts': 6, 'sgd': 0, 'mat': 6, 'fod': 0, 'clo': 123, 'tix': 54, 'hvo': 1, 'for': 44, 'bfd': 0, 'cld': 6, 'hab': 36, 'wad': 0, 'had': 0, 'eld': 5, 'ele': 112, 'bfs': 6, 'grd': 0, 'bdp': 0, 'clt': 27, 'emq': 0, 'mod': 0, 'hsh': 94, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 35, 'bik': 25, 'hsd': 0, 'syd': 1, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 7, 'phd': 901, 'sys': 40, 'msg': 58, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 12, 'mob': 38, 'wan': 4, 'fuo': 205, 'tls': 10, 'emd': 4, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 3, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 76, 'jwl': 22, 'atq': 19, 'boa': 0, 'cto': 9, 'bod': 0}
+22: {'vgm': 37, 'art': 60, 'cbd': 0, 'ppd': 0, 'app': 51, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 63, 'tag': 9, 'ard': 0, 'spo': 67, 'sdp': 0, 'pts': 27, 'sgd': 0, 'mat': 31, 'fod': 3, 'clo': 261, 'tix': 13, 'hvo': 4, 'for': 50, 'bfd': 0, 'cld': 0, 'hab': 27, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 101, 'bfs': 14, 'grd': 7, 'bdp': 0, 'clt': 57, 'emq': 0, 'mod': 0, 'hsh': 207, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 40, 'bik': 114, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 22, 'phd': 0, 'sys': 83, 'msg': 71, 'wtd': 0, 'mad': 0, 'mcy': 2, 'bks': 11, 'mob': 80, 'wan': 0, 'fuo': 198, 'tls': 8, 'emd': 10, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 38, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 56, 'jwl': 36, 'atq': 78, 'boa': 0, 'cto': 7, 'bod': 0}
+23: {'vgm': 22, 'art': 29, 'cbd': 0, 'ppd': 306, 'app': 11, 'ptd': 2, 'hvd': 0, 'rvs': 0, 'sop': 72, 'tag': 15, 'ard': 0, 'spo': 34, 'sdp': 0, 'pts': 21, 'sgd': 0, 'mat': 4, 'fod': 1, 'clo': 65, 'tix': 3, 'hvo': 0, 'for': 29, 'bfd': 0, 'cld': 24, 'hab': 12, 'wad': 0, 'had': 0, 'eld': 18, 'ele': 107, 'bfs': 6, 'grd': 1, 'bdp': 0, 'clt': 164, 'emq': 0, 'mod': 0, 'hsh': 32, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 16, 'bik': 78, 'hsd': 0, 'syd': 0, 'mpo': 4, 'bid': 0, 'mcd': 0, 'wto': 10, 'phd': 125, 'sys': 15, 'msg': 18, 'wtd': 0, 'mad': 0, 'mcy': 2, 'bks': 36, 'mob': 64, 'wan': 2, 'fuo': 107, 'tls': 14, 'emd': 41, 'atd': 0, 'msd': 3, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 1, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 1, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 16, 'jwl': 5, 'atq': 17, 'boa': 0, 'cto': 4, 'bod': 0}
+24: {'vgm': 0, 'art': 7, 'cbd': 0, 'ppd': 0, 'app': 1, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 2, 'tag': 0, 'ard': 0, 'spo': 5, 'sdp': 0, 'pts': 4, 'sgd': 0, 'mat': 2, 'fod': 0, 'clo': 5, 'tix': 2, 'hvo': 0, 'for': 11, 'bfd': 0, 'cld': 0, 'hab': 1, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 1, 'bfs': 1, 'grd': 0, 'bdp': 0, 'clt': 4, 'emq': 0, 'mod': 0, 'hsh': 17, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 19, 'bik': 0, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 0, 'phd': 0, 'sys': 5, 'msg': 32, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 1, 'mob': 18, 'wan': 0, 'fuo': 131, 'tls': 0, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 7, 'jwl': 9, 'atq': 0, 'boa': 0, 'cto': 2, 'bod': 0}
+25: {'vgm': 29, 'art': 8, 'cbd': 0, 'ppd': 0, 'app': 26, 'ptd': 0, 'hvd': 2, 'rvs': 0, 'sop': 33, 'tag': 42, 'ard': 0, 'spo': 65, 'sdp': 0, 'pts': 18, 'sgd': 0, 'mat': 0, 'fod': 7, 'clo': 47, 'tix': 40, 'hvo': 0, 'for': 22, 'bfd': 10, 'cld': 0, 'hab': 30, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 227, 'bfs': 10, 'grd': 1, 'bdp': 0, 'clt': 45, 'emq': 5, 'mod': 0, 'hsh': 26, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 25, 'bik': 28, 'hsd': 0, 'syd': 0, 'mpo': 5, 'bid': 0, 'mcd': 0, 'wto': 15, 'phd': 0, 'sys': 33, 'msg': 30, 'wtd': 0, 'mad': 54, 'mcy': 0, 'bks': 54, 'mob': 16, 'wan': 3, 'fuo': 70, 'tls': 17, 'emd': 62, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 29, 'jwl': 1, 'atq': 34, 'boa': 0, 'cto': 3, 'bod': 0}
+26: {'vgm': 16, 'art': 36, 'cbd': 0, 'ppd': 0, 'app': 79, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 25, 'tag': 25, 'ard': 0, 'spo': 36, 'sdp': 0, 'pts': 3, 'sgd': 0, 'mat': 4, 'fod': 1, 'clo': 276, 'tix': 102, 'hvo': 0, 'for': 111, 'bfd': 0, 'cld': 0, 'hab': 47, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 150, 'bfs': 5, 'grd': 5, 'bdp': 0, 'clt': 41, 'emq': 0, 'mod': 0, 'hsh': 206, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 36, 'bik': 49, 'hsd': 0, 'syd': 0, 'mpo': 2, 'bid': 0, 'mcd': 0, 'wto': 9, 'phd': 2, 'sys': 48, 'msg': 85, 'wtd': 0, 'mad': 0, 'mcy': 3, 'bks': 77, 'mob': 94, 'wan': 0, 'fuo': 406, 'tls': 11, 'emd': 14, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 9, 'jwd': 0, 'grq': 0, 'bpo': 18, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 12, 'jwl': 51, 'atq': 68, 'boa': 0, 'cto': 4, 'bod': 0}
+27: {'vgm': 16, 'art': 50, 'cbd': 0, 'ppd': 0, 'app': 16, 'ptd': 2, 'hvd': 0, 'rvs': 0, 'sop': 32, 'tag': 92, 'ard': 0, 'spo': 23, 'sdp': 0, 'pts': 0, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 237, 'tix': 179, 'hvo': 0, 'for': 59, 'bfd': 5, 'cld': 1, 'hab': 40, 'wad': 0, 'had': 3, 'eld': 0, 'ele': 104, 'bfs': 1, 'grd': 5, 'bdp': 0, 'clt': 81, 'emq': 0, 'mod': 0, 'hsh': 124, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 110, 'bik': 42, 'hsd': 6, 'syd': 0, 'mpo': 0, 'bid': 2, 'mcd': 0, 'wto': 1, 'phd': 0, 'sys': 60, 'msg': 50, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 142, 'mob': 62, 'wan': 1, 'fuo': 198, 'tls': 6, 'emd': 5, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 26, 'jwl': 12, 'atq': 87, 'boa': 0, 'cto': 5, 'bod': 0}
+28: {'vgm': 9, 'art': 30, 'cbd': 0, 'ppd': 0, 'app': 21, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 44, 'tag': 68, 'ard': 0, 'spo': 55, 'sdp': 3, 'pts': 5, 'sgd': 0, 'mat': 10, 'fod': 0, 'clo': 102, 'tix': 7, 'hvo': 1, 'for': 51, 'bfd': 5, 'cld': 16, 'hab': 11, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 74, 'bfs': 6, 'grd': 1, 'bdp': 0, 'clt': 43, 'emq': 0, 'mod': 0, 'hsh': 118, 'bkd': 4, 'snd': 0, 'tld': 0, 'pho': 133, 'bik': 32, 'hsd': 1, 'syd': 22, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 9, 'phd': 0, 'sys': 65, 'msg': 22, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 51, 'mob': 25, 'wan': 0, 'fuo': 132, 'tls': 19, 'emd': 19, 'atd': 1, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 1, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 1, 'bad': 0, 'tad': 0, 'bab': 61, 'jwl': 42, 'atq': 139, 'boa': 0, 'cto': 10, 'bod': 0}
+29: {'vgm': 17, 'art': 17, 'cbd': 0, 'ppd': 0, 'app': 20, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 20, 'tag': 8, 'ard': 0, 'spo': 11, 'sdp': 3, 'pts': 7, 'sgd': 0, 'mat': 4, 'fod': 14, 'clo': 93, 'tix': 10, 'hvo': 1, 'for': 35, 'bfd': 0, 'cld': 0, 'hab': 18, 'wad': 0, 'had': 0, 'eld': 12, 'ele': 154, 'bfs': 10, 'grd': 3, 'bdp': 0, 'clt': 47, 'emq': 0, 'mod': 0, 'hsh': 74, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 14, 'bik': 42, 'hsd': 0, 'syd': 44, 'mpo': 4, 'bid': 0, 'mcd': 0, 'wto': 4, 'phd': 28, 'sys': 40, 'msg': 88, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 2, 'mob': 39, 'wan': 1, 'fuo': 132, 'tls': 8, 'emd': 4, 'atd': 0, 'msd': 0, 'bar': 1, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 21, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 12, 'jwl': 9, 'atq': 13, 'boa': 0, 'cto': 6, 'bod': 0}
+30: {'vgm': 21, 'art': 3, 'cbd': 2, 'ppd': 0, 'app': 2, 'ptd': 5, 'hvd': 0, 'rvs': 0, 'sop': 8, 'tag': 9, 'ard': 0, 'spo': 4, 'sdp': 0, 'pts': 4, 'sgd': 0, 'mat': 2, 'fod': 1, 'clo': 28, 'tix': 6, 'hvo': 0, 'for': 23, 'bfd': 0, 'cld': 1, 'hab': 8, 'wad': 0, 'had': 0, 'eld': 2, 'ele': 37, 'bfs': 1, 'grd': 2, 'bdp': 0, 'clt': 29, 'emq': 7, 'mod': 0, 'hsh': 18, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 20, 'bik': 23, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 4, 'phd': 0, 'sys': 16, 'msg': 15, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 43, 'mob': 68, 'wan': 2, 'fuo': 63, 'tls': 15, 'emd': 4, 'atd': 0, 'msd': 1, 'bar': 0, 'zip': 0, 'tro': 1, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 36, 'jwl': 6, 'atq': 14, 'boa': 0, 'cto': 8, 'bod': 0}
+31: {'vgm': 3, 'art': 36, 'cbd': 0, 'ppd': 0, 'app': 18, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 15, 'tag': 67, 'ard': 0, 'spo': 31, 'sdp': 0, 'pts': 8, 'sgd': 0, 'mat': 2, 'fod': 30, 'clo': 60, 'tix': 14, 'hvo': 0, 'for': 28, 'bfd': 10, 'cld': 749, 'hab': 9, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 63, 'bfs': 25, 'grd': 15, 'bdp': 0, 'clt': 195, 'emq': 0, 'mod': 0, 'hsh': 120, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 32, 'bik': 45, 'hsd': 0, 'syd': 8, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 16, 'phd': 0, 'sys': 5, 'msg': 43, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 5, 'mob': 26, 'wan': 2, 'fuo': 325, 'tls': 6, 'emd': 13, 'atd': 1, 'msd': 4, 'bar': 0, 'zip': 0, 'tro': 3, 'snw': 0, 'bop': 13, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 25, 'jwl': 13, 'atq': 65, 'boa': 0, 'cto': 3, 'bod': 0}
+32: {'vgm': 5, 'art': 16, 'cbd': 0, 'ppd': 0, 'app': 14, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 45, 'tag': 27, 'ard': 0, 'spo': 17, 'sdp': 0, 'pts': 5, 'sgd': 0, 'mat': 1, 'fod': 1, 'clo': 119, 'tix': 3, 'hvo': 0, 'for': 65, 'bfd': 0, 'cld': 0, 'hab': 15, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 41, 'bfs': 14, 'grd': 1, 'bdp': 0, 'clt': 146, 'emq': 0, 'mod': 0, 'hsh': 231, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 66, 'bik': 88, 'hsd': 1, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 6, 'phd': 0, 'sys': 42, 'msg': 35, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 162, 'mob': 25, 'wan': 1, 'fuo': 223, 'tls': 6, 'emd': 1, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 5, 'jwd': 4, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 6, 'bab': 20, 'jwl': 15, 'atq': 23, 'boa': 0, 'cto': 14, 'bod': 0}
+33: {'vgm': 4, 'art': 7, 'cbd': 0, 'ppd': 0, 'app': 12, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 14, 'tag': 1, 'ard': 0, 'spo': 26, 'sdp': 0, 'pts': 19, 'sgd': 0, 'mat': 5, 'fod': 0, 'clo': 169, 'tix': 4, 'hvo': 0, 'for': 29, 'bfd': 0, 'cld': 0, 'hab': 8, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 22, 'bfs': 7, 'grd': 4, 'bdp': 0, 'clt': 15, 'emq': 0, 'mod': 0, 'hsh': 11, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 27, 'bik': 4, 'hsd': 0, 'syd': 0, 'mpo': 2, 'bid': 0, 'mcd': 0, 'wto': 7, 'phd': 0, 'sys': 16, 'msg': 17, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 4, 'mob': 16, 'wan': 0, 'fuo': 24, 'tls': 8, 'emd': 2, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 2, 'jwl': 1, 'atq': 3, 'boa': 0, 'cto': 3, 'bod': 0}
+34: {'vgm': 5, 'art': 1, 'cbd': 0, 'ppd': 0, 'app': 39, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 0, 'tag': 0, 'ard': 0, 'spo': 1, 'sdp': 0, 'pts': 3, 'sgd': 0, 'mat': 0, 'fod': 1, 'clo': 36, 'tix': 11, 'hvo': 0, 'for': 16, 'bfd': 0, 'cld': 0, 'hab': 25, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 4, 'bfs': 0, 'grd': 1, 'bdp': 0, 'clt': 1, 'emq': 0, 'mod': 1, 'hsh': 10, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 8, 'bik': 1, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 1, 'phd': 0, 'sys': 6, 'msg': 5, 'wtd': 0, 'mad': 0, 'mcy': 1, 'bks': 0, 'mob': 14, 'wan': 2, 'fuo': 51, 'tls': 27, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 14, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 3, 'jwl': 2, 'atq': 7, 'boa': 0, 'cto': 11, 'bod': 0}
+35: {'vgm': 9, 'art': 47, 'cbd': 1, 'ppd': 0, 'app': 7, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 1, 'tag': 0, 'ard': 0, 'spo': 20, 'sdp': 0, 'pts': 9, 'sgd': 0, 'mat': 18, 'fod': 0, 'clo': 196, 'tix': 0, 'hvo': 2, 'for': 12, 'bfd': 0, 'cld': 0, 'hab': 39, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 58, 'bfs': 1, 'grd': 17, 'bdp': 0, 'clt': 10, 'emq': 0, 'mod': 0, 'hsh': 129, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 7, 'bik': 10, 'hsd': 0, 'syd': 6, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 13, 'phd': 0, 'sys': 23, 'msg': 4, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 11, 'mob': 28, 'wan': 2, 'fuo': 114, 'tls': 14, 'emd': 15, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 7, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 6, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 8, 'jwl': 4, 'atq': 41, 'boa': 0, 'cto': 16, 'bod': 0}
+36: {'vgm': 6, 'art': 4, 'cbd': 0, 'ppd': 1, 'app': 9, 'ptd': 2, 'hvd': 0, 'rvs': 0, 'sop': 1, 'tag': 3, 'ard': 0, 'spo': 6, 'sdp': 0, 'pts': 23, 'sgd': 0, 'mat': 1, 'fod': 0, 'clo': 15, 'tix': 1, 'hvo': 0, 'for': 12, 'bfd': 0, 'cld': 0, 'hab': 21, 'wad': 0, 'had': 0, 'eld': 1, 'ele': 7, 'bfs': 0, 'grd': 1, 'bdp': 0, 'clt': 8, 'emq': 0, 'mod': 0, 'hsh': 17, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 25, 'bik': 3, 'hsd': 9, 'syd': 27, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 29, 'phd': 0, 'sys': 3, 'msg': 20, 'wtd': 2, 'mad': 0, 'mcy': 0, 'bks': 0, 'mob': 16, 'wan': 0, 'fuo': 13, 'tls': 2, 'emd': 0, 'atd': 0, 'msd': 3, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 1, 'ctd': 6, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 10, 'jwl': 5, 'atq': 7, 'boa': 0, 'cto': 17, 'bod': 0}
+37: {'vgm': 13, 'art': 4, 'cbd': 0, 'ppd': 0, 'app': 6, 'ptd': 153, 'hvd': 0, 'rvs': 0, 'sop': 6, 'tag': 3, 'ard': 0, 'spo': 52, 'sdp': 0, 'pts': 2, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 9, 'tix': 76, 'hvo': 0, 'for': 12, 'bfd': 0, 'cld': 1, 'hab': 11, 'wad': 3, 'had': 2, 'eld': 0, 'ele': 14, 'bfs': 2, 'grd': 4, 'bdp': 0, 'clt': 7, 'emq': 0, 'mod': 8, 'hsh': 25, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 1, 'bik': 0, 'hsd': 0, 'syd': 22, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 4, 'phd': 0, 'sys': 0, 'msg': 2, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 2, 'mob': 44, 'wan': 0, 'fuo': 25, 'tls': 2, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 1, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 3, 'jwl': 2, 'atq': 1, 'boa': 0, 'cto': 8, 'bod': 0}
+38: {'vgm': 2, 'art': 19, 'cbd': 0, 'ppd': 3, 'app': 5, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 7, 'tag': 3, 'ard': 0, 'spo': 26, 'sdp': 13, 'pts': 75, 'sgd': 0, 'mat': 4, 'fod': 0, 'clo': 8, 'tix': 4, 'hvo': 0, 'for': 26, 'bfd': 4, 'cld': 0, 'hab': 11, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 30, 'bfs': 1, 'grd': 41, 'bdp': 0, 'clt': 5, 'emq': 0, 'mod': 4, 'hsh': 22, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 13, 'bik': 7, 'hsd': 0, 'syd': 34, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 16, 'phd': 58, 'sys': 10, 'msg': 5, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 1, 'mob': 5, 'wan': 6, 'fuo': 113, 'tls': 48, 'emd': 35, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 4, 'jwd': 0, 'grq': 0, 'bpo': 1, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 34, 'jwl': 14, 'atq': 2, 'boa': 7, 'cto': 9, 'bod': 0}
+39: {'vgm': 2, 'art': 9, 'cbd': 0, 'ppd': 0, 'app': 3, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 6, 'tag': 2, 'ard': 0, 'spo': 1, 'sdp': 0, 'pts': 4, 'sgd': 0, 'mat': 5, 'fod': 0, 'clo': 26, 'tix': 1, 'hvo': 0, 'for': 1, 'bfd': 0, 'cld': 0, 'hab': 1, 'wad': 0, 'had': 0, 'eld': 322, 'ele': 18, 'bfs': 0, 'grd': 0, 'bdp': 0, 'clt': 18, 'emq': 0, 'mod': 14, 'hsh': 9, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 17, 'bik': 1, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 3, 'phd': 0, 'sys': 18, 'msg': 20, 'wtd': 2, 'mad': 0, 'mcy': 0, 'bks': 4, 'mob': 3, 'wan': 1, 'fuo': 9, 'tls': 5, 'emd': 2, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 3, 'jwl': 0, 'atq': 69, 'boa': 0, 'cto': 5, 'bod': 0}
+40: {'vgm': 0, 'art': 0, 'cbd': 0, 'ppd': 0, 'app': 10, 'ptd': 25, 'hvd': 0, 'rvs': 0, 'sop': 110, 'tag': 0, 'ard': 2, 'spo': 73, 'sdp': 0, 'pts': 87, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 24, 'tix': 4, 'hvo': 2, 'for': 23, 'bfd': 0, 'cld': 0, 'hab': 1, 'wad': 0, 'had': 0, 'eld': 653, 'ele': 15, 'bfs': 5, 'grd': 9, 'bdp': 0, 'clt': 5, 'emq': 0, 'mod': 1, 'hsh': 15, 'bkd': 0, 'snd': 0, 'tld': 1, 'pho': 69, 'bik': 1, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 16, 'phd': 4, 'sys': 378, 'msg': 3, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 11, 'mob': 13, 'wan': 0, 'fuo': 49, 'tls': 25, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 112, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 3, 'jwl': 2, 'atq': 0, 'boa': 0, 'cto': 2, 'bod': 0}
+41: {'vgm': 2, 'art': 11, 'cbd': 0, 'ppd': 0, 'app': 4, 'ptd': 0, 'hvd': 0, 'rvs': 1, 'sop': 11, 'tag': 1, 'ard': 0, 'spo': 65, 'sdp': 0, 'pts': 29, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 15, 'tix': 2, 'hvo': 0, 'for': 11, 'bfd': 0, 'cld': 1, 'hab': 1, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 10, 'bfs': 2, 'grd': 3, 'bdp': 0, 'clt': 1, 'emq': 0, 'mod': 0, 'hsh': 2, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 4, 'bik': 91, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 191, 'phd': 0, 'sys': 10, 'msg': 2, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 0, 'mob': 3, 'wan': 0, 'fuo': 23, 'tls': 2, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 3, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 6, 'jwl': 2, 'atq': 24, 'boa': 0, 'cto': 2, 'bod': 0}
+42: {'vgm': 0, 'art': 23, 'cbd': 0, 'ppd': 0, 'app': 11, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 1, 'tag': 49, 'ard': 0, 'spo': 11, 'sdp': 0, 'pts': 5, 'sgd': 0, 'mat': 2, 'fod': 0, 'clo': 29, 'tix': 2, 'hvo': 0, 'for': 7, 'bfd': 0, 'cld': 0, 'hab': 33, 'wad': 3, 'had': 0, 'eld': 0, 'ele': 51, 'bfs': 0, 'grd': 13, 'bdp': 0, 'clt': 189, 'emq': 0, 'mod': 0, 'hsh': 9, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 10, 'bik': 5, 'hsd': 0, 'syd': 10, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 14, 'phd': 0, 'sys': 4, 'msg': 1, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 16, 'mob': 14, 'wan': 1, 'fuo': 31, 'tls': 46, 'emd': 23, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 24, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 1, 'jwl': 6, 'atq': 27, 'boa': 0, 'cto': 6, 'bod': 0}
+43: {'vgm': 17, 'art': 17, 'cbd': 0, 'ppd': 0, 'app': 4, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 5, 'tag': 10, 'ard': 0, 'spo': 28, 'sdp': 0, 'pts': 18, 'sgd': 0, 'mat': 9, 'fod': 0, 'clo': 141, 'tix': 15, 'hvo': 1, 'for': 16, 'bfd': 0, 'cld': 0, 'hab': 10, 'wad': 0, 'had': 0, 'eld': 4, 'ele': 29, 'bfs': 1, 'grd': 0, 'bdp': 0, 'clt': 23, 'emq': 0, 'mod': 0, 'hsh': 109, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 11, 'bik': 221, 'hsd': 0, 'syd': 0, 'mpo': 1, 'bid': 0, 'mcd': 0, 'wto': 17, 'phd': 0, 'sys': 0, 'msg': 73, 'wtd': 0, 'mad': 0, 'mcy': 2, 'bks': 8, 'mob': 2, 'wan': 1, 'fuo': 282, 'tls': 19, 'emd': 14, 'atd': 0, 'msd': 28, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 1, 'jwd': 0, 'grq': 0, 'bpo': 1, 'ctd': 7, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 13, 'jwl': 33, 'atq': 72, 'boa': 0, 'cto': 11, 'bod': 0}
+44: {'vgm': 0, 'art': 0, 'cbd': 0, 'ppd': 0, 'app': 0, 'ptd': 0, 'hvd': 0, 'rvs': 0, 'sop': 0, 'tag': 0, 'ard': 0, 'spo': 0, 'sdp': 0, 'pts': 0, 'sgd': 0, 'mat': 0, 'fod': 0, 'clo': 0, 'tix': 0, 'hvo': 0, 'for': 0, 'bfd': 0, 'cld': 0, 'hab': 0, 'wad': 0, 'had': 0, 'eld': 0, 'ele': 0, 'bfs': 0, 'grd': 0, 'bdp': 0, 'clt': 0, 'emq': 0, 'mod': 0, 'hsh': 0, 'bkd': 0, 'snd': 0, 'tld': 0, 'pho': 0, 'bik': 0, 'hsd': 0, 'syd': 0, 'mpo': 0, 'bid': 0, 'mcd': 0, 'wto': 0, 'phd': 0, 'sys': 0, 'msg': 0, 'wtd': 0, 'mad': 0, 'mcy': 0, 'bks': 0, 'mob': 0, 'wan': 0, 'fuo': 0, 'tls': 0, 'emd': 0, 'atd': 0, 'msd': 0, 'bar': 0, 'zip': 0, 'tro': 0, 'snw': 0, 'bop': 0, 'jwd': 0, 'grq': 0, 'bpo': 0, 'ctd': 0, 'vgd': 0, 'bad': 0, 'tad': 0, 'bab': 0, 'jwl': 0, 'atq': 0, 'boa': 0, 'cto': 0, 'bod': 0}
+Ward category most common occurrences
+406
+1: bfs with 199 occurrences
+1468
+2: ppd with 135 occurrences
+351
+3: fuo with 76 occurrences
+1114
+4: clt with 136 occurrences
+2021
+5: spo with 197 occurrences
+953
+6: syd with 397 occurrences
+1155
+7: ptd with 93 occurrences
+202
+8: sys with 45 occurrences
+883
+9: ele with 208 occurrences
+1058
+10: clo with 189 occurrences
+286
+11: ele with 41 occurrences
+1665
+12: fuo with 203 occurrences
+1285
+13: hsh with 205 occurrences
+564
+14: hsh with 102 occurrences
+2394
+15: for with 745 occurrences
+1675
+16: fuo with 184 occurrences
+3012
+17: atq with 557 occurrences
+2036
+18: fuo with 610 occurrences
+4363
+19: mod with 759 occurrences
+1085
+20: fuo with 213 occurrences
+2195
+21: phd with 901 occurrences
+1943
+22: clo with 261 occurrences
+1557
+23: ppd with 306 occurrences
+287
+24: fuo with 131 occurrences
+1173
+25: ele with 227 occurrences
+2166
+26: fuo with 406 occurrences
+1885
+27: clo with 237 occurrences
+1472
+28: atq with 139 occurrences
+1090
+29: ele with 154 occurrences
+563
+30: mob with 68 occurrences
+2151
+31: cld with 749 occurrences
+1510
+32: hsh with 231 occurrences
+494
+33: clo with 169 occurrences
+308
+34: fuo with 51 occurrences
+905
+35: clo with 196 occurrences
+338
+36: wto with 29 occurrences
+531
+37: ptd with 153 occurrences
+735
+38: fuo with 113 occurrences
+604
+39: eld with 322 occurrences
+1753
+40: eld with 653 occurrences
+535
+41: wto with 191 occurrences
+677
+42: clt with 189 occurrences
+1274
+43: fuo with 282 occurrences
+0
+44: vgm with 0 occurrences
