@@ -1,0 +1,473 @@
+hhtype
+['Single-detached house', 'Semi-detached house', 'Row house', 'Apartment, duplex', 'Apartment, building that has five or more storeys', 'Apartment, building that has fewer than five storeys', 'Other single-attached house', 'Movable dwelling']
+WFS: 44
+(44, 8)
+(44, 78)
+Category: app: appliances by owner
+     Apartment, duplex: 0.000309874131433
+     Apartment, building that has fewer than five storeys: 0.000183184091305
+     Semi-detached house: 0.000142031584075
+     Apartment, building that has five or more storeys: 0.000104111050137
+     Other single-attached house: 4.85772390423e-05
+Category: ard: arts and crafts by dealer
+     Movable dwelling: -1.54070638552e-08
+     Other single-attached house: -2.30241229317e-06
+     Apartment, duplex: -4.06839283826e-05
+     Row house: -5.4501180653e-05
+     Semi-detached house: -0.000108322657418
+Category: art: arts & crafts - by owner
+     Apartment, duplex: 0.000397640724235
+     Row house: 0.000315025287896
+     Apartment, building that has fewer than five storeys: 0.000240608646405
+     Single-detached house: 8.99718798899e-05
+     Apartment, building that has five or more storeys: 6.93338014804e-05
+Category: atd: antiques - by dealer
+     Movable dwelling: -8.5423451935e-08
+     Other single-attached house: -2.07363091768e-06
+     Apartment, duplex: -4.42523906991e-05
+     Row house: -6.34652250706e-05
+     Semi-detached house: -7.07199497354e-05
+Category: atq: antiques - by owner
+     Apartment, building that has fewer than five storeys: 0.000444314364221
+     Row house: 0.00026636582421
+     Single-detached house: 0.000232201964991
+     Apartment, building that has five or more storeys: 3.31788150618e-05
+     Movable dwelling: -1.83622706905e-06
+Category: bab: baby & kid stuff - by owner
+     Apartment, building that has fewer than five storeys: 0.000243191120306
+     Single-detached house: 0.000225371905862
+     Semi-detached house: 0.00021717505198
+     Apartment, building that has five or more storeys: 8.01413534817e-05
+     Other single-attached house: 3.21445833074e-05
+Category: bad: baby & kid stuff - by dealer
+     Movable dwelling: -8.11338754468e-08
+     Other single-attached house: -2.76609168469e-06
+     Apartment, duplex: -5.72386299174e-05
+     Row house: -7.03439663674e-05
+     Semi-detached house: -0.000122692796884
+Category: bar: barter
+     Movable dwelling: -1.43912778089e-07
+     Other single-attached house: -2.20751273783e-06
+     Apartment, duplex: -5.2072564522e-05
+     Row house: -6.7508316881e-05
+     Semi-detached house: -9.16714949626e-05
+Category: bdp: bicycle parts - by dealer
+     Movable dwelling: 2.68864443645e-08
+     Other single-attached house: -2.75520336506e-06
+     Apartment, building that has fewer than five storeys: -2.61906158636e-05
+     Apartment, duplex: -2.83759917656e-05
+     Row house: -4.71469454066e-05
+Category: bfd: business/commercial - by dealer
+     Semi-detached house: 0.000292428235532
+     Row house: 0.000248457363362
+     Apartment, building that has five or more storeys: 6.66874227071e-05
+     Other single-attached house: 3.09385475922e-06
+     Movable dwelling: -5.68678590115e-07
+Category: bfs: business/commercial - by owner
+     Apartment, duplex: 0.000654287619473
+     Row house: 0.000420445317814
+     Apartment, building that has fewer than five storeys: 0.000171243264888
+     Single-detached house: 5.85870803129e-05
+     Apartment, building that has five or more storeys: 2.29368783363e-05
+Category: bid: bicycles - by dealer
+     Apartment, building that has fewer than five storeys: 0.000256461896491
+     Single-detached house: 4.04025873791e-05
+     Movable dwelling: 6.24423836841e-07
+     Apartment, building that has five or more storeys: -4.51441690768e-06
+     Other single-attached house: -9.91100127941e-06
+Category: bik: bicycles - by owner
+     Row house: 0.000636841483945
+     Apartment, building that has fewer than five storeys: 0.000286390391389
+     Single-detached house: 0.000181383299055
+     Apartment, building that has five or more storeys: 3.45438691292e-05
+     Movable dwelling: -5.64088828008e-06
+Category: bkd: books & magazines - by dealer
+     Movable dwelling: -1.49253502942e-07
+     Other single-attached house: -1.59945102093e-06
+     Apartment, duplex: -3.18695834645e-05
+     Semi-detached house: -4.89362084427e-05
+     Row house: -8.14433800806e-05
+Category: bks: books & magazines - by owner
+     Row house: 0.000306854228603
+     Apartment, building that has fewer than five storeys: 0.000291966681972
+     Single-detached house: 0.000139920525502
+     Apartment, building that has five or more storeys: 9.6963264484e-05
+     Movable dwelling: -6.22931478192e-07
+Category: boa: boats - by owner
+     Apartment, building that has fewer than five storeys: 4.84550336985e-05
+     Movable dwelling: 4.83699692342e-07
+     Other single-attached house: -4.19013920156e-06
+     Row house: -1.6350057779e-05
+     Apartment, duplex: -2.8773020682e-05
+Category: bod: boats - by dealer
+     Movable dwelling: -6.65427292628e-08
+     Other single-attached house: -2.56260484999e-06
+     Apartment, duplex: -1.83595271614e-05
+     Row house: -2.06816842663e-05
+     Single-detached house: -6.21557390212e-05
+Category: bop: bicycle parts - by owner
+     Apartment, building that has fewer than five storeys: 0.000318218144461
+     Apartment, building that has five or more storeys: 4.69247290211e-05
+     Single-detached house: 3.52034366486e-05
+     Movable dwelling: -7.84627490766e-07
+     Other single-attached house: -2.59039138493e-05
+Category: bpo: boat parts - by owner
+     Semi-detached house: 0.000203975250105
+     Apartment, building that has fewer than five storeys: 9.2541077166e-05
+     Apartment, duplex: 6.36247006977e-05
+     Apartment, building that has five or more storeys: 4.45829048387e-05
+     Movable dwelling: -4.80196539e-07
+Category: cbd: collectibles - by dealer
+     Movable dwelling: -1.33339939905e-08
+     Other single-attached house: -2.8735035564e-06
+     Apartment, building that has fewer than five storeys: -6.59651059492e-06
+     Apartment, duplex: -8.3690011707e-06
+     Single-detached house: -1.96363182676e-05
+Category: cld: clothing and accessories by dealer
+     Semi-detached house: 0.00115506331321
+     Apartment, building that has fewer than five storeys: 0.00023338743352
+     Single-detached house: 0.000219231843511
+     Movable dwelling: -2.07128019353e-06
+     Other single-attached house: -8.35009776252e-05
+Category: clo: clothing and accessories by owner
+     Row house: 0.000338004126185
+     Apartment, building that has fewer than five storeys: 0.00030990638271
+     Single-detached house: 0.000185814525974
+     Apartment, building that has five or more storeys: 0.000112315066959
+     Semi-detached house: 6.06716949012e-05
+Category: clt: collectibles - by owner
+     Row house: 0.000500462694722
+     Apartment, building that has fewer than five storeys: 0.000387795454056
+     Single-detached house: 0.000251481615059
+     Apartment, building that has five or more storeys: 4.25899132878e-05
+     Semi-detached house: 2.45309991875e-05
+Category: ctd: cars & trucks - by dealer
+     Semi-detached house: 0.000469105381837
+     Single-detached house: 0.000118270545899
+     Row house: 5.13546085484e-05
+     Apartment, building that has five or more storeys: 3.75062098277e-05
+     Other single-attached house: 9.58347901012e-06
+Category: cto: cars & trucks - by owner
+     Apartment, duplex: 0.000371352366576
+     Apartment, building that has fewer than five storeys: 0.000163692112564
+     Row house: 6.97410313127e-05
+     Single-detached house: 5.42828590161e-05
+     Apartment, building that has five or more storeys: 3.84165172171e-05
+Category: eld: electronics - by dealer
+     Apartment, duplex: 0.00091731550231
+     Semi-detached house: 0.000559824870142
+     Row house: 0.00039507875022
+     Single-detached house: 0.000182883660162
+     Movable dwelling: 2.85405109744e-05
+Category: ele: electronics - by owner
+     Apartment, building that has fewer than five storeys: 0.000229426167315
+     Apartment, duplex: 0.000211719849621
+     Semi-detached house: 0.000191365740304
+     Row house: 0.000135763295481
+     Single-detached house: 0.000130346937644
+Category: emd: cds / dvds / vhs - by owner
+     Apartment, building that has fewer than five storeys: 0.000387529879152
+     Single-detached house: 0.000196116753587
+     Apartment, building that has five or more storeys: 4.84621288275e-05
+     Movable dwelling: 4.48805320235e-06
+     Other single-attached house: -6.42065171336e-05
+Category: emq: cds / dvds / vhs - by dealer
+     Movable dwelling: -2.22641346708e-07
+     Other single-attached house: -2.55260678411e-06
+     Apartment, building that has five or more storeys: -1.90764274412e-05
+     Apartment, duplex: -5.00861133746e-05
+     Semi-detached house: -0.000113784958997
+Category: fod: general for sale - by dealer
+     Semi-detached house: 0.000304800811639
+     Apartment, building that has fewer than five storeys: 0.000158003971254
+     Other single-attached house: 3.61231657049e-06
+     Movable dwelling: -4.09019148942e-07
+     Apartment, building that has five or more storeys: -1.246290522e-06
+Category: for: general for sale by owner
+     Apartment, building that has fewer than five storeys: 0.000360327854698
+     Other single-attached house: 0.000330527351353
+     Single-detached house: 0.000309876575589
+     Apartment, building that has five or more storeys: 8.8041581566e-05
+     Semi-detached house: 6.68075819395e-05
+Category: fuo: furniture - by owner
+     Row house: 0.000410863030544
+     Apartment, building that has fewer than five storeys: 0.000377522995008
+     Single-detached house: 0.000240390177833
+     Other single-attached house: 0.000134150985065
+     Apartment, building that has five or more storeys: 8.89867167742e-05
+Category: grd: farm & garden - by owner
+     Apartment, building that has fewer than five storeys: 0.000462275284382
+     Single-detached house: 0.000279948402373
+     Other single-attached house: 1.49211546352e-06
+     Movable dwelling: -2.89413280097e-07
+     Apartment, building that has five or more storeys: -1.79259338562e-05
+Category: grq: farm and garden by dealer
+     Row house: 0.000491918853579
+     Apartment, duplex: 0.000252955495772
+     Semi-detached house: 0.000241095206724
+     Single-detached house: 0.000167462913334
+     Other single-attached house: 1.52946196598e-05
+Category: hab: health and beauty - by owner
+     Apartment, duplex: 0.000382982658204
+     Row house: 0.000173506040105
+     Apartment, building that has fewer than five storeys: 0.000166372062804
+     Apartment, building that has five or more storeys: 9.14018801625e-05
+     Single-detached house: 6.34824855091e-05
+Category: had: health and beauty - by dealer
+     Apartment, building that has five or more storeys: 1.93818714484e-05
+     Movable dwelling: -1.55139236434e-07
+     Other single-attached house: -2.59713702458e-06
+     Apartment, duplex: -3.47473806506e-05
+     Row house: -8.67273843205e-05
+Category: hsd: household items - by dealer
+     Apartment, building that has five or more storeys: 5.39749152538e-05
+     Apartment, duplex: 4.18407452315e-05
+     Single-detached house: 2.53126932939e-05
+     Movable dwelling: -3.33670246059e-07
+     Other single-attached house: -3.87053156416e-06
+Category: hsh: household items - by owner
+     Apartment, building that has fewer than five storeys: 0.000351233825792
+     Single-detached house: 0.000219334639766
+     Row house: 0.000145527132981
+     Apartment, duplex: 0.00012542063969
+     Apartment, building that has five or more storeys: 9.04498898575e-05
+Category: hvd: heavy equipment - by dealer
+     Apartment, building that has five or more storeys: 4.19609342824e-05
+     Row house: 3.19773943276e-05
+     Movable dwelling: -2.16812830408e-07
+     Other single-attached house: -1.12008344431e-06
+     Apartment, duplex: -4.41466410443e-05
+Category: hvo: heavy equipment - by owner
+     Apartment, building that has fewer than five storeys: 3.55341552576e-05
+     Apartment, duplex: 2.73560524561e-05
+     Movable dwelling: 2.39648261123e-07
+     Other single-attached house: -1.88046847128e-06
+     Apartment, building that has five or more storeys: -1.6790863475e-05
+Category: jwd: jewelry - by dealer
+     Movable dwelling: -1.49554231412e-07
+     Other single-attached house: -3.03414442892e-06
+     Row house: -1.25793009864e-05
+     Apartment, duplex: -5.57568316248e-05
+     Semi-detached house: -7.56578373418e-05
+Category: jwl: jewelry - by owner
+     Apartment, building that has fewer than five storeys: 0.000210370864499
+     Row house: 0.000164277352594
+     Single-detached house: 0.000107167831693
+     Apartment, building that has five or more storeys: 8.86275108043e-05
+     Movable dwelling: 2.88521803263e-07
+Category: mad: materials - by dealer
+     Single-detached house: 0.000212644795581
+     Apartment, building that has five or more storeys: 0.000186530773492
+     Movable dwelling: -1.85247700715e-07
+     Other single-attached house: -1.59639746606e-05
+     Semi-detached house: -0.00033890219094
+Category: mat: materials by owner
+     Single-detached house: 0.000103191574318
+     Apartment, building that has fewer than five storeys: 9.40196147227e-05
+     Apartment, building that has five or more storeys: 8.01254718676e-05
+     Other single-attached house: 2.96437028833e-05
+     Movable dwelling: -1.26064161129e-06
+Category: mcd: motorcycles/scooters - by dealer
+     Apartment, building that has five or more storeys: 6.29502289467e-05
+     Movable dwelling: -4.14173456429e-08
+     Other single-attached house: -7.41380788156e-07
+     Apartment, building that has fewer than five storeys: -2.0371640254e-05
+     Apartment, duplex: -4.48988989433e-05
+Category: mcy: motorcycles/scooters - by owner
+     Apartment, building that has fewer than five storeys: 0.000161527942182
+     Movable dwelling: 8.60845833137e-08
+     Other single-attached house: -1.67461410439e-06
+     Apartment, building that has five or more storeys: -1.53070647503e-05
+     Apartment, duplex: -2.69681669731e-05
+Category: mob: cell phones - by owner
+     Apartment, duplex: 0.000583039335231
+     Apartment, building that has fewer than five storeys: 0.000193441274066
+     Apartment, building that has five or more storeys: 0.000116472523311
+     Row house: 7.38127071916e-05
+     Single-detached house: 6.04765560966e-05
+Category: mod: cell phones - by dealer
+     Semi-detached house: 0.00155378047743
+     Apartment, building that has fewer than five storeys: 0.000211381281394
+     Apartment, building that has five or more storeys: 0.000205002721181
+     Movable dwelling: -4.47937473398e-07
+     Other single-attached house: -1.54854006851e-05
+Category: mpo: motorcycle parts - by owner
+     Apartment, building that has fewer than five storeys: 0.000228204868782
+     Single-detached house: 2.38947219665e-05
+     Movable dwelling: 4.60224606478e-08
+     Apartment, building that has five or more storeys: -5.86509793615e-06
+     Other single-attached house: -8.45687969926e-06
+Category: msd: musical instruments - by dealer
+     Single-detached house: 0.000306268923375
+     Movable dwelling: 1.58359939462e-06
+     Apartment, building that has five or more storeys: -3.71605994144e-06
+     Other single-attached house: -1.13919666303e-05
+     Row house: -0.00013213135951
+Category: msg: musical instruments - by owner
+     Apartment, building that has fewer than five storeys: 0.000366081299871
+     Row house: 0.000279340155884
+     Single-detached house: 0.000201433636812
+     Apartment, building that has five or more storeys: 6.46081372175e-05
+     Other single-attached house: 5.90704225906e-05
+Category: phd: photo/video - by dealer
+     Semi-detached house: 0.000997642396024
+     Other single-attached house: 0.000631054168591
+     Apartment, building that has five or more storeys: 0.000201168744595
+     Single-detached house: 0.000132628645873
+     Movable dwelling: 6.18375677491e-05
+Category: pho: photo/video - by owner
+     Apartment, duplex: 0.0002992115875
+     Row house: 0.000190264980599
+     Apartment, building that has fewer than five storeys: 0.000167372155284
+     Semi-detached house: 0.000164016080011
+     Apartment, building that has five or more storeys: 9.32868710652e-05
+Category: ppd: appliances by dealer
+     Single-detached house: 0.000329688988652
+     Semi-detached house: 0.000328084916534
+     Apartment, building that has five or more storeys: 0.000104466848877
+     Movable dwelling: 5.02199142328e-06
+     Row house: 4.03297266204e-06
+Category: ptd: auto parts by dealer
+     Apartment, duplex: 0.00134938837836
+     Apartment, building that has five or more storeys: 0.00025895404645
+     Row house: 9.94999066817e-05
+     Semi-detached house: 9.52351504e-05
+     Other single-attached house: 7.63685191565e-06
+Category: pts: auto parts by owner
+     Row house: 0.000898765323972
+     Apartment, duplex: 0.000450360650954
+     Apartment, building that has fewer than five storeys: 0.000254598654277
+     Single-detached house: 0.000113946510205
+     Movable dwelling: 2.14022659121e-06
+Category: rvs: rvs by owner
+     Movable dwelling: -5.74044320916e-08
+     Other single-attached house: -1.32494960845e-06
+     Row house: -3.26547717266e-05
+     Apartment, duplex: -3.47977681984e-05
+     Semi-detached house: -0.000101542661701
+Category: sdp: computer parts by dealer
+     Semi-detached house: 0.000350808419955
+     Apartment, building that has fewer than five storeys: 7.16196189402e-05
+     Apartment, duplex: 4.70566811585e-05
+     Other single-attached house: 3.92709868577e-06
+     Movable dwelling: -5.54170242974e-07
+Category: sgd: sporting goods - by dealer
+     Apartment, building that has fewer than five storeys: 6.76695930303e-05
+     Movable dwelling: 9.00254092363e-08
+     Other single-attached house: -3.02103228431e-06
+     Apartment, duplex: -2.39124913243e-05
+     Single-detached house: -4.33590003622e-05
+Category: snd: atvs, utvs, snowmobiles - by dealer
+     Movable dwelling: -1.43740934979e-07
+     Other single-attached house: -2.91919213553e-06
+     Apartment, duplex: -5.6624635652e-05
+     Row house: -7.68951712989e-05
+     Semi-detached house: -9.87757666653e-05
+Category: snw: atvs, utvs, snowmobiles - by owner
+     Apartment, building that has fewer than five storeys: 5.33134903275e-05
+     Movable dwelling: 1.19585267722e-07
+     Other single-attached house: -3.69630693269e-06
+     Apartment, duplex: -2.75114580205e-05
+     Single-detached house: -5.81403806926e-05
+Category: sop: computer parts by owner
+     Row house: 0.000269721896345
+     Semi-detached house: 0.000206385676016
+     Apartment, building that has fewer than five storeys: 0.000145233853876
+     Single-detached house: 9.9011724535e-05
+     Apartment, building that has five or more storeys: 7.94141733171e-05
+Category: spo: sporting good by owner
+     Row house: 0.000340586502575
+     Apartment, building that has fewer than five storeys: 0.000279018675014
+     Single-detached house: 0.000206752178478
+     Apartment, building that has five or more storeys: 6.9619674489e-05
+     Other single-attached house: 6.44009405449e-05
+Category: syd: computers - by dealer
+     Semi-detached house: 0.0014099747764
+     Apartment, duplex: 0.000267140421497
+     Single-detached house: 8.32720715191e-05
+     Apartment, building that has five or more storeys: 8.03916680771e-05
+     Other single-attached house: 4.5210755662e-05
+Category: sys: computers - by owner
+     Apartment, duplex: 0.000539585490604
+     Row house: 0.000436136049966
+     Semi-detached house: 0.000102274026632
+     Apartment, building that has fewer than five storeys: 9.84260412644e-05
+     Apartment, building that has five or more storeys: 8.74740339112e-05
+Category: tad: toys & games - by dealer
+     Single-detached house: 0.000182909649164
+     Apartment, building that has five or more storeys: 2.39043785234e-05
+     Movable dwelling: 3.33630000747e-07
+     Other single-attached house: -6.87280863069e-06
+     Row house: -0.000133463393188
+Category: tag: toys and games by owner
+     Apartment, building that has fewer than five storeys: 0.000293345859889
+     Single-detached house: 0.000161287758073
+     Semi-detached house: 9.00513729316e-05
+     Apartment, building that has five or more storeys: 7.22770268322e-05
+     Row house: 6.98486382249e-05
+Category: tix: tix by owner
+     Apartment, duplex: 0.000408926816552
+     Apartment, building that has fewer than five storeys: 0.000194482317129
+     Row house: 0.000146869752794
+     Apartment, building that has five or more storeys: 0.000129713746214
+     Single-detached house: 3.20779414459e-05
+Category: tld: tools - by dealer
+     Single-detached house: 0.000195159760172
+     Row house: 0.000190346849875
+     Apartment, building that has five or more storeys: 0.000177195195431
+     Semi-detached house: 9.96368794247e-06
+     Other single-attached house: 8.76003172378e-06
+Category: tls: tools - by owner
+     Row house: 0.000332726403418
+     Apartment, duplex: 0.000221183430592
+     Semi-detached house: 0.0001348908787
+     Apartment, building that has fewer than five storeys: 0.000132395262692
+     Single-detached house: 0.000117764996135
+Category: tro: trailers - by owner
+     Apartment, building that has fewer than five storeys: 7.57596107415e-05
+     Movable dwelling: -7.90201979913e-09
+     Other single-attached house: -2.89873948651e-06
+     Apartment, duplex: -1.64636354862e-05
+     Single-detached house: -2.97057075934e-05
+Category: vgd: video gaming - by dealer
+     Row house: 5.20063314336e-05
+     Apartment, building that has five or more storeys: 4.29381130159e-05
+     Apartment, duplex: 1.83975782525e-05
+     Other single-attached house: 1.25303174714e-07
+     Movable dwelling: -2.08621750864e-07
+Category: vgm: video gaming by owner
+     Apartment, building that has fewer than five storeys: 0.000249978536999
+     Apartment, duplex: 9.32016098246e-05
+     Single-detached house: 8.25436405598e-05
+     Apartment, building that has five or more storeys: 7.38400303446e-05
+     Other single-attached house: 1.21607858194e-05
+Category: wad: wanted - by dealer
+     Apartment, building that has fewer than five storeys: 0.000307592299143
+     Apartment, building that has five or more storeys: 0.000118691084741
+     Other single-attached house: 1.2340725534e-05
+     Movable dwelling: 3.13369224189e-07
+     Apartment, duplex: -2.8661341336e-05
+Category: wan: wanted by owner
+     Apartment, building that has fewer than five storeys: 0.000150762217105
+     Apartment, building that has five or more storeys: 4.51737257891e-05
+     Other single-attached house: 9.01598735848e-06
+     Movable dwelling: 3.30277217477e-07
+     Apartment, duplex: -4.15479349835e-05
+Category: wtd: auto wheels & tires - by dealer
+     Apartment, duplex: 5.69016906013e-05
+     Row house: 2.83771317992e-05
+     Movable dwelling: -1.3176759758e-07
+     Other single-attached house: -3.36296977515e-06
+     Apartment, building that has five or more storeys: -1.14360516053e-05
+Category: wto: auto wheels & tires - by owner
+     Apartment, duplex: 0.00166373051856
+     Row house: 0.00105266749908
+     Apartment, building that has fewer than five storeys: 0.000111153031829
+     Apartment, building that has five or more storeys: 1.71144710704e-05
+     Other single-attached house: -1.47740350805e-07
+Category: zip: free stuff
+     Movable dwelling: -1.11265590676e-07
+     Other single-attached house: -2.89115228059e-06
+     Apartment, duplex: -5.44499379832e-05
+     Row house: -7.59372435267e-05
+     Semi-detached house: -0.000113477480787

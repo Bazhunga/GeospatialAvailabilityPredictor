@@ -1,0 +1,135 @@
+mutual information
+feature 1, label 1
+feature 0, label 0
+Perfect mutual information
+
+mclr weights are not independent. If you have two of the same thing
+it learns to split it
+
+All we want is a table of 
+Sanity check? sort top 5 occurrences RAW. see if you get the same thing
+
+Log likelihood still good thing to lok it. How probable was the actual posting label.
+
+For every classifier --> simply show the accuracy and the log likelihood on the test data
+
+What I was doing was hit rate of 5. you get a 1 if your true label is in top 5
+
+***
+What is the probability of this label, and then summing over all the labels..?
+Log the probability and sum it, it was supposed to be 40, what was our probability for guessing 40? Log that, add 
+
+Exp Ana
+What's the question
+whats the analysis to answer that question
+
+**Q1**
+What features are most predictive of ward postings. What is the best performance that can be achieved. 
+For non-combined feature sets (age, gender, hhtype) top k features by weight
+5 interesting categories --> 
+3 meausres of performance, accruacy, log likelihood, mean hit rate at 5
+
+For the all classifier **Wait, but this isn't what they're more likely to BUY. It's more likely what they're posting.
+                              Top 5 weighted features (which had the highest weights)
+                              This is what it was learning
+                  1                 2           3              4           5
+Furniture     male age 30-40     detached hh   feature3        feature4    feature5
+Clothing
+Electronics
+Cat 4
+Cat 5
+
+
+Mean is always over info need
+Average is always over for a single label, mean is overall test examples
+Why do this? Only in IR. 
+
+Methodology, train a classifer per feature set, provide 3 different metrics for analyzing performance
+
+Before you get to experimental questions
+
+Data set and description --> section
+What are the wards
+What features
+Map showing the ward divisions (not critical)
+Google maps ward division --> then just copyright google maps 
+
+Form the city of toronto website --> more complicated 
+
+Craigslist data description
+Crawling methodology
+Crawling fixed time per day
+Content. 
+
+Total volume of content
+
+**Q2** Performance and top features (Combine previous Q1 and Q2) Can different demographics be used to provide item productivity. What is ithe most useful thing to know about a neighbourhood (this is where the most weighted features come in). Usecase for important features --> advertise on internet, direct mail, advertising. What features are important, and how you can target your ads and solicitation. Not the canvassing argument.We odn't have addresses but we have age group and gender --> direct marketing. Online solicitation, advertising
+Per label --> are the predictions matching the ground truths (heatmaps)
+More qualitative 
+A qualitative visualization of performance. 
+The application that the canvasing area for certain goods, would the predictor work decently
+IS there a huge cluster in the map and visit for stuff
+Overall accuracy view --> reproduce dense clusters..?
+
+Do gender
+Ignore race
+Househo
+
+Create another dataset for ratio of males to females
+
+Composite features is different from independent sets
+
+Most interesting: Age, gender, household type INDIVIDUALLY (make gender individual),
+Age crossed with gender
+Age crossed with household type
+
+Age normalized by ward --> age profile --> most telling --> this is fine
+Verify normalization
+
+What feature vector allows us to identify latent variables
+
+old, young&chic, males0dominated, etc
+
+See if 
+
+Another thing to look at: income measures for wards
+Old and affluent, young and not
+
+
+**Q3** --> from data, individual differences  (Make this actually Q1)
+All classifier should be just as good as age
+--> age gender combined, hhtype separately 
+0-20, 20-40, 40-65, 65+ --> will this decrease predictiveness
+
+               1              2              3              4           5
+male 20-30     boats          powertools     ele            
+female 10-20   Clothing       etc            etc 
+
+Input to classifier 1 in that dimension, 0 in all others
+
+Q3 may not need classifier? Qualitative analysis of performance --> heatmapping (previous Q2)
+
+A viewer could complain that if you have an application in mind, then why not just go from 
+raw data itself and raw frequencies
+
+There isn't really a motivation for using predictor on canvas, really jsut another qualitative analysis of performance. 
+
+How to aggregate:
+- Gather all your posting data
+- Put them into wards
+- Each ward has a profile, you can probably normalize the numbers with population total
+- 
+
+
+
+What should I write (take up 5 pages)
+Produce as tab separated text files !! EASY TO PASTE
+
+Other time you have to aggregate features is Q1
+
+Q1 is counts of label per feature, do aggregation (23 features to 15 just for Q1, not Q2/Q3)
+
+
+Feature set | acc | HR@5 | LL |
+
+If you make the argument that age and gender is fine alone, then we can say this is great for marketing

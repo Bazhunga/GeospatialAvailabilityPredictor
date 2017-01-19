@@ -6,6 +6,7 @@ import json
 import folium
 import re
 import operator
+from geo_utils import *
 from haversine import *
 from pandas.io.json import json_normalize
 
@@ -17,8 +18,6 @@ from pandas.io.json import json_normalize
 #============================================================
 # Adjustable items
 #============================================================
-
-
 
 def debugItemDataPrint(item_data):
    print item_data
@@ -32,21 +31,6 @@ def get_population_map(basePath):
    df_items = pd.DataFrame.from_csv(path)
    df_items = df_items.drop(['Etobicoke York', 'North York', 'Toronto & East York', 'Scarborough'] , 1)
    return df_items
-
-def get_centroid_map(basePath):
-   path = (basePath + "/centroids/centroid_data_toronto.csv")
-   # print path
-   df_items = pd.read_csv(path) # names=['GEO_ID','CREATE_ID','NAME', 'SCODE_NAME', 'LCODE_NAME', 'TYPE_DESC', 'TYPE_CODE', 'OBJECTID', 'xcoord', 'ycoord'])
-   df_items = df_items.drop(['GEO_ID', 'CREATE_ID', 'NAME', 'LCODE_NAME', 'TYPE_DESC', 'TYPE_CODE', 'OBJECTID'], 1)
-   df_items = df_items.sort_values(by=['SCODE_NAME'])
-   return df_items
-
-def get_centroids_aslist(df_centroids):
-   ward_centroid_dict = {}
-   for row in df_centroids.iterrows():
-      # print row[1]['SCODE_NAME']
-      ward_centroid_dict[int(row[1]['SCODE_NAME'])] = list([row[1]['ycoord'], row[1]['xcoord']])
-   return ward_centroid_dict
 
 def get_items_asdataframe(filename):
    path = (basePath + "/" + filename)
@@ -174,16 +158,17 @@ def get_most_common_categories_per_ward(ward_centroid_dict, df_items):
 
          # Get the nearest neighbour
          distances = []
-         for key in ward_centroid_dict:
+         for key in range(1,45):
             # Create a vector of distances, get the index of the smallest distance
             # print(str(item_coords[0]) + str(item_coords[1]) + str(ward_centroid_dict[key][0]))
             # print(item_coords[0] + " " + item_coords[1]+ " " + ward_centroid_dict[key][0] + " " + ward_centroid_dict[key][1])
             distances.append(haversine(item_coords[0], item_coords[1], ward_centroid_dict[key][0], ward_centroid_dict[key][1]))
-         # print distances
 
          # Find the index of smallest number
          # print ("Smallest: " + str(distances.index(min(distances))))
-         ward_to_increment = distances.index(min(distances))
+         ward_to_increment = distances.index(min(distances)) + 1 # Need the plus one because wards are not 0-indexed 
+
+
          if item_type in ward_category_dict.get(ward_to_increment):
             ward_category_dict.get(ward_to_increment, {})[item_type] += 1
          else:
@@ -207,14 +192,19 @@ def graph_occurences(oc_dict, ward_key, directory_to_save_to):
    # print(ward_key)
    # print(oc_dict)
    norm_oc_dict = normalize(oc_dict)
+   # print norm_oc_dict
    # print(norm_oc_dict)
+   #==================
+   y_ticks = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
    plt.clf()
    plt.bar(range(len(norm_oc_dict)), norm_oc_dict.values(), align='center')
    plt.xticks(range(len(norm_oc_dict)), norm_oc_dict.keys(), rotation='vertical')
+   plt.yticks(y_ticks)
    plt.title("Most common category occurrences for Ward" + str(ward_key))
    fig = plt.gcf()
-   fig.set_size_inches(20, 10.5)
+   fig.set_size_inches(13, 4)
    fig.tight_layout()
+   #==================
    #plt.show()
    # raw_input()
    # fig = plt.figure()
@@ -253,14 +243,6 @@ def get_most_common_category_per_ward_as_dict(ward_category_dict):
 
    np.save("ward_most_common_targets.npy", ward_top)
 
-def ward_category_dict_to_npy(ward_category_dict):
-   # for ward in ward_category_dict:
-   #    print(ward)
-   #    print(ward_category_dict[ward])
-   #    print()
-   np.save("postings_to_ward.npy", ward_category_dict)
-
-
 def verify_wardcatdict(ward_category_dict):
    total = 0
    for key in ward_category_dict:
@@ -274,55 +256,67 @@ if __name__ == "__main__":
    basePath = os.path.dirname(os.path.abspath(__file__))
    #path = get_population_map(basePath)
 
-   # GET THE CENTROIDS INTO DATAFRAME
-   df_centroids = get_centroid_map(basePath)
-   
-   # debugItemDataColumns(df_centroids)
-   # print_full(df_centroids)
+   try:
+      ward_centroid_dict = np.load("ward_centroid_dict.npy").item()
+      ward_category_dict = np.load("postings_to_ward.npy").item()
 
-   # DATAFRAME TO DICTIONARY
-   ward_centroid_dict = get_centroids_aslist(df_centroids)
-   # print ward_centroid_dict
+      print "Loaded your stuff!"
 
-   # GET THE ITEMS INTO DATAFRAME
-   # json_file_name = "bigger.json"
-   # df_items = get_items_asdataframe(json_file_name)
-   first_item = True
-   # df_items = get_ite
-   dataframelist = []
-   for filename in os.listdir(os.getcwd() + "/data"):
-      print filename
+      png_folder = os.getcwd() + "/ward_cat_occurence_graphs/"
+      for ward_key in ward_category_dict:            
+         temp_freq_dict = ward_category_dict.get(ward_key)
+         graph_occurences(temp_freq_dict, ward_key, png_folder)
 
-      # if (first_item == True):
-      #    print("TRUE")
-      #    df_items = get_items_asdataframe("data/" + filename)
-      #    print df_items.shape
-      #    first_item = False
-      # else:
-      #    print("FALSE")
-      #    df_items_temp = get_items_asdataframe("data/" + filename)
-      #    df_items.append(df_items_temp, ignore_index=True)
-      #    print df_items.shape
-      dataframelist.append(get_items_asdataframe("data/" + filename))
+   except IOError: 
+      # GET THE CENTROIDS INTO DATAFRAME
+      df_centroids = get_centroid_map(basePath)
+      
+      # debugItemDataColumns(df_centroids)
+      # print_full(df_centroids)
 
-   df_items = pd.concat(dataframelist)
+      # DATAFRAME TO DICTIONARY
+      ward_centroid_dict = get_centroids_aslist(df_centroids)
+      np.save("ward_centroid_dict.npy", ward_centroid_dict)
+      # print ward_centroid_dict
 
-   # print df_items.shape
-   # print_full(df_items)
+      # GET THE ITEMS INTO DATAFRAME
+      # json_file_name = "bigger.json"
+      # df_items = get_items_asdataframe(json_file_name)
+      first_item = True
+      # df_items = get_ite
+      dataframelist = []
+      for filename in os.listdir(os.getcwd() + "/data"):
+         print filename
 
-   # FIND NEAREST NEIGHBOUR OF THE ITEM USING HAVERSINE
-   print "Calculating the nearest neighbours."
-   ward_category_dict = get_most_common_categories_per_ward(ward_centroid_dict, df_items)
+         # if (first_item == True):
+         #    print("TRUE")
+         #    df_items = get_items_asdataframe("data/" + filename)
+         #    print df_items.shape
+         #    first_item = False
+         # else:
+         #    print("FALSE")
+         #    df_items_temp = get_items_asdataframe("data/" + filename)
+         #    df_items.append(df_items_temp, ignore_index=True)
+         #    print df_items.shape
+         dataframelist.append(get_items_asdataframe("data/" + filename))
 
-   # >>>> Save the raw association of postings to ward
-   print("Saving raw association of postings to ward")
-   ward_category_dict_to_npy(ward_category_dict)
+      df_items = pd.concat(dataframelist)
 
-   # >>>> Save the most common category
-   # get_most_common_category_per_ward_as_dict(ward_category_dict)
+      # print df_items.shape
+      # print_full(df_items)
 
-   # >>>> Graphing the occurences
-   # png_folder = os.getcwd() + "/ward_cat_occurence_graphs/"
-   # for ward_key in ward_category_dict:
-   #    temp_freq_dict = ward_category_dict.get(ward_key)
-   #    graph_occurences(temp_freq_dict, ward_key, png_folder)
+      # FIND NEAREST NEIGHBOUR OF THE ITEM USING HAVERSINE
+      print "Calculating the nearest neighbours."
+      ward_category_dict = get_most_common_categories_per_ward(ward_centroid_dict, df_items)
+
+      # >>>> Save the raw association of postings to ward
+      print("Saving raw association of postings to ward")
+      np.save("postings_to_ward.npy", ward_category_dict)
+      # >>>> Save the most common category
+      # get_most_common_category_per_ward_as_dict(ward_category_dict)
+
+      # >>>> Graphing the occurences
+      png_folder = os.getcwd() + "/ward_cat_occurence_graphs/"
+      for ward_key in ward_category_dict:
+         temp_freq_dict = ward_category_dict.get(ward_key)
+         graph_occurences(temp_freq_dict, ward_key, png_folder)

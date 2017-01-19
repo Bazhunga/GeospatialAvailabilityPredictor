@@ -11,6 +11,8 @@ import operator
 from haversine import *
 from pandas.io.json import json_normalize
 
+TORONTO_COORDINATES = (43.6532, -79.3832)
+
 target_to_class = {
 "app":1,"1":"app: appliances by owner",
 "ard":2,"2":"ard: arts and crafts by dealer",
@@ -38,7 +40,7 @@ target_to_class = {
 "ctd":24,"24":"ctd: cars & trucks - by dealer",
 "cto":25,"25":"cto: cars & trucks - by owner",
 "eld":26,"26":"eld: electronics - by dealer",
-"ele":27,"27":"ele: electronics - by owwner",
+"ele":27,"27":"ele: electronics - by owner",
 "emd":28,"28":"emd: cds / dvds / vhs - by owner",
 "emq":29,"29":"emq: cds / dvds / vhs - by dealer",
 "fod":30,"30":"fod: general for sale - by dealer",
@@ -95,11 +97,6 @@ popfeat_age = ["0 to 4 years",
                "5 to 9 years",
                "10 to 14 years",
                "15 to 19 years",
-               "15 years",
-               "16 years",
-               "17 years",
-               "18 years",
-               "19 years",
                "20 to 24 years",
                "25 to 29 years",
                "30 to 34 years",
@@ -115,22 +112,30 @@ popfeat_age = ["0 to 4 years",
                "80 to 84 years",
                "85 years and over"]
 
-popfeat_hhtype = ["Census family households",
-                  "One-family only households",
-                  "Couple family households",
-                  "Without children",
-                  "With children",
-                  "Lone-parent family households",
-                  "Other family households",
-                  "One-family households with persons not in a census family",
-                  "Couple family households",
-                  "Without children",
-                  "With children",
-                  "Lone-parent family households",
-                  "Two-or-more-family households",
-                  "Non-census family households",
-                  "One-person households",
-                  "Two-or-more-person households"]
+popfeat_hhtype = ["Single-detached house",
+                  "Semi-detached house",
+                  "Row house",
+                  "Apartment, duplex",
+                  "Apartment, building that has five or more storeys",
+                  "Apartment, building that has fewer than five storeys",
+                  "Other single-attached house",
+                  "Movable dwelling"]
+
+popfeat_familytype = ["Married couples Without children at home",
+                      "Married couples With 1 child",
+                      "Married couples With 2 children",
+                      "Married couples With 3 or more children",
+                      "Common-law couples Without children at home",
+                      "Common-law couples 1 child",
+                      "Common-law couples 2 children",
+                      "Common-law couples 3 or more children",
+                      "Lone Female parent with 1 child",
+                      "Lone Female parent with 2 children",
+                      "Lone Female parent with 3 or more children",
+                      "Lone Male parent with 1 child",
+                      "Lone Male parent with 2 children",
+                      "Lone Male parent with 3 or more children"]
+
 
 def haversine(lat1, lon1, lat2, lon2):
     """
@@ -146,3 +151,63 @@ def haversine(lat1, lon1, lat2, lon2):
     c = 2 * asin(sqrt(a)) 
     km = 6367 * c
     return km
+
+def get_centroid_map(basePath):
+   path = (basePath + "/centroids/centroid_data_toronto.csv")
+   # print path
+   df_items = pd.read_csv(path) # names=['GEO_ID','CREATE_ID','NAME', 'SCODE_NAME', 'LCODE_NAME', 'TYPE_DESC', 'TYPE_CODE', 'OBJECTID', 'xcoord', 'ycoord'])
+   df_items = df_items.drop(['GEO_ID', 'CREATE_ID', 'NAME', 'LCODE_NAME', 'TYPE_DESC', 'TYPE_CODE', 'OBJECTID'], 1)
+   df_items = df_items.sort_values(by=['SCODE_NAME'])
+   return df_items
+
+def get_centroids_aslist(df_centroids):
+   ward_centroid_dict = {}
+   for row in df_centroids.iterrows():
+      # print row[1]['SCODE_NAME']
+      ward_centroid_dict[int(row[1]['SCODE_NAME'])] = list([row[1]['ycoord'], row[1]['xcoord']])
+   return ward_centroid_dict
+
+def get_items_responsible_ward(item_coords, ward_centroid_dict):
+  distances = []
+  for key in ward_centroid_dict:
+    distances.append(haversine(item_coords[0], item_coords[1], ward_centroid_dict[key][0], ward_centroid_dict[key][1]))
+         
+  return distances.index(min(distances))
+
+def get_json_list(basePath):
+   dataPath = basePath + "/data/"
+   print(dataPath)
+   json_list = []
+
+   for filename in os.listdir(dataPath):
+      # print(filename)
+      json_list.append(filename)
+
+   json_list.sort()
+
+   # Make 2017 come after 2016
+   # Get first date --> this has the largets year
+   # Get last date --> this has the smallest year
+   # Rotate left until the first date has the smallest year
+   largest_date = json_list[0][6:10]
+   smallest_date = json_list[len(json_list) - 1][6:10]
+
+   count = 0
+   while(smallest_date not in json_list[count][6:10]):
+      count += 1
+
+   json_list = rotate(json_list, count)
+
+   return json_list
+
+def get_days_list(json_list):
+   days_list = []
+   for item in json_list:
+      temp_day = item[0:10]
+      if temp_day not in days_list:
+         days_list.append(temp_day)
+
+   return days_list
+
+def rotate(l, n):
+    return l[n:] + l[:n]

@@ -19,7 +19,7 @@ filename = datetime.now()
 filename = filename.strftime('%m_%d_%Y_%H_%M_%S.json')
 f = open(filename, 'a+')
 
-def main(): 
+def main():   
   f.write("{")
   first = True;
   for area in regionArray:

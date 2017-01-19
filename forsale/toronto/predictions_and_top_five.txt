@@ -1,0 +1,3388 @@
+Load successful
+Crafting your test set
+ward_23 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_24 
+Desired: 73 --> vgm: video gaming by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_20 
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_44  CORRECT!
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_44 
+Desired: 35 --> hab: health and beauty - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_5 
+Desired: 11 --> bfs: business/commercial - by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.117221788911
+32 --> fuo: furniture - by owner 0.110164953447
+22 --> clo: clothing and accessories by owner 0.0904514100673
+27 --> ele: electronics - by owwner 0.0698046334091
+51 --> msg: musical instruments - by owner 0.061446111873
+
+
+ward_6  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_5  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.117221788911
+32 --> fuo: furniture - by owner 0.110164953447
+22 --> clo: clothing and accessories by owner 0.0904514100673
+27 --> ele: electronics - by owwner 0.0698046334091
+51 --> msg: musical instruments - by owner 0.061446111873
+
+
+ward_19  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_13 
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_19 
+Desired: 70 --> tls: tools - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_32 
+Desired: 53 --> pho: photo/video - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_20 
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_20 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_39 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.153590410107
+32 --> fuo: furniture - by owner 0.0748989118275
+65 --> sys: computers - by owner 0.0645103382106
+22 --> clo: clothing and accessories by owner 0.0549077112203
+38 --> hsh: household items - by owner 0.0417404551636
+
+
+ward_36  CORRECT!
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_23 
+Desired: 53 --> pho: photo/video - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_41  CORRECT!
+Desired: 26 --> eld: electronics - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_32  CORRECT!
+Desired: 21 --> cld: clothing and accessories by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_23 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_19 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_19 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_18  Close!
+
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_6 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_18  Close!
+
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_16  CORRECT!
+Desired: 31 --> for: general for sale by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_30  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.100200499379
+38 --> hsh: household items - by owner 0.0936287851654
+23 --> clt: collectibles - by owner 0.077819368613
+22 --> clo: clothing and accessories by owner 0.0701297391724
+27 --> ele: electronics - by owwner 0.0648285050297
+
+
+ward_3 
+Desired: 43 --> mad: materials - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_19  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_21 
+Desired: 3 --> art: arts & crafts - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.0844205224885
+27 --> ele: electronics - by owwner 0.0842001091476
+32 --> fuo: furniture - by owner 0.0772912231648
+38 --> hsh: household items - by owner 0.0726048563517
+22 --> clo: clothing and accessories by owner 0.051837045807
+
+
+ward_26  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_34 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0965464929118
+32 --> fuo: furniture - by owner 0.0942517081815
+38 --> hsh: household items - by owner 0.07751098355
+27 --> ele: electronics - by owwner 0.0649990731961
+23 --> clt: collectibles - by owner 0.0571473530924
+
+
+ward_22  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_36 
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_4  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.0669071481595
+32 --> fuo: furniture - by owner 0.0610530824662
+22 --> clo: clothing and accessories by owner 0.0592787603125
+27 --> ele: electronics - by owwner 0.0486895731861
+63 --> spo: sporting good by owner 0.0439542248518
+
+
+ward_19  Close!
+
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_20 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_23 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_33  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_42  CORRECT!
+Desired: 77 --> wto: auto wheels & tires - by owner
+Top prediction: 77 --> wto: auto wheels & tires - by owner
+Top 5:
+77 --> wto: auto wheels & tires - by owner 0.300326825373
+32 --> fuo: furniture - by owner 0.0980741349747
+13 --> bik: bicycles - by owner 0.0838741219831
+31 --> for: general for sale by owner 0.0728985278376
+22 --> clo: clothing and accessories by owner 0.0520168806963
+
+
+ward_28 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_6 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_17  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_37  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.101230837839
+38 --> hsh: household items - by owner 0.0712480533765
+32 --> fuo: furniture - by owner 0.0617397933486
+27 --> ele: electronics - by owwner 0.0574602523896
+26 --> eld: electronics - by dealer 0.0533844991549
+
+
+ward_19  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_7  CORRECT!
+Desired: 64 --> syd: computers - by dealer
+Top prediction: 64 --> syd: computers - by dealer
+Top 5:
+64 --> syd: computers - by dealer 0.17084288602
+48 --> mod: cell phones - by dealer 0.0561351352911
+32 --> fuo: furniture - by owner 0.0516523309477
+26 --> eld: electronics - by dealer 0.0484786723767
+23 --> clt: collectibles - by owner 0.0474173099729
+
+
+ward_25  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.213461524406
+38 --> hsh: household items - by owner 0.0765111214349
+22 --> clo: clothing and accessories by owner 0.0628066653033
+31 --> for: general for sale by owner 0.05516408228
+23 --> clt: collectibles - by owner 0.0423227966541
+
+
+ward_44 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_44 
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_18  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_20  CORRECT!
+Desired: 48 --> mod: cell phones - by dealer
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_17  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_28 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_6 
+Desired: 35 --> hab: health and beauty - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_6  Close!
+
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_33 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_44 
+Desired: 25 --> cto: cars & trucks - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_26 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_32 
+Desired: 30 --> fod: general for sale - by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_12 
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 64 --> syd: computers - by dealer
+Top 5:
+64 --> syd: computers - by dealer 0.0837268322777
+22 --> clo: clothing and accessories by owner 0.0748373116455
+27 --> ele: electronics - by owwner 0.0566745157442
+32 --> fuo: furniture - by owner 0.0482893569657
+23 --> clt: collectibles - by owner 0.0448191806056
+
+
+ward_36  CORRECT!
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_29 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_15  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.135462419698
+38 --> hsh: household items - by owner 0.10822840918
+22 --> clo: clothing and accessories by owner 0.0908791035962
+51 --> msg: musical instruments - by owner 0.0615683825072
+32 --> fuo: furniture - by owner 0.0573878578707
+
+
+ward_26 
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_20 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_23  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_2 
+Desired: 35 --> hab: health and beauty - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.071034988423
+22 --> clo: clothing and accessories by owner 0.0675960635753
+38 --> hsh: household items - by owner 0.0540980291806
+27 --> ele: electronics - by owwner 0.0465444298543
+23 --> clt: collectibles - by owner 0.0462082237704
+
+
+ward_28 
+Desired: 53 --> pho: photo/video - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_32  CORRECT!
+Desired: 21 --> cld: clothing and accessories by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_33  Close!
+
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_11 
+Desired: 25 --> cto: cars & trucks - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.111621108107
+32 --> fuo: furniture - by owner 0.0724895544024
+38 --> hsh: household items - by owner 0.0550775584887
+63 --> spo: sporting good by owner 0.0503533691998
+70 --> tls: tools - by owner 0.0433676241939
+
+
+ward_13 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_40  CORRECT!
+Desired: 26 --> eld: electronics - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0924325803763
+27 --> ele: electronics - by owwner 0.0802816237978
+23 --> clt: collectibles - by owner 0.0706433107658
+32 --> fuo: furniture - by owner 0.0644704238793
+22 --> clo: clothing and accessories by owner 0.0641280985286
+
+
+ward_18  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_18  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_8 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 55 --> ptd: auto parts by dealer
+Top 5:
+55 --> ptd: auto parts by dealer 0.154188917121
+48 --> mod: cell phones - by dealer 0.131850871734
+27 --> ele: electronics - by owwner 0.0439819363265
+64 --> syd: computers - by dealer 0.0366454418963
+22 --> clo: clothing and accessories by owner 0.0344578205042
+
+
+ward_3  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_1 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 77 --> wto: auto wheels & tires - by owner
+Top 5:
+77 --> wto: auto wheels & tires - by owner 0.117119665005
+32 --> fuo: furniture - by owner 0.0987401689207
+64 --> syd: computers - by dealer 0.0772754093973
+31 --> for: general for sale by owner 0.0504809392027
+23 --> clt: collectibles - by owner 0.0484055185045
+
+
+ward_22 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_17  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_11  Close!
+
+Desired: 70 --> tls: tools - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.111621108107
+32 --> fuo: furniture - by owner 0.0724895544024
+38 --> hsh: household items - by owner 0.0550775584887
+63 --> spo: sporting good by owner 0.0503533691998
+70 --> tls: tools - by owner 0.0433676241939
+
+
+ward_19 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_19  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_14 
+Desired: 62 --> sop: computer parts by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.158268981382
+38 --> hsh: household items - by owner 0.110225689728
+22 --> clo: clothing and accessories by owner 0.0728770997844
+27 --> ele: electronics - by owwner 0.0660514946614
+23 --> clt: collectibles - by owner 0.0622303699781
+
+
+ward_5 
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.117221788911
+32 --> fuo: furniture - by owner 0.110164953447
+22 --> clo: clothing and accessories by owner 0.0904514100673
+27 --> ele: electronics - by owwner 0.0698046334091
+51 --> msg: musical instruments - by owner 0.061446111873
+
+
+ward_14  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.158268981382
+38 --> hsh: household items - by owner 0.110225689728
+22 --> clo: clothing and accessories by owner 0.0728770997844
+27 --> ele: electronics - by owwner 0.0660514946614
+23 --> clt: collectibles - by owner 0.0622303699781
+
+
+ward_28 
+Desired: 68 --> tix: tix by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_16  CORRECT!
+Desired: 31 --> for: general for sale by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_33 
+Desired: 11 --> bfs: business/commercial - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_19 
+Desired: 62 --> sop: computer parts by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_19  Close!
+
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_8 
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 55 --> ptd: auto parts by dealer
+Top 5:
+55 --> ptd: auto parts by dealer 0.154188917121
+48 --> mod: cell phones - by dealer 0.131850871734
+27 --> ele: electronics - by owwner 0.0439819363265
+64 --> syd: computers - by dealer 0.0366454418963
+22 --> clo: clothing and accessories by owner 0.0344578205042
+
+
+ward_27 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_16 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_26  CORRECT!
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_16  CORRECT!
+Desired: 31 --> for: general for sale by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_27  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_41  CORRECT!
+Desired: 26 --> eld: electronics - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_32  CORRECT!
+Desired: 21 --> cld: clothing and accessories by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_19  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_11 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.111621108107
+32 --> fuo: furniture - by owner 0.0724895544024
+38 --> hsh: household items - by owner 0.0550775584887
+63 --> spo: sporting good by owner 0.0503533691998
+70 --> tls: tools - by owner 0.0433676241939
+
+
+ward_17 
+Desired: 62 --> sop: computer parts by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_20  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_33  Close!
+
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_20 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_20 
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_20  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_41  Close!
+
+Desired: 65 --> sys: computers - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_30 
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.100200499379
+38 --> hsh: household items - by owner 0.0936287851654
+23 --> clt: collectibles - by owner 0.077819368613
+22 --> clo: clothing and accessories by owner 0.0701297391724
+27 --> ele: electronics - by owwner 0.0648285050297
+
+
+ward_20  CORRECT!
+Desired: 48 --> mod: cell phones - by dealer
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_28  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_21  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.0844205224885
+27 --> ele: electronics - by owwner 0.0842001091476
+32 --> fuo: furniture - by owner 0.0772912231648
+38 --> hsh: household items - by owner 0.0726048563517
+22 --> clo: clothing and accessories by owner 0.051837045807
+
+
+ward_43 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.06184780903
+23 --> clt: collectibles - by owner 0.054788264739
+22 --> clo: clothing and accessories by owner 0.0495939712738
+63 --> spo: sporting good by owner 0.0477554055111
+26 --> eld: electronics - by dealer 0.0450894778053
+
+
+ward_34  CORRECT!
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0965464929118
+32 --> fuo: furniture - by owner 0.0942517081815
+38 --> hsh: household items - by owner 0.07751098355
+27 --> ele: electronics - by owwner 0.0649990731961
+23 --> clt: collectibles - by owner 0.0571473530924
+
+
+ward_20  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_27 
+Desired: 73 --> vgm: video gaming by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_13 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_6 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_22  CORRECT!
+Desired: 52 --> phd: photo/video - by dealer
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_13  Close!
+
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_18  Close!
+
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_38 
+Desired: 55 --> ptd: auto parts by dealer
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.0904216037646
+23 --> clt: collectibles - by owner 0.0753868399228
+38 --> hsh: household items - by owner 0.0673157969095
+22 --> clo: clothing and accessories by owner 0.0610228201494
+27 --> ele: electronics - by owwner 0.0569322619649
+
+
+ward_5 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.117221788911
+32 --> fuo: furniture - by owner 0.110164953447
+22 --> clo: clothing and accessories by owner 0.0904514100673
+27 --> ele: electronics - by owwner 0.0698046334091
+51 --> msg: musical instruments - by owner 0.061446111873
+
+
+ward_22  CORRECT!
+Desired: 52 --> phd: photo/video - by dealer
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_28 
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_41  Close!
+
+Desired: 65 --> sys: computers - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_33 
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_28 
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_3 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_13 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_28  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_26 
+Desired: 28 --> emd: cds / dvds / vhs - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_3 
+Desired: 69 --> tld: tools - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_5  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.117221788911
+32 --> fuo: furniture - by owner 0.110164953447
+22 --> clo: clothing and accessories by owner 0.0904514100673
+27 --> ele: electronics - by owwner 0.0698046334091
+51 --> msg: musical instruments - by owner 0.061446111873
+
+
+ward_14 
+Desired: 28 --> emd: cds / dvds / vhs - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.158268981382
+38 --> hsh: household items - by owner 0.110225689728
+22 --> clo: clothing and accessories by owner 0.0728770997844
+27 --> ele: electronics - by owwner 0.0660514946614
+23 --> clt: collectibles - by owner 0.0622303699781
+
+
+ward_20  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_17 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_16  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_12 
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 64 --> syd: computers - by dealer
+Top 5:
+64 --> syd: computers - by dealer 0.0837268322777
+22 --> clo: clothing and accessories by owner 0.0748373116455
+27 --> ele: electronics - by owwner 0.0566745157442
+32 --> fuo: furniture - by owner 0.0482893569657
+23 --> clt: collectibles - by owner 0.0448191806056
+
+
+ward_32 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_32  CORRECT!
+Desired: 21 --> cld: clothing and accessories by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_31  Close!
+
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.0848150962827
+22 --> clo: clothing and accessories by owner 0.0754750483205
+38 --> hsh: household items - by owner 0.0747921249884
+23 --> clt: collectibles - by owner 0.0631984485595
+27 --> ele: electronics - by owwner 0.0605364273401
+
+
+ward_1  CORRECT!
+Desired: 77 --> wto: auto wheels & tires - by owner
+Top prediction: 77 --> wto: auto wheels & tires - by owner
+Top 5:
+77 --> wto: auto wheels & tires - by owner 0.117119665005
+32 --> fuo: furniture - by owner 0.0987401689207
+64 --> syd: computers - by dealer 0.0772754093973
+31 --> for: general for sale by owner 0.0504809392027
+23 --> clt: collectibles - by owner 0.0484055185045
+
+
+ward_11 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.111621108107
+32 --> fuo: furniture - by owner 0.0724895544024
+38 --> hsh: household items - by owner 0.0550775584887
+63 --> spo: sporting good by owner 0.0503533691998
+70 --> tls: tools - by owner 0.0433676241939
+
+
+ward_6  Close!
+
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_3 
+Desired: 37 --> hsd: household items - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_5 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.117221788911
+32 --> fuo: furniture - by owner 0.110164953447
+22 --> clo: clothing and accessories by owner 0.0904514100673
+27 --> ele: electronics - by owwner 0.0698046334091
+51 --> msg: musical instruments - by owner 0.061446111873
+
+
+ward_23 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_11  Close!
+
+Desired: 70 --> tls: tools - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.111621108107
+32 --> fuo: furniture - by owner 0.0724895544024
+38 --> hsh: household items - by owner 0.0550775584887
+63 --> spo: sporting good by owner 0.0503533691998
+70 --> tls: tools - by owner 0.0433676241939
+
+
+ward_3 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_27  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_33  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_6 
+Desired: 59 --> sgd: sporting goods - by dealer
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_20  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_24  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_2 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.071034988423
+22 --> clo: clothing and accessories by owner 0.0675960635753
+38 --> hsh: household items - by owner 0.0540980291806
+27 --> ele: electronics - by owwner 0.0465444298543
+23 --> clt: collectibles - by owner 0.0462082237704
+
+
+ward_24 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_44  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_24  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_6 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.108644789682
+38 --> hsh: household items - by owner 0.0847491524183
+22 --> clo: clothing and accessories by owner 0.0816751590149
+23 --> clt: collectibles - by owner 0.0563824120105
+5 --> atq: antiques - by owner 0.0533533746953
+
+
+ward_23 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_3 
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_32  Close!
+
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_17 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_41  CORRECT!
+Desired: 26 --> eld: electronics - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_33 
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.15346328078
+23 --> clt: collectibles - by owner 0.109967715191
+38 --> hsh: household items - by owner 0.0651699026047
+15 --> bks: books & magazines - by owner 0.0460705504254
+27 --> ele: electronics - by owwner 0.0455839316108
+
+
+ward_20 
+Desired: 42 --> jwl: jewelry - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_26 
+Desired: 25 --> cto: cars & trucks - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_32  CORRECT!
+Desired: 21 --> cld: clothing and accessories by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_20 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_20  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_36  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_3 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_29  Close!
+
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_22  CORRECT!
+Desired: 52 --> phd: photo/video - by dealer
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_41  Close!
+
+Desired: 65 --> sys: computers - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_24 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_28 
+Desired: 62 --> sop: computer parts by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_38 
+Desired: 68 --> tix: tix by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.0904216037646
+23 --> clt: collectibles - by owner 0.0753868399228
+38 --> hsh: household items - by owner 0.0673157969095
+22 --> clo: clothing and accessories by owner 0.0610228201494
+27 --> ele: electronics - by owwner 0.0569322619649
+
+
+ward_27 
+Desired: 68 --> tix: tix by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_25  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.213461524406
+38 --> hsh: household items - by owner 0.0765111214349
+22 --> clo: clothing and accessories by owner 0.0628066653033
+31 --> for: general for sale by owner 0.05516408228
+23 --> clt: collectibles - by owner 0.0423227966541
+
+
+ward_36 
+Desired: 28 --> emd: cds / dvds / vhs - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_18 
+Desired: 68 --> tix: tix by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_27  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_19  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_23 
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_2 
+Desired: 77 --> wto: auto wheels & tires - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.071034988423
+22 --> clo: clothing and accessories by owner 0.0675960635753
+38 --> hsh: household items - by owner 0.0540980291806
+27 --> ele: electronics - by owwner 0.0465444298543
+23 --> clt: collectibles - by owner 0.0462082237704
+
+
+ward_21  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.0844205224885
+27 --> ele: electronics - by owwner 0.0842001091476
+32 --> fuo: furniture - by owner 0.0772912231648
+38 --> hsh: household items - by owner 0.0726048563517
+22 --> clo: clothing and accessories by owner 0.051837045807
+
+
+ward_29  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_38 
+Desired: 68 --> tix: tix by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.0904216037646
+23 --> clt: collectibles - by owner 0.0753868399228
+38 --> hsh: household items - by owner 0.0673157969095
+22 --> clo: clothing and accessories by owner 0.0610228201494
+27 --> ele: electronics - by owwner 0.0569322619649
+
+
+ward_39 
+Desired: 52 --> phd: photo/video - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.153590410107
+32 --> fuo: furniture - by owner 0.0748989118275
+65 --> sys: computers - by owner 0.0645103382106
+22 --> clo: clothing and accessories by owner 0.0549077112203
+38 --> hsh: household items - by owner 0.0417404551636
+
+
+ward_28  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_17 
+Desired: 49 --> mpo: motorcycle parts - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_44  CORRECT!
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_8 
+Desired: 35 --> hab: health and beauty - by owner
+Top prediction: 55 --> ptd: auto parts by dealer
+Top 5:
+55 --> ptd: auto parts by dealer 0.154188917121
+48 --> mod: cell phones - by dealer 0.131850871734
+27 --> ele: electronics - by owwner 0.0439819363265
+64 --> syd: computers - by dealer 0.0366454418963
+22 --> clo: clothing and accessories by owner 0.0344578205042
+
+
+ward_26  CORRECT!
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_41  Close!
+
+Desired: 65 --> sys: computers - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_19  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_10 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.12974753377
+27 --> ele: electronics - by owwner 0.128797177348
+22 --> clo: clothing and accessories by owner 0.100803379394
+32 --> fuo: furniture - by owner 0.0634195608552
+51 --> msg: musical instruments - by owner 0.0537881527827
+
+
+ward_24  Close!
+
+Desired: 52 --> phd: photo/video - by dealer
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_31 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.0848150962827
+22 --> clo: clothing and accessories by owner 0.0754750483205
+38 --> hsh: household items - by owner 0.0747921249884
+23 --> clt: collectibles - by owner 0.0631984485595
+27 --> ele: electronics - by owwner 0.0605364273401
+
+
+ward_19  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_27 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_20  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_22 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_20  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_29  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_22  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_13  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_27  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_13 
+Desired: 24 --> ctd: cars & trucks - by dealer
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_41 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_25  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.213461524406
+38 --> hsh: household items - by owner 0.0765111214349
+22 --> clo: clothing and accessories by owner 0.0628066653033
+31 --> for: general for sale by owner 0.05516408228
+23 --> clt: collectibles - by owner 0.0423227966541
+
+
+ward_32 
+Desired: 42 --> jwl: jewelry - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_41  Close!
+
+Desired: 65 --> sys: computers - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_28 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_11  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.111621108107
+32 --> fuo: furniture - by owner 0.0724895544024
+38 --> hsh: household items - by owner 0.0550775584887
+63 --> spo: sporting good by owner 0.0503533691998
+70 --> tls: tools - by owner 0.0433676241939
+
+
+ward_19  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_32 
+Desired: 11 --> bfs: business/commercial - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_36 
+Desired: 44 --> mat: materials by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_27  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_13 
+Desired: 73 --> vgm: video gaming by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_27  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_13 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_31 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.0848150962827
+22 --> clo: clothing and accessories by owner 0.0754750483205
+38 --> hsh: household items - by owner 0.0747921249884
+23 --> clt: collectibles - by owner 0.0631984485595
+27 --> ele: electronics - by owwner 0.0605364273401
+
+
+ward_17 
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_10 
+Desired: 3 --> art: arts & crafts - by owner
+Top prediction: 38 --> hsh: household items - by owner
+Top 5:
+38 --> hsh: household items - by owner 0.12974753377
+27 --> ele: electronics - by owwner 0.128797177348
+22 --> clo: clothing and accessories by owner 0.100803379394
+32 --> fuo: furniture - by owner 0.0634195608552
+51 --> msg: musical instruments - by owner 0.0537881527827
+
+
+ward_16  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_13  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_26  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_15 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.135462419698
+38 --> hsh: household items - by owner 0.10822840918
+22 --> clo: clothing and accessories by owner 0.0908791035962
+51 --> msg: musical instruments - by owner 0.0615683825072
+32 --> fuo: furniture - by owner 0.0573878578707
+
+
+ward_12  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 64 --> syd: computers - by dealer
+Top 5:
+64 --> syd: computers - by dealer 0.0837268322777
+22 --> clo: clothing and accessories by owner 0.0748373116455
+27 --> ele: electronics - by owwner 0.0566745157442
+32 --> fuo: furniture - by owner 0.0482893569657
+23 --> clt: collectibles - by owner 0.0448191806056
+
+
+ward_13 
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_44 
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_29  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_16  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_36 
+Desired: 3 --> art: arts & crafts - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_7  Close!
+
+Desired: 48 --> mod: cell phones - by dealer
+Top prediction: 64 --> syd: computers - by dealer
+Top 5:
+64 --> syd: computers - by dealer 0.17084288602
+48 --> mod: cell phones - by dealer 0.0561351352911
+32 --> fuo: furniture - by owner 0.0516523309477
+26 --> eld: electronics - by dealer 0.0484786723767
+23 --> clt: collectibles - by owner 0.0474173099729
+
+
+ward_1  CORRECT!
+Desired: 77 --> wto: auto wheels & tires - by owner
+Top prediction: 77 --> wto: auto wheels & tires - by owner
+Top 5:
+77 --> wto: auto wheels & tires - by owner 0.117119665005
+32 --> fuo: furniture - by owner 0.0987401689207
+64 --> syd: computers - by dealer 0.0772754093973
+31 --> for: general for sale by owner 0.0504809392027
+23 --> clt: collectibles - by owner 0.0484055185045
+
+
+ward_17 
+Desired: 63 --> spo: sporting good by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_24  CORRECT!
+Desired: 54 --> ppd: appliances by dealer
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_28 
+Desired: 65 --> sys: computers - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_40  CORRECT!
+Desired: 26 --> eld: electronics - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0924325803763
+27 --> ele: electronics - by owwner 0.0802816237978
+23 --> clt: collectibles - by owner 0.0706433107658
+32 --> fuo: furniture - by owner 0.0644704238793
+22 --> clo: clothing and accessories by owner 0.0641280985286
+
+
+ward_24 
+Desired: 51 --> msg: musical instruments - by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_44  CORRECT!
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_35 
+Desired: 1 --> app: appliances by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.140791475501
+32 --> fuo: furniture - by owner 0.0699265070327
+38 --> hsh: household items - by owner 0.0698323102525
+27 --> ele: electronics - by owwner 0.061850924997
+63 --> spo: sporting good by owner 0.0440913295538
+
+
+ward_29  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_16 
+Desired: 3 --> art: arts & crafts - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_18  Close!
+
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.113902909113
+38 --> hsh: household items - by owner 0.0707426678448
+22 --> clo: clothing and accessories by owner 0.0701126288234
+23 --> clt: collectibles - by owner 0.0612400459738
+5 --> atq: antiques - by owner 0.0512065219919
+
+
+ward_27 
+Desired: 35 --> hab: health and beauty - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_32  CORRECT!
+Desired: 21 --> cld: clothing and accessories by dealer
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_32 
+Desired: 25 --> cto: cars & trucks - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_32  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 21 --> cld: clothing and accessories by dealer
+Top 5:
+21 --> cld: clothing and accessories by dealer 0.371483040532
+32 --> fuo: furniture - by owner 0.0977678518894
+38 --> hsh: household items - by owner 0.0537390673568
+23 --> clt: collectibles - by owner 0.0499114981657
+31 --> for: general for sale by owner 0.0488258026136
+
+
+ward_19 
+Desired: 53 --> pho: photo/video - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_16 
+Desired: 33 --> grd: farm & garden - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_1  Close!
+
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 77 --> wto: auto wheels & tires - by owner
+Top 5:
+77 --> wto: auto wheels & tires - by owner 0.117119665005
+32 --> fuo: furniture - by owner 0.0987401689207
+64 --> syd: computers - by dealer 0.0772754093973
+31 --> for: general for sale by owner 0.0504809392027
+23 --> clt: collectibles - by owner 0.0484055185045
+
+
+ward_3  Close!
+
+Desired: 50 --> msd: musical instruments - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_26 
+Desired: 28 --> emd: cds / dvds / vhs - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_24 
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_23  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_35  CORRECT!
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.140791475501
+32 --> fuo: furniture - by owner 0.0699265070327
+38 --> hsh: household items - by owner 0.0698323102525
+27 --> ele: electronics - by owwner 0.061850924997
+63 --> spo: sporting good by owner 0.0440913295538
+
+
+ward_20  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_29  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_3  Close!
+
+Desired: 50 --> msd: musical instruments - by dealer
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.0717924515694
+22 --> clo: clothing and accessories by owner 0.0715406445322
+38 --> hsh: household items - by owner 0.0556239658447
+32 --> fuo: furniture - by owner 0.0514857207951
+50 --> msd: musical instruments - by dealer 0.0497356707209
+
+
+ward_22 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_43 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.06184780903
+23 --> clt: collectibles - by owner 0.054788264739
+22 --> clo: clothing and accessories by owner 0.0495939712738
+63 --> spo: sporting good by owner 0.0477554055111
+26 --> eld: electronics - by dealer 0.0450894778053
+
+
+ward_27  Close!
+
+Desired: 27 --> ele: electronics - by owwner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_13 
+Desired: 13 --> bik: bicycles - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_8 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 55 --> ptd: auto parts by dealer
+Top 5:
+55 --> ptd: auto parts by dealer 0.154188917121
+48 --> mod: cell phones - by dealer 0.131850871734
+27 --> ele: electronics - by owwner 0.0439819363265
+64 --> syd: computers - by dealer 0.0366454418963
+22 --> clo: clothing and accessories by owner 0.0344578205042
+
+
+ward_26 
+Desired: 15 --> bks: books & magazines - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_20 
+Desired: 67 --> tag: toys and games by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_35 
+Desired: 68 --> tix: tix by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.140791475501
+32 --> fuo: furniture - by owner 0.0699265070327
+38 --> hsh: household items - by owner 0.0698323102525
+27 --> ele: electronics - by owwner 0.061850924997
+63 --> spo: sporting good by owner 0.0440913295538
+
+
+ward_22  Close!
+
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_41 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_19  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_28 
+Desired: 31 --> for: general for sale by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.208222785766
+22 --> clo: clothing and accessories by owner 0.118555464749
+38 --> hsh: household items - by owner 0.0734386367699
+13 --> bik: bicycles - by owner 0.0516899684212
+27 --> ele: electronics - by owwner 0.0399961125872
+
+
+ward_19  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.218786669253
+22 --> clo: clothing and accessories by owner 0.0905162333089
+38 --> hsh: household items - by owner 0.0716974159298
+51 --> msg: musical instruments - by owner 0.0509457551973
+27 --> ele: electronics - by owwner 0.0491875902425
+
+
+ward_13  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_2 
+Desired: 11 --> bfs: business/commercial - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.071034988423
+22 --> clo: clothing and accessories by owner 0.0675960635753
+38 --> hsh: household items - by owner 0.0540980291806
+27 --> ele: electronics - by owwner 0.0465444298543
+23 --> clt: collectibles - by owner 0.0462082237704
+
+
+ward_29 
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_22  Close!
+
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 52 --> phd: photo/video - by dealer
+Top 5:
+52 --> phd: photo/video - by dealer 0.424131830667
+32 --> fuo: furniture - by owner 0.126835949916
+22 --> clo: clothing and accessories by owner 0.043414914404
+38 --> hsh: household items - by owner 0.0370852387281
+51 --> msg: musical instruments - by owner 0.0357010806708
+
+
+ward_20 
+Desired: 23 --> clt: collectibles - by owner
+Top prediction: 48 --> mod: cell phones - by dealer
+Top 5:
+48 --> mod: cell phones - by dealer 0.15735351207
+22 --> clo: clothing and accessories by owner 0.123163908401
+32 --> fuo: furniture - by owner 0.0820528416436
+27 --> ele: electronics - by owwner 0.0790894448938
+38 --> hsh: household items - by owner 0.0667265408555
+
+
+ward_13  CORRECT!
+Desired: 32 --> fuo: furniture - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.111592342061
+38 --> hsh: household items - by owner 0.082326521713
+31 --> for: general for sale by owner 0.0752180191771
+27 --> ele: electronics - by owwner 0.0683091207303
+22 --> clo: clothing and accessories by owner 0.0633702831589
+
+
+ward_21 
+Desired: 5 --> atq: antiques - by owner
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.0844205224885
+27 --> ele: electronics - by owwner 0.0842001091476
+32 --> fuo: furniture - by owner 0.0772912231648
+38 --> hsh: household items - by owner 0.0726048563517
+22 --> clo: clothing and accessories by owner 0.051837045807
+
+
+ward_41 
+Desired: 53 --> pho: photo/video - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.183720649997
+65 --> sys: computers - by owner 0.0961320122657
+32 --> fuo: furniture - by owner 0.0864141215647
+22 --> clo: clothing and accessories by owner 0.0666577315565
+38 --> hsh: household items - by owner 0.0430500270791
+
+
+ward_24  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 54 --> ppd: appliances by dealer
+Top 5:
+54 --> ppd: appliances by dealer 0.21699381744
+32 --> fuo: furniture - by owner 0.107220155467
+52 --> phd: photo/video - by dealer 0.104368455133
+38 --> hsh: household items - by owner 0.0647174370911
+22 --> clo: clothing and accessories by owner 0.0401133609793
+
+
+ward_26 
+Desired: 56 --> pts: auto parts by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_7  CORRECT!
+Desired: 64 --> syd: computers - by dealer
+Top prediction: 64 --> syd: computers - by dealer
+Top 5:
+64 --> syd: computers - by dealer 0.17084288602
+48 --> mod: cell phones - by dealer 0.0561351352911
+32 --> fuo: furniture - by owner 0.0516523309477
+26 --> eld: electronics - by dealer 0.0484786723767
+23 --> clt: collectibles - by owner 0.0474173099729
+
+
+ward_39 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 26 --> eld: electronics - by dealer
+Top 5:
+26 --> eld: electronics - by dealer 0.153590410107
+32 --> fuo: furniture - by owner 0.0748989118275
+65 --> sys: computers - by owner 0.0645103382106
+22 --> clo: clothing and accessories by owner 0.0549077112203
+38 --> hsh: household items - by owner 0.0417404551636
+
+
+ward_26 
+Desired: 35 --> hab: health and beauty - by owner
+Top prediction: 27 --> ele: electronics - by owwner
+Top 5:
+27 --> ele: electronics - by owwner 0.122022794076
+31 --> for: general for sale by owner 0.0825076792622
+32 --> fuo: furniture - by owner 0.0669017081544
+23 --> clt: collectibles - by owner 0.0647427861592
+64 --> syd: computers - by dealer 0.0617554379236
+
+
+ward_29 
+Desired: 49 --> mpo: motorcycle parts - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_17 
+Desired: 19 --> bpo: boat parts - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.107658441229
+22 --> clo: clothing and accessories by owner 0.0871526234302
+38 --> hsh: household items - by owner 0.071585350348
+23 --> clt: collectibles - by owner 0.0500859312449
+5 --> atq: antiques - by owner 0.0416574321267
+
+
+ward_37 
+Desired: 77 --> wto: auto wheels & tires - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.101230837839
+38 --> hsh: household items - by owner 0.0712480533765
+32 --> fuo: furniture - by owner 0.0617397933486
+27 --> ele: electronics - by owwner 0.0574602523896
+26 --> eld: electronics - by dealer 0.0533844991549
+
+
+ward_27 
+Desired: 6 --> bab: baby & kid stuff - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.127713556652
+22 --> clo: clothing and accessories by owner 0.119293486498
+38 --> hsh: household items - by owner 0.0860370566378
+27 --> ele: electronics - by owwner 0.0717396123798
+47 --> mob: cell phones - by owner 0.0468970643994
+
+
+ward_36 
+Desired: 47 --> mob: cell phones - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+ward_23  CORRECT!
+Desired: 22 --> clo: clothing and accessories by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.145391161611
+38 --> hsh: household items - by owner 0.141752432872
+32 --> fuo: furniture - by owner 0.129693024547
+27 --> ele: electronics - by owwner 0.0875308969207
+23 --> clt: collectibles - by owner 0.0513503015166
+
+
+ward_44 
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 13 --> bik: bicycles - by owner
+Top 5:
+13 --> bik: bicycles - by owner 0.156984722334
+32 --> fuo: furniture - by owner 0.112693086394
+77 --> wto: auto wheels & tires - by owner 0.0585237202317
+22 --> clo: clothing and accessories by owner 0.0542098136915
+63 --> spo: sporting good by owner 0.0485622790953
+
+
+ward_29 
+Desired: 53 --> pho: photo/video - by owner
+Top prediction: 32 --> fuo: furniture - by owner
+Top 5:
+32 --> fuo: furniture - by owner 0.10910657974
+23 --> clt: collectibles - by owner 0.0686266399547
+38 --> hsh: household items - by owner 0.06344544968
+27 --> ele: electronics - by owwner 0.0532088576183
+5 --> atq: antiques - by owner 0.0472687543201
+
+
+ward_16 
+Desired: 64 --> syd: computers - by dealer
+Top prediction: 31 --> for: general for sale by owner
+Top 5:
+31 --> for: general for sale by owner 0.154128629303
+32 --> fuo: furniture - by owner 0.125580071461
+38 --> hsh: household items - by owner 0.076034451236
+23 --> clt: collectibles - by owner 0.0523903292151
+22 --> clo: clothing and accessories by owner 0.046316239843
+
+
+ward_36  Close!
+
+Desired: 38 --> hsh: household items - by owner
+Top prediction: 22 --> clo: clothing and accessories by owner
+Top 5:
+22 --> clo: clothing and accessories by owner 0.0890241610938
+32 --> fuo: furniture - by owner 0.0706149234556
+38 --> hsh: household items - by owner 0.0685965449626
+31 --> for: general for sale by owner 0.0502475946637
+63 --> spo: sporting good by owner 0.047851784913
+
+
+Percent correct
+0.2
+Percent close (close count + correct count)
+0.473333333333

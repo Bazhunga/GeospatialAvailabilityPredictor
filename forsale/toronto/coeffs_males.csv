@@ -1,0 +1,78 @@
+app: appliances by owner,0 to 4 years: 0.0005295,30 to 34 years: 0.0005074,40 to 44 years: 0.0004258,45 to 49 years: 0.0003137,80 to 84 years: 0.0001726
+ard: arts and crafts by dealer,85 years and over: -5.8726673e-05,80 to 84 years: -7.1856150e-05,75 to 79 years: -9.6436565e-05,70 to 74 years: -0.0001135,65 to 69 years: -0.0001462
+art: arts & crafts - by owner,35 to 39 years: 0.0006447,20 to 24 years: 0.0006409,40 to 44 years: 0.0006190,60 to 64 years: 0.0005229,55 to 59 years: 0.0001495
+atd: antiques - by dealer,85 years and over: -3.4176115e-05,80 to 84 years: -4.6770918e-05,75 to 79 years: -6.5499273e-05,70 to 74 years: -8.8269213e-05,65 to 69 years: -0.0001093
+atq: antiques - by owner,65 to 69 years: 0.0008197,50 to 54 years: 0.0007362,35 to 39 years: 0.0007108,70 to 74 years: 0.0006456,30 to 34 years: 0.0006347
+bab: baby & kid stuff - by owner,30 to 34 years: 0.0010035,55 to 59 years: 0.0006739,85 years and over: 0.0006545,0 to 4 years: 0.0005052,5 to 9 years: 0.0004902
+bad: baby & kid stuff - by dealer,85 years and over: -4.8907753e-05,80 to 84 years: -6.8456668e-05,75 to 79 years: -9.8331799e-05,70 to 74 years: -0.0001297,65 to 69 years: -0.0001702
+bar: barter,85 years and over: -8.4964455e-05,80 to 84 years: -0.0001057,75 to 79 years: -0.0001441,70 to 74 years: -0.0001699,65 to 69 years: -0.0002116
+bdp: bicycle parts - by dealer,50 to 54 years: 2.3803511e-05,55 to 59 years: 4.0463586e-06,60 to 64 years: -2.3658422e-06,65 to 69 years: -7.7618148e-06,70 to 74 years: -1.9872702e-05
+bfd: business/commercial - by dealer,20 to 24 years: 0.0010261,0 to 4 years: 0.0007167,5 to 9 years: 0.0005238,10 to 14 years: 0.0004476,15 to 19 years: 0.0002862
+bfs: business/commercial - by owner,10 to 14 years: 0.0006746,50 to 54 years: 0.0006118,80 to 84 years: 0.0004955,30 to 34 years: 0.0004806,20 to 24 years: 0.0003697
+bid: bicycles - by dealer,30 to 34 years: 0.0003278,50 to 54 years: 0.0002722,85 years and over: 0.0001979,80 to 84 years: 0.0001407,55 to 59 years: 0.0001111
+bik: bicycles - by owner,60 to 64 years: 0.0017121,35 to 39 years: 0.0010523,55 to 59 years: 0.0010076,65 to 69 years: 0.0009485,15 to 19 years: 0.0008651
+bkd: books & magazines - by dealer,85 years and over: -5.6357345e-05,80 to 84 years: -6.9004385e-05,75 to 79 years: -8.7021494e-05,70 to 74 years: -9.9839874e-05,65 to 69 years: -0.0001212
+bks: books & magazines - by owner,40 to 44 years: 0.0019337,5 to 9 years: 0.0007056,45 to 49 years: 0.0006681,25 to 29 years: 0.0005022,20 to 24 years: 0.0004901
+boa: boats - by owner,50 to 54 years: 5.6950491e-05,55 to 59 years: 5.0686968e-05,60 to 64 years: 4.9822354e-05,45 to 49 years: 3.2152486e-05,70 to 74 years: 1.4520341e-05
+bod: boats - by dealer,10 to 14 years: 0.0001078,15 to 19 years: 8.9737208e-05,5 to 9 years: 6.5489138e-05,0 to 4 years: 2.4339079e-05,75 to 79 years: 1.8548504e-05
+bop: bicycle parts - by owner,35 to 39 years: 0.0008060,30 to 34 years: 0.0005249,50 to 54 years: 0.0003958,55 to 59 years: 0.0002495,40 to 44 years: 0.0002396
+bpo: boat parts - by owner,45 to 49 years: 0.0003718,25 to 29 years: 0.0002701,20 to 24 years: 0.0002360,30 to 34 years: 0.0002114,55 to 59 years: 0.0002081
+cbd: collectibles - by dealer,50 to 54 years: 5.7932480e-05,55 to 59 years: 1.4243549e-05,60 to 64 years: -6.5023382e-06,45 to 49 years: -1.3497051e-05,65 to 69 years: -1.3538855e-05
+cld: clothing and accessories by dealer,35 to 39 years: 0.0032176,40 to 44 years: 0.0028819,45 to 49 years: 0.0023974,55 to 59 years: 0.0012451,0 to 4 years: 0.0009141
+clo: clothing and accessories by owner,50 to 54 years: 0.0007898,30 to 34 years: 0.0006272,25 to 29 years: 0.0006233,0 to 4 years: 0.0005477,55 to 59 years: 0.0005118
+clt: collectibles - by owner,35 to 39 years: 0.0012390,70 to 74 years: 0.0010114,40 to 44 years: 0.0009200,15 to 19 years: 0.0004597,75 to 79 years: 0.0004201
+ctd: cars & trucks - by dealer,0 to 4 years: 0.0010399,10 to 14 years: 0.0009837,15 to 19 years: 0.0008711,20 to 24 years: 0.0007529,5 to 9 years: 0.0006534
+cto: cars & trucks - by owner,0 to 4 years: 0.0002101,20 to 24 years: 0.0002005,30 to 34 years: 0.0001788,25 to 29 years: 0.0001750,40 to 44 years: 0.0001739
+eld: electronics - by dealer,45 to 49 years: 0.0021365,75 to 79 years: 0.0015656,20 to 24 years: 0.0011863,0 to 4 years: 0.0010378,80 to 84 years: 0.0010297
+ele: electronics - by owner,85 years and over: 0.0021424,40 to 44 years: 0.0007598,0 to 4 years: 0.0006634,25 to 29 years: 0.0006538,35 to 39 years: 0.0006089
+emd: cds / dvds / vhs - by owner,85 years and over: 0.0012837,40 to 44 years: 0.0008295,35 to 39 years: 0.0005854,60 to 64 years: 0.0003712,55 to 59 years: 0.0002921
+emq: cds / dvds / vhs - by dealer,0 to 4 years: 8.9241331e-05,5 to 9 years: 7.3929028e-05,40 to 44 years: 7.4313983e-06,85 years and over: -1.3159999e-05,10 to 14 years: -1.9048973e-05
+fod: general for sale - by dealer,35 to 39 years: 0.0006804,0 to 4 years: 0.0005423,40 to 44 years: 0.0004481,30 to 34 years: 0.0003840,5 to 9 years: 0.0001554
+for: general for sale by owner,5 to 9 years: 0.0031926,60 to 64 years: 0.0017672,55 to 59 years: 0.0009428,35 to 39 years: 0.0008664,65 to 69 years: 0.0005873
+fuo: furniture - by owner,30 to 34 years: 0.0011365,35 to 39 years: 0.0011062,10 to 14 years: 0.0010801,40 to 44 years: 0.0009155,15 to 19 years: 0.0007180
+grd: farm & garden - by owner,50 to 54 years: 0.0010052,55 to 59 years: 0.0009184,60 to 64 years: 0.0008780,45 to 49 years: 0.0005675,65 to 69 years: 0.0004374
+grq: farm and garden by dealer,60 to 64 years: 0.0010813,20 to 24 years: 0.0010746,55 to 59 years: 0.0007101,15 to 19 years: 0.0005719,45 to 49 years: 0.0003746
+hab: health and beauty - by owner,50 to 54 years: 0.0009904,0 to 4 years: 0.0007487,45 to 49 years: 0.0005274,20 to 24 years: 0.0004067,55 to 59 years: 0.0003625
+had: health and beauty - by dealer,25 to 29 years: 0.0002916,30 to 34 years: 0.0001886,20 to 24 years: 0.0001314,35 to 39 years: -7.3602336e-06,85 years and over: -5.9539691e-05
+hsd: household items - by dealer,20 to 24 years: 0.0005383,10 to 14 years: 0.0002765,15 to 19 years: 0.0002229,0 to 4 years: 0.0002071,5 to 9 years: 0.0001707
+hsh: household items - by owner,35 to 39 years: 0.0009685,30 to 34 years: 0.0008333,85 years and over: 0.0006751,50 to 54 years: 0.0006581,40 to 44 years: 0.0006177
+hvd: heavy equipment - by dealer,20 to 24 years: 0.0002382,0 to 4 years: 0.0001739,5 to 9 years: 0.0001562,10 to 14 years: 0.0001209,15 to 19 years: 9.4185729e-05
+hvo: heavy equipment - by owner,20 to 24 years: 6.4558617e-05,30 to 34 years: 4.7627156e-05,25 to 29 years: 1.4446176e-05,60 to 64 years: 5.9092004e-06,85 years and over: 1.8766532e-06
+jwd: jewelry - by dealer,80 to 84 years: -4.5338023e-05,85 years and over: -4.7619454e-05,70 to 74 years: -5.7513441e-05,75 to 79 years: -5.8255710e-05,65 to 69 years: -0.0001049
+jwl: jewelry - by owner,20 to 24 years: 0.0011929,0 to 4 years: 0.0006468,50 to 54 years: 0.0003659,30 to 34 years: 0.0002851,65 to 69 years: 0.0002689
+mad: materials - by dealer,10 to 14 years: 0.0010819,85 years and over: 0.0010552,5 to 9 years: 0.0007866,0 to 4 years: 0.0007464,80 to 84 years: 0.0004962
+mat: materials by owner,20 to 24 years: 0.0010099,15 to 19 years: 0.0002871,25 to 29 years: 0.0002670,0 to 4 years: 0.0002121,10 to 14 years: 0.0001762
+mcd: motorcycles/scooters - by dealer,25 to 29 years: 0.0003048,30 to 34 years: 0.0001968,20 to 24 years: 0.0001139,35 to 39 years: -3.3476602e-06,80 to 84 years: -3.6527243e-05
+mcy: motorcycles/scooters - by owner,30 to 34 years: 0.0003189,25 to 29 years: 0.0002670,55 to 59 years: 7.0727913e-05,60 to 64 years: 6.4908569e-05,35 to 39 years: 6.0255917e-05
+mob: cell phones - by owner,40 to 44 years: 0.0008173,80 to 84 years: 0.0005949,35 to 39 years: 0.0005324,20 to 24 years: 0.0005248,85 years and over: 0.0003594
+mod: cell phones - by dealer,10 to 14 years: 0.0013888,75 to 79 years: 0.0013273,15 to 19 years: 0.0011410,30 to 34 years: 0.0010799,70 to 74 years: 0.0010341
+mpo: motorcycle parts - by owner,50 to 54 years: 0.0004381,30 to 34 years: 0.0003349,55 to 59 years: 0.0002298,45 to 49 years: 0.0002297,35 to 39 years: 0.0002245
+msd: musical instruments - by dealer,55 to 59 years: 0.0007820,50 to 54 years: 0.0007737,75 to 79 years: 0.0005727,10 to 14 years: 0.0005412,85 years and over: 0.0005011
+msg: musical instruments - by owner,35 to 39 years: 0.0010175,85 years and over: 0.0008935,30 to 34 years: 0.0008426,55 to 59 years: 0.0005842,10 to 14 years: 0.0004530
+phd: photo/video - by dealer,65 to 69 years: 0.0045922,60 to 64 years: 0.0033436,25 to 29 years: 0.0030154,70 to 74 years: 0.0029320,75 to 79 years: 0.0025197
+pho: photo/video - by owner,40 to 44 years: 0.0008175,45 to 49 years: 0.0007546,80 to 84 years: 0.0004561,75 to 79 years: 0.0003679,70 to 74 years: 0.0003576
+ppd: appliances by dealer,75 to 79 years: 0.0024978,85 years and over: 0.0024722,80 to 84 years: 0.0024258,70 to 74 years: 0.0021521,65 to 69 years: 0.0016819
+ptd: auto parts by dealer,20 to 24 years: 0.0027514,15 to 19 years: 0.0013857,10 to 14 years: 0.0008472,75 to 79 years: 0.0006637,0 to 4 years: 0.0004799
+pts: auto parts by owner,20 to 24 years: 0.0009645,50 to 54 years: 0.0009202,45 to 49 years: 0.0003651,0 to 4 years: 0.0003067,15 to 19 years: 0.0002943
+rvs: rvs by owner,85 years and over: -5.1651493e-05,80 to 84 years: -5.9199377e-05,25 to 29 years: -7.3818342e-05,75 to 79 years: -7.7613868e-05,70 to 74 years: -7.8931626e-05
+sdp: computer parts by dealer,25 to 29 years: 0.0003454,20 to 24 years: 0.0003205,15 to 19 years: 0.0003128,30 to 34 years: 0.0002104,45 to 49 years: 9.5859821e-05
+sgd: sporting goods - by dealer,50 to 54 years: 6.9501015e-05,55 to 59 years: 3.1517867e-05,60 to 64 years: 1.9310328e-05,45 to 49 years: 8.5748746e-06,65 to 69 years: 7.1619135e-06
+snd: atvs, utvs, snowmobiles - by dealer,85 years and over: -8.4043802e-05,80 to 84 years: -0.0001004,75 to 79 years: -0.0001344,70 to 74 years: -0.0001610,65 to 69 years: -0.0002115
+snw: atvs, utvs, snowmobiles - by owner,50 to 54 years: 4.5217164e-05,60 to 64 years: 1.9219225e-05,55 to 59 years: 1.7624224e-05,65 to 69 years: 2.2672120e-06,70 to 74 years: -1.4028136e-05
+sop: computer parts by owner,60 to 64 years: 0.0006170,35 to 39 years: 0.0005659,25 to 29 years: 0.0002737,70 to 74 years: 0.0002641,15 to 19 years: 0.0002595
+spo: sporting good by owner,30 to 34 years: 0.0008691,50 to 54 years: 0.0006996,55 to 59 years: 0.0006978,0 to 4 years: 0.0005386,5 to 9 years: 0.0005088
+syd: computers - by dealer,30 to 34 years: 0.0018585,75 to 79 years: 0.0015691,0 to 4 years: 0.0015185,45 to 49 years: 0.0014505,70 to 74 years: 0.0011441
+sys: computers - by owner,60 to 64 years: 0.0014509,25 to 29 years: 0.0009297,45 to 49 years: 0.0005823,0 to 4 years: 0.0005728,35 to 39 years: 0.0004291
+tad: toys & games - by dealer,75 to 79 years: 0.0004824,80 to 84 years: 0.0004368,85 years and over: 0.0004092,50 to 54 years: 0.0003825,10 to 14 years: 0.0003464
+tag: toys and games by owner,50 to 54 years: 0.0010392,0 to 4 years: 0.0008117,30 to 34 years: 0.0007443,55 to 59 years: 0.0005881,45 to 49 years: 0.0004234
+tix: tix by owner,40 to 44 years: 0.0010035,45 to 49 years: 0.0008747,25 to 29 years: 0.0005752,20 to 24 years: 0.0003634,10 to 14 years: 0.0002641
+tld: tools - by dealer,20 to 24 years: 0.0018009,10 to 14 years: 0.0009102,15 to 19 years: 0.0008629,75 to 79 years: 0.0007307,80 to 84 years: 0.0007157
+tls: tools - by owner,50 to 54 years: 0.0009651,0 to 4 years: 0.0007730,45 to 49 years: 0.0006824,55 to 59 years: 0.0006245,15 to 19 years: 0.0005674
+tro: trailers - by owner,50 to 54 years: 5.9739379e-05,55 to 59 years: 2.8735085e-05,45 to 49 years: 1.5862396e-05,35 to 39 years: 5.9613141e-06,60 to 64 years: 5.5980307e-07
+vgd: video gaming - by dealer,20 to 24 years: 0.0001558,5 to 9 years: 0.0001049,10 to 14 years: 9.5036028e-05,0 to 4 years: 8.7359202e-05,15 to 19 years: 7.0632951e-05
+vgm: video gaming by owner,30 to 34 years: 0.0004787,35 to 39 years: 0.0003683,85 years and over: 0.0002407,25 to 29 years: 0.0001880,0 to 4 years: 0.0001514
+wad: wanted - by dealer,25 to 29 years: 0.0012911,20 to 24 years: 0.0006803,30 to 34 years: 0.0006457,80 to 84 years: -0.0001070,85 years and over: -0.0001355
+wan: wanted by owner,25 to 29 years: 0.0004120,20 to 24 years: 0.0002107,30 to 34 years: 0.0001424,85 years and over: 7.1149424e-05,35 to 39 years: 1.6967865e-05
+wtd: auto wheels & tires - by dealer,10 to 14 years: 0.0001402,15 to 19 years: 0.0001166,5 to 9 years: 0.0001127,0 to 4 years: 4.5688849e-05,20 to 24 years: 2.3651701e-05
+wto: auto wheels & tires - by owner,10 to 14 years: 0.0014052,15 to 19 years: 0.0012839,25 to 29 years: 0.0006103,35 to 39 years: 0.0005711,60 to 64 years: 0.0005015
+zip: free stuff,85 years and over: -8.3823699e-05,80 to 84 years: -0.0001078,75 to 79 years: -0.0001438,70 to 74 years: -0.0001688,65 to 69 years: -0.0002152

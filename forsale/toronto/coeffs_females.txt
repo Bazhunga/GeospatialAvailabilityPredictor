@@ -1,0 +1,468 @@
+Category: app: appliances by owner
+     0 to 4 years: 0.000677980117022
+     30 to 34 years: 0.000538234024335
+     85 years and over: 0.000422552330974
+     70 to 74 years: 0.000260868405171
+     25 to 29 years: 0.000215714890285
+Category: ard: arts and crafts by dealer
+     80 to 84 years: -9.5319011053e-05
+     85 years and over: -0.000102296636725
+     75 to 79 years: -0.000109647989312
+     70 to 74 years: -0.000123375383934
+     65 to 69 years: -0.000149329583808
+Category: art: arts & crafts - by owner
+     30 to 34 years: 0.00054024784479
+     60 to 64 years: 0.000415198960793
+     55 to 59 years: 0.000341437983427
+     35 to 39 years: 0.000276186529415
+     40 to 44 years: 0.000262256020413
+Category: atd: antiques - by dealer
+     80 to 84 years: -4.74940052117e-05
+     85 years and over: -5.41422508558e-05
+     75 to 79 years: -6.53794697069e-05
+     70 to 74 years: -8.89885413751e-05
+     65 to 69 years: -0.000107776830347
+Category: atq: antiques - by owner
+     50 to 54 years: 0.00101851808043
+     35 to 39 years: 0.000944249374174
+     65 to 69 years: 0.000825317119017
+     5 to 9 years: 0.000738260332571
+     55 to 59 years: 0.000727822560223
+Category: bab: baby & kid stuff - by owner
+     30 to 34 years: 0.000911654164817
+     55 to 59 years: 0.000639953236191
+     80 to 84 years: 0.00055335230897
+     50 to 54 years: 0.000492916039681
+     85 years and over: 0.000414376623511
+Category: bad: baby & kid stuff - by dealer
+     80 to 84 years: -7.9451073503e-05
+     85 years and over: -8.5126417178e-05
+     75 to 79 years: -0.000104409825673
+     70 to 74 years: -0.000135288498494
+     65 to 69 years: -0.000170560462472
+Category: bar: barter
+     80 to 84 years: -0.00013686406882
+     85 years and over: -0.000142045667777
+     75 to 79 years: -0.000163148905787
+     70 to 74 years: -0.000188033984122
+     65 to 69 years: -0.000221522199589
+Category: bdp: bicycle parts - by dealer
+     55 to 59 years: 1.43040980241e-05
+     45 to 49 years: 2.36399347643e-07
+     60 to 64 years: -4.15748362729e-06
+     50 to 54 years: -8.29243005677e-06
+     65 to 69 years: -1.13152688253e-05
+Category: bfd: business/commercial - by dealer
+     0 to 4 years: 0.000850488875669
+     5 to 9 years: 0.000802863015523
+     20 to 24 years: 0.000787364997611
+     15 to 19 years: 0.000616606898314
+     10 to 14 years: 0.000451296183542
+Category: bfs: business/commercial - by owner
+     15 to 19 years: 0.000875424067482
+     75 to 79 years: 0.000787876548421
+     80 to 84 years: 0.000616500934344
+     30 to 34 years: 0.000590470564415
+     0 to 4 years: 0.00056708078018
+Category: bid: bicycles - by dealer
+     85 years and over: 0.000545826127969
+     80 to 84 years: 0.000264105945814
+     75 to 79 years: 0.000186828760366
+     30 to 34 years: 0.000182756526425
+     25 to 29 years: 0.000168248561265
+Category: bik: bicycles - by owner
+     50 to 54 years: 0.00113309820707
+     30 to 34 years: 0.000899116911753
+     55 to 59 years: 0.000887020638089
+     60 to 64 years: 0.000866931993275
+     65 to 69 years: 0.00077958374096
+Category: bkd: books & magazines - by dealer
+     80 to 84 years: -8.06064449733e-05
+     85 years and over: -8.8232142892e-05
+     75 to 79 years: -9.44719673704e-05
+     70 to 74 years: -0.000113907825886
+     65 to 69 years: -0.000131272496947
+Category: bks: books & magazines - by owner
+     35 to 39 years: 0.00116332683109
+     40 to 44 years: 0.000681430185353
+     20 to 24 years: 0.000471400307368
+     65 to 69 years: 0.000469817351474
+     60 to 64 years: 0.000366814008815
+Category: boa: boats - by owner
+     60 to 64 years: -2.09109820197e-06
+     55 to 59 years: -1.07760836528e-05
+     80 to 84 years: -1.50408872278e-05
+     75 to 79 years: -1.5384791137e-05
+     70 to 74 years: -1.91636426151e-05
+Category: bod: boats - by dealer
+     10 to 14 years: 0.000110444407341
+     15 to 19 years: 0.000103877364664
+     5 to 9 years: 8.16129989147e-05
+     0 to 4 years: 4.0409666058e-05
+     75 to 79 years: 2.64895080229e-05
+Category: bop: bicycle parts - by owner
+     30 to 34 years: 0.000652156036851
+     35 to 39 years: 0.000606041130568
+     50 to 54 years: 0.000566908920684
+     45 to 49 years: 0.000376362554394
+     40 to 44 years: 0.000211228358004
+Category: bpo: boat parts - by owner
+     20 to 24 years: 0.00065124409969
+     25 to 29 years: 0.000250581705131
+     15 to 19 years: 0.000165983974091
+     50 to 54 years: 4.27257617953e-05
+     55 to 59 years: 2.29672071399e-05
+Category: cbd: collectibles - by dealer
+     55 to 59 years: 1.4577674505e-05
+     45 to 49 years: 1.20646543957e-05
+     50 to 54 years: -1.15934308119e-05
+     0 to 4 years: -1.57983522724e-05
+     60 to 64 years: -1.92086467634e-05
+Category: cld: clothing and accessories by dealer
+     35 to 39 years: 0.00290456642808
+     40 to 44 years: 0.00247948669899
+     45 to 49 years: 0.00195831579096
+     0 to 4 years: 0.00125556216375
+     55 to 59 years: 0.000922603529068
+Category: clo: clothing and accessories by owner
+     50 to 54 years: 0.00114969433123
+     30 to 34 years: 0.00108715042978
+     85 years and over: 0.000786814702953
+     10 to 14 years: 0.000547165732858
+     15 to 19 years: 0.000350896491152
+Category: clt: collectibles - by owner
+     35 to 39 years: 0.00172089584831
+     40 to 44 years: 0.000962404111019
+     65 to 69 years: 0.000662847824193
+     70 to 74 years: 0.000561140366945
+     20 to 24 years: 0.000327209439563
+Category: ctd: cars & trucks - by dealer
+     5 to 9 years: 0.00105651846194
+     15 to 19 years: 0.00104613614839
+     0 to 4 years: 0.00102919628525
+     10 to 14 years: 0.00101252764783
+     20 to 24 years: 0.000704676114767
+Category: cto: cars & trucks - by owner
+     10 to 14 years: 0.00034229090026
+     85 years and over: 0.000337610794951
+     25 to 29 years: 0.000259439281598
+     0 to 4 years: 0.00022669604373
+     30 to 34 years: 0.000226401874834
+Category: eld: electronics - by dealer
+     45 to 49 years: 0.00347710005513
+     70 to 74 years: 0.00275374269694
+     0 to 4 years: 0.00176832814686
+     75 to 79 years: 0.00156526080897
+     25 to 29 years: 0.0013038459672
+Category: ele: electronics - by owner
+     0 to 4 years: 0.00185337690252
+     30 to 34 years: 0.000959352933183
+     85 years and over: 0.000924527518541
+     60 to 64 years: 0.000708885208871
+     50 to 54 years: 0.000615888304744
+Category: emd: cds / dvds / vhs - by owner
+     85 years and over: 0.0010311829916
+     80 to 84 years: 0.000453970410441
+     30 to 34 years: 0.000450210398625
+     0 to 4 years: 0.000339189641004
+     40 to 44 years: 0.000310373244459
+Category: emq: cds / dvds / vhs - by dealer
+     0 to 4 years: 0.000122813390581
+     5 to 9 years: 6.16196142777e-05
+     10 to 14 years: 8.43719988589e-06
+     85 years and over: -2.53858411928e-05
+     80 to 84 years: -3.00658169082e-05
+Category: fod: general for sale - by dealer
+     0 to 4 years: 0.000692937004062
+     35 to 39 years: 0.000562960067646
+     30 to 34 years: 0.000431238450634
+     40 to 44 years: 0.000296520356439
+     5 to 9 years: 0.000273845698576
+Category: for: general for sale by owner
+     85 years and over: 0.00213281251787
+     5 to 9 years: 0.00194302994299
+     40 to 44 years: 0.00188384857777
+     55 to 59 years: 0.0011068735266
+     35 to 39 years: 0.000894800891497
+Category: fuo: furniture - by owner
+     40 to 44 years: 0.00208944525112
+     55 to 59 years: 0.000950203826247
+     5 to 9 years: 0.000810297262703
+     35 to 39 years: 0.000731109120105
+     10 to 14 years: 0.000725910224797
+Category: grd: farm & garden - by owner
+     55 to 59 years: 0.00108328993272
+     60 to 64 years: 0.000604620697126
+     45 to 49 years: 0.000506645939134
+     35 to 39 years: 0.000426983088789
+     50 to 54 years: 0.000347297852833
+Category: grq: farm and garden by dealer
+     45 to 49 years: 0.000863750983638
+     60 to 64 years: 0.000845475529661
+     15 to 19 years: 0.00069752378739
+     55 to 59 years: 0.000648561802588
+     20 to 24 years: 0.000578331084367
+Category: hab: health and beauty - by owner
+     0 to 4 years: 0.00096871855854
+     30 to 34 years: 0.000536672601321
+     45 to 49 years: 0.000452584380701
+     50 to 54 years: 0.000368947891672
+     25 to 29 years: 0.000203715602796
+Category: had: health and beauty - by dealer
+     25 to 29 years: 0.000215184198468
+     20 to 24 years: 9.03694980505e-05
+     30 to 34 years: 6.17753634975e-05
+     75 to 79 years: -7.55289968446e-05
+     80 to 84 years: -8.56382207707e-05
+Category: hsd: household items - by dealer
+     20 to 24 years: 0.000393809247517
+     15 to 19 years: 0.000369902767417
+     5 to 9 years: 0.000342902053078
+     10 to 14 years: 0.000307346014997
+     0 to 4 years: 0.000247672189297
+Category: hsh: household items - by owner
+     35 to 39 years: 0.00165423863651
+     30 to 34 years: 0.00098466253537
+     85 years and over: 0.000963797454776
+     40 to 44 years: 0.000776421288093
+     50 to 54 years: 0.000703543534469
+Category: hvd: heavy equipment - by dealer
+     0 to 4 years: 0.000201681178881
+     5 to 9 years: 0.000200141364654
+     20 to 24 years: 0.000191568508769
+     15 to 19 years: 0.000154441648158
+     10 to 14 years: 0.000125123997068
+Category: hvo: heavy equipment - by owner
+     85 years and over: 9.78285966154e-05
+     50 to 54 years: 4.1889747106e-05
+     45 to 49 years: 3.60696543264e-05
+     30 to 34 years: 1.96583025427e-05
+     55 to 59 years: 1.36412380283e-05
+Category: jwd: jewelry - by dealer
+     75 to 79 years: -5.82790755179e-05
+     70 to 74 years: -6.3625445185e-05
+     80 to 84 years: -7.08492409363e-05
+     65 to 69 years: -7.80094399185e-05
+     85 years and over: -8.56277052879e-05
+Category: jwl: jewelry - by owner
+     85 years and over: 0.000983842538777
+     20 to 24 years: 0.000729130454253
+     0 to 4 years: 0.00064480090066
+     45 to 49 years: 0.000383914222181
+     30 to 34 years: 0.000255528626862
+Category: mad: materials - by dealer
+     0 to 4 years: 0.000921731130297
+     5 to 9 years: 0.000917328096122
+     85 years and over: 0.000837185399754
+     80 to 84 years: 0.00080185168521
+     10 to 14 years: 0.000721305892734
+Category: mat: materials by owner
+     20 to 24 years: 0.000661980690032
+     15 to 19 years: 0.000462918909508
+     25 to 29 years: 0.000240190798114
+     85 years and over: 0.000206042474297
+     50 to 54 years: 0.000186473453433
+Category: mcd: motorcycles/scooters - by dealer
+     25 to 29 years: 0.000309488207602
+     20 to 24 years: 0.000177431701615
+     30 to 34 years: 0.000116833484785
+     75 to 79 years: -4.26984036687e-05
+     70 to 74 years: -5.28260599725e-05
+Category: mcy: motorcycles/scooters - by owner
+     25 to 29 years: 0.000302126026787
+     30 to 34 years: 0.000210918166532
+     20 to 24 years: 0.000159907985717
+     55 to 59 years: 7.1943178142e-05
+     60 to 64 years: 5.85196832094e-05
+Category: mob: cell phones - by owner
+     85 years and over: 0.000550559390382
+     30 to 34 years: 0.000523056032632
+     80 to 84 years: 0.000507339123255
+     20 to 24 years: 0.000364596376612
+     40 to 44 years: 0.000347641132408
+Category: mod: cell phones - by dealer
+     10 to 14 years: 0.00222597813025
+     25 to 29 years: 0.00150054325639
+     75 to 79 years: 0.0011880495902
+     15 to 19 years: 0.000916682285109
+     0 to 4 years: 0.000862745795214
+Category: mpo: motorcycle parts - by owner
+     30 to 34 years: 0.000295857394693
+     45 to 49 years: 0.000222315611228
+     55 to 59 years: 0.000208269638963
+     60 to 64 years: 0.000157353952057
+     50 to 54 years: 0.000116542316954
+Category: msd: musical instruments - by dealer
+     50 to 54 years: 0.00083011329097
+     15 to 19 years: 0.000688393373133
+     80 to 84 years: 0.000644640391917
+     85 years and over: 0.000615413224863
+     75 to 79 years: 0.000592549358886
+Category: msg: musical instruments - by owner
+     85 years and over: 0.000871282817984
+     30 to 34 years: 0.000756744193324
+     50 to 54 years: 0.000516679502096
+     55 to 59 years: 0.000507052785904
+     80 to 84 years: 0.000325640881631
+Category: phd: photo/video - by dealer
+     65 to 69 years: 0.00337764286362
+     60 to 64 years: 0.00308214734582
+     85 years and over: 0.00285611165695
+     70 to 74 years: 0.00200394831077
+     25 to 29 years: 0.00143335095924
+Category: pho: photo/video - by owner
+     25 to 29 years: 0.000491672806423
+     45 to 49 years: 0.000484444351695
+     75 to 79 years: 0.000363397320154
+     35 to 39 years: 0.00032906924975
+     10 to 14 years: 0.000261282749549
+Category: ppd: appliances by dealer
+     85 years and over: 0.00261263982662
+     70 to 74 years: 0.00223040442355
+     80 to 84 years: 0.00190446453552
+     75 to 79 years: 0.00175171590782
+     60 to 64 years: 0.00163347479276
+Category: ptd: auto parts by dealer
+     20 to 24 years: 0.00208726399332
+     5 to 9 years: 0.00123572401756
+     75 to 79 years: 0.00102158360969
+     15 to 19 years: 0.000997612029327
+     70 to 74 years: 0.000813598635234
+Category: pts: auto parts by owner
+     45 to 49 years: 0.00139429993892
+     15 to 19 years: 0.000486631473044
+     0 to 4 years: 0.000414520982242
+     20 to 24 years: 0.000384423586444
+     60 to 64 years: 0.000374502775508
+Category: rvs: rvs by owner
+     20 to 24 years: -6.49589153294e-05
+     80 to 84 years: -7.09832682473e-05
+     85 years and over: -7.38470566252e-05
+     75 to 79 years: -7.70623352644e-05
+     25 to 29 years: -8.15409594378e-05
+Category: sdp: computer parts by dealer
+     20 to 24 years: 0.000432440498512
+     15 to 19 years: 0.000376626884869
+     25 to 29 years: 0.000231688807417
+     10 to 14 years: 0.000106667872486
+     30 to 34 years: 1.77345555186e-05
+Category: sgd: sporting goods - by dealer
+     55 to 59 years: 5.41913359223e-05
+     45 to 49 years: 4.38177498087e-05
+     50 to 54 years: 2.84138164709e-05
+     60 to 64 years: 2.55452465515e-05
+     65 to 69 years: 7.83978101694e-06
+Category: snd: atvs, utvs, snowmobiles - by dealer
+     80 to 84 years: -0.000133410699523
+     85 years and over: -0.00014477893992
+     75 to 79 years: -0.00015285007906
+     70 to 74 years: -0.000178867852338
+     65 to 69 years: -0.000216417775203
+Category: snw: atvs, utvs, snowmobiles - by owner
+     55 to 59 years: 1.90457030564e-05
+     60 to 64 years: 3.66091428116e-06
+     45 to 49 years: 9.96364095795e-07
+     65 to 69 years: -1.12637231296e-05
+     50 to 54 years: -1.23392152486e-05
+Category: sop: computer parts by owner
+     45 to 49 years: 0.0005679773664
+     40 to 44 years: 0.000453029925191
+     70 to 74 years: 0.000371816905665
+     25 to 29 years: 0.00034566458323
+     60 to 64 years: 0.000327427426167
+Category: spo: sporting good by owner
+     45 to 49 years: 0.000823257365438
+     30 to 34 years: 0.00078833151772
+     55 to 59 years: 0.000700783329136
+     5 to 9 years: 0.000339576744365
+     25 to 29 years: 0.000304467741183
+Category: syd: computers - by dealer
+     75 to 79 years: 0.00172585438718
+     70 to 74 years: 0.00167456293215
+     10 to 14 years: 0.00141369144911
+     0 to 4 years: 0.000875863027253
+     35 to 39 years: 0.00076148238225
+Category: sys: computers - by owner
+     45 to 49 years: 0.00191775047002
+     25 to 29 years: 0.00156349708629
+     60 to 64 years: 0.000631763797335
+     15 to 19 years: 0.000406235203765
+     70 to 74 years: 0.000376773822645
+Category: tad: toys & games - by dealer
+     80 to 84 years: 0.000615380330307
+     75 to 79 years: 0.000604126685622
+     85 years and over: 0.000522398228608
+     70 to 74 years: 0.000426075257481
+     50 to 54 years: 0.000419309329951
+Category: tag: toys and games by owner
+     0 to 4 years: 0.000830967807172
+     30 to 34 years: 0.000676344021176
+     55 to 59 years: 0.000541155076841
+     50 to 54 years: 0.000422404384957
+     25 to 29 years: 0.000367642535248
+Category: tix: tix by owner
+     65 to 69 years: 0.000959313710776
+     60 to 64 years: 0.000782819599204
+     30 to 34 years: 0.000694626180018
+     0 to 4 years: 0.000586961385557
+     5 to 9 years: 0.000488805290375
+Category: tld: tools - by dealer
+     15 to 19 years: 0.0013985657872
+     20 to 24 years: 0.00136281863492
+     5 to 9 years: 0.000955954340674
+     75 to 79 years: 0.000879827996665
+     80 to 84 years: 0.00073913029132
+Category: tls: tools - by owner
+     15 to 19 years: 0.000750587766667
+     25 to 29 years: 0.000593409741775
+     45 to 49 years: 0.000495306795109
+     50 to 54 years: 0.000472144643055
+     0 to 4 years: 0.000441760286234
+Category: tro: trailers - by owner
+     45 to 49 years: 3.80921755547e-05
+     55 to 59 years: 2.93869182837e-05
+     35 to 39 years: 6.99181223663e-06
+     50 to 54 years: -2.12166805712e-06
+     0 to 4 years: -6.29162659682e-06
+Category: vgd: video gaming - by dealer
+     5 to 9 years: 0.000144319457989
+     15 to 19 years: 0.00012610410143
+     10 to 14 years: 0.000124115913384
+     0 to 4 years: 0.000123005355187
+     20 to 24 years: 0.000104820960355
+Category: vgm: video gaming by owner
+     30 to 34 years: 0.000665725315022
+     50 to 54 years: 0.000395950263726
+     25 to 29 years: 0.000272212884482
+     85 years and over: 0.000264917614982
+     55 to 59 years: 0.000106964271222
+Category: wad: wanted - by dealer
+     25 to 29 years: 0.00128254838562
+     20 to 24 years: 0.000809590988674
+     30 to 34 years: 0.000408744110355
+     85 years and over: -0.000163923283561
+     75 to 79 years: -0.000168256872495
+Category: wan: wanted by owner
+     25 to 29 years: 0.000455038280746
+     20 to 24 years: 0.000197733234551
+     85 years and over: 0.000187605086085
+     30 to 34 years: 8.88673592984e-05
+     80 to 84 years: 3.85427470478e-05
+Category: wtd: auto wheels & tires - by dealer
+     10 to 14 years: 0.000166692761214
+     15 to 19 years: 0.000143957578268
+     5 to 9 years: 0.000134332069869
+     0 to 4 years: 8.30686917232e-05
+     75 to 79 years: -2.33173285289e-05
+Category: wto: auto wheels & tires - by owner
+     10 to 14 years: 0.00182998980371
+     15 to 19 years: 0.00113680814495
+     25 to 29 years: 0.000600068632918
+     60 to 64 years: 0.00055326072623
+     55 to 59 years: 0.000447443222966
+Category: zip: free stuff
+     80 to 84 years: -0.000137233867694
+     85 years and over: -0.000144042761387
+     75 to 79 years: -0.000161705106028
+     70 to 74 years: -0.000188847553339
+     65 to 69 years: -0.000222797456197

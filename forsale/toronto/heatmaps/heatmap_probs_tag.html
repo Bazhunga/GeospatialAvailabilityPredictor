@@ -1,0 +1,188 @@
+
+        <!DOCTYPE html>
+        <head>
+            
+        
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster-src.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+        
+        
+        
+            
+            <style>
+
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                }
+
+            #map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+            
+        
+            
+            <style> #map_ef1439fc449b4b1797b38c9fcf8ba865 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+        
+            
+        
+            <script src="https://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+        
+        
+        
+        
+        </head>
+        <body>
+            
+        
+            
+            <div class="folium-map" id="map_ef1439fc449b4b1797b38c9fcf8ba865" ></div>
+        
+        
+        
+        </body>
+        <script>
+            
+        
+            
+
+            var southWest = L.latLng(-90, -180);
+            var northEast = L.latLng(90, 180);
+            var bounds = L.latLngBounds(southWest, northEast);
+
+            var map_ef1439fc449b4b1797b38c9fcf8ba865 = L.map('map_ef1439fc449b4b1797b38c9fcf8ba865', {
+                                           center:[43.6532,-79.3832],
+                                           zoom: 10,
+                                           maxBounds: bounds,
+                                           layers: [],
+                                           crs: L.CRS.EPSG3857
+                                         });
+            L.control.scale().addTo(map_ef1439fc449b4b1797b38c9fcf8ba865);
+        
+        
+            
+            var tile_layer_dfbab3fae2c5419caa6bb609c21d9af0 = L.tileLayer(
+                'http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    attribution: 'USGS style',
+                    detectRetina: false
+                    }
+                ).addTo(map_ef1439fc449b4b1797b38c9fcf8ba865);
+
+        
+        
+            
+            var heat_map_13ad3e2a875a46d0ba5236eff1741ef9 = L.heatLayer(
+                [[43.741800184100001, -79.595697895699999, 22.472623847451384], [43.706927809600003, -79.574862316299999, 33.082501069197448], [43.652797825900002, -79.571561512100004, 28.498865796781644], [43.676371511499994, -79.538827701499997, 27.726403663955622], [43.634387567600001, -79.5254414443, 37.35307914625826], [43.606797108199999, -79.518153511000008, 59.118683149902118], [43.744899052400001, -79.540843956999993, 30.893606176843658], [43.766027490399999, -79.496745760799996, 21.325388609912356], [43.73690174, -79.484393789500004, 42.301108513051354], [43.761562583, -79.448095856199998, 27.384444727706111], [43.687287044799994, -79.501370101600003, 59.082310828528875], [43.703476782700008, -79.48496045600001, 46.236029910702257], [43.652130294700001, -79.4778219839, 46.441314314963769], [43.645436211099998, -79.444339865000003, 35.940521884581159], [43.7120380283, -79.449673430499999, 26.775763663594837], [43.724921458599994, -79.415812234000001, 32.508736179543412], [43.679248081200001, -79.450234330200004, 47.945186687274102], [43.657136365, -79.438233512600007, 43.651262661906493], [43.648856437399999, -79.416576544799995, 33.331652257258405], [43.654605579300004, -79.398789868199998, 13.604165282651813], [43.689315807600003, -79.424773987799995, 33.140638457912772], [43.696033229099996, -79.396200465699991, 21.905369910729704], [43.7724359642, -79.418182412500002, 28.164248521597859], [43.792389159999999, -79.378513813799998, 11.206971205028465], [43.738812914200004, -79.376729628299998, 22.359172806059245], [43.712061637700003, -79.349677469100001, 41.218213899496732], [43.673855160400002, -79.380716834300003, 20.40499736394041], [43.639081406700001, -79.372078155200001, 43.478558551351682], [43.689476851099997, -79.347606755100003, 45.957213254783625], [43.657011836000002, -79.339555440600009, 44.275330328195601], [43.700396573999996, -79.311057994099997, 58.243681883532261], [43.6731462941, -79.30609094430001, 27.256731451107083], [43.781515671400001, -79.347171124200003, 25.542652953164342], [43.745243535, -79.329098365699991, 35.067722619032864], [43.715760926800002, -79.273984098599996, 53.493557884907126], [43.714231720699999, -79.243858148699999, 42.19885129918962], [43.749152821899997, -79.281233649599997, 42.591346937878988], [43.764016034799994, -79.238549090500001, 32.045880641334385], [43.805879044799994, -79.312444269600007, 23.082930203433023], [43.777781969499998, -79.3050071041, 34.236012195050556], [43.807907496499993, -79.269174622600005, 27.222563136926013], [43.820887153699999, -79.205387460200001, 22.501694133624362], [43.765501960500004, -79.202999919099994, 43.519301284414325], [43.786029480799996, -79.160042744700007, 31.88003314647079]],
+                {
+                    minOpacity: 0.5,
+                    maxZoom: 18,
+                    max: 1.0,
+                    radius: 20,
+                    blur: 15,
+                    gradient: null
+                    })
+                .addTo(map_ef1439fc449b4b1797b38c9fcf8ba865);
+        
+        
+        
+        </script>
+        

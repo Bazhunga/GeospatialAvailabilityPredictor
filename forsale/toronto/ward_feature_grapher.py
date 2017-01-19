@@ -38,7 +38,7 @@ def get_ward_info_as_dict(df_wpop):
       ward_string = "ward_" + str(ward)
       wi_dict[ward_string]={}
       # print(row[1][ward_string])
-      ward_df_accessor = "Ward " + str(ward)
+      ward_df_accessor = "Ward " + str(ward) # Column in the CSV
       for row in df_wpop.iterrows():
          wi_dict[ward_string][row[1]['Category']] = row[1][ward_df_accessor]
 
@@ -75,10 +75,11 @@ if __name__ == "__main__":
    # Usage
    # Put a csv file with the fn format being 2011_Ward_POP_by_<POPTYPE>.csv
    # Create a directory with fn format being 2011_Ward_POP_by_<POPTYPE>
-   poptype = "agegroup"
+   # poptype = "agegroup"
    # poptype = "females"
    # poptype = "males"
    # poptype = "householdtype"
+   poptype = "familytype"
 
    # Load the ward csv into dataframe
    df_wpop = get_ward_info(basePath, poptype)
@@ -87,5 +88,5 @@ if __name__ == "__main__":
    # print(wi_dict)
    # graph_ward_info(wi_dict, basePath, poptype)
 
-   # np.save("ward_"+poptype+"_training.npy", wi_dict)
+   np.save("ward_"+poptype+"_training.npy", wi_dict)
 

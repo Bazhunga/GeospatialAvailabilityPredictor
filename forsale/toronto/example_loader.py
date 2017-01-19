@@ -33,8 +33,9 @@ age_group_order = ["0 to 4 years",
                   "80 to 84 years",
                   "85 years and over"]
                   
-a = np.load('np_feature_list_wards.npy').item()
-print(a)
+a = np.load('np_feature_list_wards.npy')
+print (a)
+
 # total = 0
 # for ward in range(1, 44):
 #    for topic in a[ward]:

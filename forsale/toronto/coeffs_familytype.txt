@@ -1,0 +1,473 @@
+familytype
+['Married couples Without children at home', 'Married couples With 1 child', 'Married couples With 2 children', 'Married couples With 3 or more children', 'Common-law couples Without children at home', 'Common-law couples 1 child', 'Common-law couples 2 children', 'Common-law couples 3 or more children', 'Lone Female parent with 1 child', 'Lone Female parent with 2 children', 'Lone Female parent with 3 or more children', 'Lone Male parent with 1 child', 'Lone Male parent with 2 children', 'Lone Male parent with 3 or more children']
+WFS: 44
+(44, 14)
+(44, 78)
+Category: app: appliances by owner
+     Married couples Without children at home: 0.000565906366352
+     Married couples With 3 or more children: 0.000537388919731
+     Lone Female parent with 1 child: 0.000331911605912
+     Common-law couples Without children at home: 0.000292164461804
+     Lone Female parent with 2 children: 0.000202943167714
+Category: ard: arts and crafts by dealer
+     Lone Male parent with 3 or more children: -2.51938637784e-06
+     Lone Male parent with 2 children: -7.41915937501e-06
+     Common-law couples 3 or more children: -1.20968302621e-05
+     Common-law couples 2 children: -2.94880542587e-05
+     Lone Male parent with 1 child: -3.65532084758e-05
+Category: art: arts & crafts - by owner
+     Common-law couples Without children at home: 0.000970343326063
+     Lone Female parent with 3 or more children: 0.000816754149228
+     Married couples With 2 children: 0.000449297779218
+     Lone Female parent with 2 children: 0.000409136002448
+     Married couples With 3 or more children: 0.000193585210435
+Category: atd: antiques - by dealer
+     Lone Male parent with 3 or more children: -3.95734076535e-06
+     Common-law couples 3 or more children: -6.7496619375e-06
+     Lone Male parent with 2 children: -8.04910334474e-06
+     Common-law couples 2 children: -1.15367728537e-05
+     Common-law couples 1 child: -2.08248492781e-05
+Category: atq: antiques - by owner
+     Common-law couples 1 child: 0.00116458398904
+     Common-law couples Without children at home: 0.00097872968692
+     Married couples With 2 children: 0.000688155237438
+     Common-law couples 2 children: 0.000597634054969
+     Lone Female parent with 1 child: 0.000486755364097
+Category: bab: baby & kid stuff - by owner
+     Lone Female parent with 1 child: 0.00121939360126
+     Married couples With 2 children: 0.000911209126597
+     Common-law couples 1 child: 0.00052202813011
+     Common-law couples Without children at home: 0.00046687787983
+     Common-law couples 3 or more children: 0.00021092226354
+Category: bad: baby & kid stuff - by dealer
+     Lone Male parent with 3 or more children: -5.33618189319e-06
+     Common-law couples 3 or more children: -1.04891455886e-05
+     Lone Male parent with 2 children: -1.68594611065e-05
+     Common-law couples 2 children: -2.86459509939e-05
+     Common-law couples 1 child: -4.6318155897e-05
+Category: bar: barter
+     Lone Male parent with 3 or more children: -6.55215899166e-06
+     Common-law couples 3 or more children: -1.27115064251e-05
+     Lone Male parent with 2 children: -2.09605482893e-05
+     Common-law couples 2 children: -2.78551258964e-05
+     Common-law couples 1 child: -4.49231980311e-05
+Category: bdp: bicycle parts - by dealer
+     Lone Male parent with 1 child: 5.38567308318e-06
+     Common-law couples 1 child: 3.66325411934e-06
+     Common-law couples 2 children: -3.63999202604e-06
+     Lone Male parent with 3 or more children: -5.45609641625e-06
+     Common-law couples 3 or more children: -6.61009928005e-06
+Category: bfd: business/commercial - by dealer
+     Lone Female parent with 1 child: 0.000958738285384
+     Lone Female parent with 3 or more children: 0.000928957882068
+     Lone Female parent with 2 children: 0.00085886815693
+     Married couples With 3 or more children: 0.000598546692135
+     Lone Male parent with 2 children: 0.000122684038444
+Category: bfs: business/commercial - by owner
+     Lone Female parent with 3 or more children: 0.00169495607828
+     Married couples Without children at home: 0.00106299786646
+     Lone Female parent with 2 children: 0.000549372610765
+     Married couples With 3 or more children: 0.000504662904234
+     Lone Male parent with 1 child: 0.000416868810478
+Category: bid: bicycles - by dealer
+     Married couples Without children at home: 0.00064313788476
+     Lone Female parent with 1 child: 0.000473141154333
+     Lone Male parent with 1 child: 8.48738800341e-05
+     Common-law couples 1 child: 1.78427638267e-05
+     Lone Female parent with 3 or more children: 1.01564403798e-05
+Category: bik: bicycles - by owner
+     Common-law couples Without children at home: 0.00147740400505
+     Married couples With 1 child: 0.00104392106735
+     Married couples With 2 children: 0.000803480710228
+     Lone Female parent with 3 or more children: 0.000676120510329
+     Lone Female parent with 2 children: 0.000639311594447
+Category: bkd: books & magazines - by dealer
+     Lone Male parent with 3 or more children: -4.37473626327e-06
+     Lone Male parent with 2 children: -8.92334912393e-06
+     Common-law couples 3 or more children: -9.00529325288e-06
+     Common-law couples 2 children: -1.0621058403e-05
+     Common-law couples 1 child: -2.31203127893e-05
+Category: bks: books & magazines - by owner
+     Married couples With 1 child: 0.00177994923976
+     Married couples With 3 or more children: 0.00167033233941
+     Common-law couples Without children at home: 0.00151406101351
+     Lone Female parent with 1 child: 0.000125114757383
+     Common-law couples 3 or more children: -7.1381069993e-06
+Category: boa: boats - by owner
+     Married couples With 1 child: 0.000162482853748
+     Married couples Without children at home: 8.25563403787e-05
+     Lone Male parent with 1 child: 4.2317169748e-05
+     Lone Male parent with 2 children: 5.65277566936e-06
+     Common-law couples 1 child: -2.70003976543e-06
+Category: bod: boats - by dealer
+     Married couples With 3 or more children: 8.48744721662e-05
+     Lone Female parent with 3 or more children: 7.79494209106e-05
+     Married couples With 2 children: 2.39299404121e-05
+     Lone Male parent with 3 or more children: 4.89967416411e-06
+     Lone Female parent with 2 children: 4.29201227082e-06
+Category: bop: bicycle parts - by owner
+     Married couples With 1 child: 0.000901423042839
+     Common-law couples Without children at home: 0.000584447393864
+     Common-law couples 1 child: 0.000233912574837
+     Lone Male parent with 1 child: 0.000195273054831
+     Married couples Without children at home: 0.000135270030929
+Category: bpo: boat parts - by owner
+     Common-law couples Without children at home: 0.000365778560423
+     Married couples Without children at home: 0.000133714357415
+     Married couples With 1 child: 6.21439728434e-05
+     Common-law couples 3 or more children: 4.52226190972e-05
+     Lone Female parent with 1 child: 2.58595223317e-05
+Category: cbd: collectibles - by dealer
+     Lone Male parent with 1 child: 1.66378164708e-05
+     Common-law couples 1 child: 4.6168390498e-06
+     Common-law couples 2 children: -4.73669696571e-07
+     Lone Male parent with 3 or more children: -3.40462260935e-06
+     Common-law couples 3 or more children: -5.7373246222e-06
+Category: cld: clothing and accessories by dealer
+     Married couples With 2 children: 0.00611376095959
+     Common-law couples Without children at home: 0.00322130298168
+     Common-law couples 1 child: 0.00272337872583
+     Common-law couples 2 children: 0.00192685535685
+     Lone Female parent with 2 children: 0.000783223897088
+Category: clo: clothing and accessories by owner
+     Common-law couples Without children at home: 0.00110067717356
+     Lone Female parent with 2 children: 0.000786558032432
+     Lone Female parent with 1 child: 0.000758819741841
+     Lone Female parent with 3 or more children: 0.000332010823284
+     Married couples With 2 children: 0.000220066849694
+Category: clt: collectibles - by owner
+     Lone Female parent with 2 children: 0.00108682556254
+     Common-law couples 1 child: 0.000966772076697
+     Common-law couples Without children at home: 0.000765119892717
+     Married couples With 2 children: 0.000661604085037
+     Common-law couples 2 children: 0.000547173635222
+Category: ctd: cars & trucks - by dealer
+     Lone Female parent with 1 child: 0.00127814031058
+     Lone Female parent with 2 children: 0.000886608683806
+     Lone Female parent with 3 or more children: 0.00067223685846
+     Married couples With 2 children: 0.000256609599296
+     Lone Male parent with 1 child: 0.000170692119984
+Category: cto: cars & trucks - by owner
+     Lone Female parent with 1 child: 0.000422141471853
+     Married couples With 3 or more children: 0.000328768454262
+     Common-law couples Without children at home: 0.000258894944941
+     Married couples With 1 child: 0.000196581019138
+     Lone Female parent with 2 children: 0.000177478889298
+Category: eld: electronics - by dealer
+     Lone Female parent with 1 child: 0.00202738763744
+     Married couples With 1 child: 0.00109849876537
+     Lone Male parent with 1 child: 0.000866102483802
+     Lone Male parent with 2 children: 0.000599366381259
+     Married couples With 3 or more children: 0.000283839630581
+Category: ele: electronics - by owner
+     Married couples With 3 or more children: 0.00182436001468
+     Married couples With 1 child: 0.00113763636271
+     Common-law couples Without children at home: 0.000931958508184
+     Common-law couples 1 child: 0.000574600960878
+     Lone Female parent with 1 child: 0.000285246830178
+Category: emd: cds / dvds / vhs - by owner
+     Married couples With 3 or more children: 0.000947987221682
+     Common-law couples 1 child: 0.000427322681655
+     Common-law couples 2 children: 0.000340082721357
+     Common-law couples Without children at home: 0.000306890173565
+     Married couples With 1 child: 0.000190296056564
+Category: emq: cds / dvds / vhs - by dealer
+     Married couples With 3 or more children: 0.000115273694977
+     Common-law couples 3 or more children: -7.71088094433e-06
+     Lone Male parent with 3 or more children: -8.7824455149e-06
+     Common-law couples 2 children: -1.37361552743e-05
+     Common-law couples 1 child: -1.76556463811e-05
+Category: fod: general for sale - by dealer
+     Common-law couples Without children at home: 0.00089306417527
+     Lone Female parent with 1 child: 0.000756244981406
+     Lone Female parent with 2 children: 0.000531383117354
+     Common-law couples 1 child: 0.000312805776849
+     Common-law couples 2 children: 0.000229598917144
+Category: for: general for sale by owner
+     Common-law couples Without children at home: 0.00146682241826
+     Married couples With 2 children: 0.00145679071444
+     Married couples With 3 or more children: 0.000998942822757
+     Married couples Without children at home: 1.12801030198e-05
+     Lone Male parent with 3 or more children: -0.000114818208914
+Category: fuo: furniture - by owner
+     Common-law couples 1 child: 0.00170353272184
+     Common-law couples Without children at home: 0.00133322329601
+     Common-law couples 2 children: 0.00123877949088
+     Married couples With 2 children: 0.000635946759178
+     Common-law couples 3 or more children: 0.000584705936262
+Category: grd: farm & garden - by owner
+     Married couples Without children at home: 0.00113578860845
+     Lone Female parent with 1 child: 0.000602065668673
+     Lone Male parent with 1 child: 0.000520073833607
+     Common-law couples 1 child: 0.000486611892822
+     Married couples With 3 or more children: 0.00046678141498
+Category: grq: farm and garden by dealer
+     Married couples With 1 child: 0.00216930240213
+     Married couples With 2 children: 0.0014446405751
+     Lone Male parent with 2 children: 0.000287384136265
+     Lone Male parent with 1 child: 0.000241831676176
+     Lone Male parent with 3 or more children: 6.10653914053e-05
+Category: hab: health and beauty - by owner
+     Lone Female parent with 1 child: 0.00109225477439
+     Married couples Without children at home: 0.000738245860719
+     Married couples With 3 or more children: 0.000419493652261
+     Lone Female parent with 2 children: 0.000201940842958
+     Lone Male parent with 1 child: 0.000160974785208
+Category: had: health and beauty - by dealer
+     Common-law couples Without children at home: 9.57371099515e-05
+     Married couples Without children at home: 7.21239783897e-05
+     Lone Female parent with 3 or more children: 3.56250992294e-05
+     Lone Male parent with 3 or more children: -1.25579613206e-06
+     Common-law couples 3 or more children: -1.13901357554e-05
+Category: hsd: household items - by dealer
+     Lone Female parent with 1 child: 0.000660344854804
+     Lone Female parent with 3 or more children: 0.000563883861096
+     Lone Female parent with 2 children: 0.000490300407731
+     Married couples With 3 or more children: 0.000341714635039
+     Married couples Without children at home: 6.17494741602e-05
+Category: hsh: household items - by owner
+     Common-law couples 1 child: 0.00114527440568
+     Common-law couples Without children at home: 0.00103735684067
+     Lone Female parent with 1 child: 0.000884784442481
+     Married couples With 3 or more children: 0.000787503187818
+     Married couples With 1 child: 0.000484462418916
+Category: hvd: heavy equipment - by dealer
+     Lone Female parent with 3 or more children: 0.000338768901789
+     Lone Female parent with 2 children: 0.000284310521896
+     Married couples With 3 or more children: 0.000260562663549
+     Lone Female parent with 1 child: 0.000244342046595
+     Common-law couples 3 or more children: 3.04439391054e-05
+Category: hvo: heavy equipment - by owner
+     Lone Male parent with 3 or more children: -6.43163449519e-06
+     Lone Male parent with 2 children: -1.16391970448e-05
+     Common-law couples 3 or more children: -1.83211477058e-05
+     Lone Female parent with 3 or more children: -3.15105443869e-05
+     Common-law couples 2 children: -3.16208666963e-05
+Category: jwd: jewelry - by dealer
+     Married couples With 1 child: 7.76374980075e-05
+     Lone Male parent with 3 or more children: -8.11858969309e-06
+     Common-law couples 3 or more children: -1.09192819802e-05
+     Lone Male parent with 2 children: -1.62787875147e-05
+     Common-law couples 2 children: -3.12448967189e-05
+Category: jwl: jewelry - by owner
+     Married couples Without children at home: 0.0011732537606
+     Lone Female parent with 3 or more children: 0.00103596683958
+     Lone Female parent with 2 children: 0.000554310932005
+     Lone Female parent with 1 child: 0.000517338094574
+     Lone Male parent with 2 children: 0.000109813142642
+Category: mad: materials - by dealer
+     Married couples With 3 or more children: 0.00132838805538
+     Married couples Without children at home: 0.000555862924238
+     Married couples With 2 children: 0.000284792556568
+     Lone Male parent with 3 or more children: -4.51264049492e-05
+     Common-law couples 3 or more children: -4.79749896155e-05
+Category: mat: materials by owner
+     Married couples Without children at home: 0.000710054883223
+     Lone Female parent with 3 or more children: 0.00043072110293
+     Lone Female parent with 2 children: 0.000365276144756
+     Lone Male parent with 3 or more children: 2.85278281054e-05
+     Lone Male parent with 2 children: 8.14910020139e-06
+Category: mcd: motorcycles/scooters - by dealer
+     Common-law couples Without children at home: 0.000168926592902
+     Lone Female parent with 3 or more children: 3.66840625362e-06
+     Lone Male parent with 3 or more children: -2.85066996053e-06
+     Common-law couples 3 or more children: -3.37010878738e-06
+     Lone Male parent with 2 children: -9.48999212381e-06
+Category: mcy: motorcycles/scooters - by owner
+     Married couples Without children at home: 0.000439963358819
+     Common-law couples Without children at home: 0.000142269284163
+     Lone Male parent with 3 or more children: -1.84479042508e-05
+     Lone Male parent with 1 child: -2.27794723672e-05
+     Common-law couples 3 or more children: -2.42853313882e-05
+Category: mob: cell phones - by owner
+     Common-law couples Without children at home: 0.00103599478042
+     Married couples With 1 child: 0.000656105517795
+     Lone Female parent with 3 or more children: 0.000627168935643
+     Lone Female parent with 2 children: 0.000370631006503
+     Married couples With 3 or more children: 0.000194936972449
+Category: mod: cell phones - by dealer
+     Lone Female parent with 3 or more children: 0.00309793520442
+     Lone Male parent with 1 child: 0.00179598442423
+     Lone Female parent with 2 children: 0.00160202865348
+     Married couples With 1 child: 0.00114654887743
+     Married couples With 3 or more children: 0.000977212044263
+Category: mpo: motorcycle parts - by owner
+     Married couples Without children at home: 0.000680940879202
+     Lone Female parent with 1 child: 0.000466335229558
+     Lone Male parent with 1 child: 0.000168168327472
+     Common-law couples 1 child: 9.91490291348e-05
+     Common-law couples 2 children: 4.52925198679e-05
+Category: msd: musical instruments - by dealer
+     Married couples With 2 children: 0.00105547505574
+     Married couples Without children at home: 0.000458615732476
+     Lone Male parent with 2 children: 5.80628497757e-05
+     Common-law couples 3 or more children: 4.01318997801e-05
+     Common-law couples 1 child: 3.88879402529e-05
+Category: msg: musical instruments - by owner
+     Married couples With 2 children: 0.00108996373533
+     Common-law couples Without children at home: 0.000985642936022
+     Common-law couples 1 child: 0.00067711898893
+     Common-law couples 2 children: 0.000497226109154
+     Lone Female parent with 1 child: 0.000418484830268
+Category: phd: photo/video - by dealer
+     Married couples Without children at home: 0.00290571421326
+     Married couples With 2 children: 0.00179013497429
+     Lone Male parent with 2 children: 0.00090856704202
+     Common-law couples 2 children: 0.000192717861369
+     Lone Male parent with 3 or more children: 5.96978067144e-05
+Category: pho: photo/video - by owner
+     Married couples With 1 child: 0.00140067296387
+     Common-law couples Without children at home: 0.00112341667313
+     Married couples With 3 or more children: 0.00105054820282
+     Lone Female parent with 1 child: 0.000356536577676
+     Lone Male parent with 2 children: 0.000194893379195
+Category: ppd: appliances by dealer
+     Married couples Without children at home: 0.00220234225165
+     Married couples With 2 children: 0.000527237751154
+     Married couples With 1 child: 0.000307592011796
+     Lone Male parent with 3 or more children: -5.45299711327e-05
+     Common-law couples 3 or more children: -0.000179915219711
+Category: ptd: auto parts by dealer
+     Lone Female parent with 1 child: 0.00108290810258
+     Lone Female parent with 3 or more children: 0.000635478383058
+     Lone Female parent with 2 children: 0.000515576020205
+     Married couples Without children at home: 0.000307940504984
+     Lone Male parent with 1 child: 0.000297403968701
+Category: pts: auto parts by owner
+     Lone Male parent with 1 child: 0.00118014451684
+     Lone Female parent with 3 or more children: 0.000909861022523
+     Lone Male parent with 2 children: 0.000496993899352
+     Married couples Without children at home: 0.000450790746341
+     Married couples With 3 or more children: 0.000393110982795
+Category: rvs: rvs by owner
+     Lone Male parent with 3 or more children: -2.66797027632e-06
+     Common-law couples 3 or more children: -5.35686068969e-06
+     Lone Male parent with 2 children: -9.64540328183e-06
+     Common-law couples 2 children: -1.39912361976e-05
+     Lone Male parent with 1 child: -1.53378361807e-05
+Category: sdp: computer parts by dealer
+     Married couples With 1 child: 0.000588397535803
+     Lone Female parent with 1 child: 0.000391864579122
+     Common-law couples Without children at home: 0.000255280252472
+     Lone Female parent with 3 or more children: 0.000116050287198
+     Lone Male parent with 1 child: 0.000105152184686
+Category: sgd: sporting goods - by dealer
+     Common-law couples 1 child: 8.87490860149e-06
+     Lone Male parent with 1 child: 8.57480159567e-06
+     Common-law couples 2 children: -3.21305925678e-06
+     Lone Male parent with 3 or more children: -7.28496910352e-06
+     Common-law couples 3 or more children: -8.80170445732e-06
+Category: snd: atvs, utvs, snowmobiles - by dealer
+     Lone Male parent with 3 or more children: -5.51861904939e-06
+     Common-law couples 3 or more children: -9.5987597371e-06
+     Lone Male parent with 2 children: -2.17617961849e-05
+     Common-law couples 2 children: -3.28221659528e-05
+     Lone Female parent with 3 or more children: -3.65797286066e-05
+Category: snw: atvs, utvs, snowmobiles - by owner
+     Lone Male parent with 1 child: 4.56793204276e-07
+     Common-law couples 1 child: -2.48905232306e-07
+     Common-law couples 2 children: -6.59120791607e-06
+     Lone Male parent with 3 or more children: -9.37698899036e-06
+     Common-law couples 3 or more children: -1.15705271002e-05
+Category: sop: computer parts by owner
+     Married couples With 1 child: 0.00154158976863
+     Common-law couples Without children at home: 0.00115439844897
+     Lone Female parent with 3 or more children: 0.000257736676147
+     Lone Male parent with 2 children: 0.00021011954726
+     Lone Male parent with 1 child: 0.000193012755211
+Category: spo: sporting good by owner
+     Lone Female parent with 1 child: 0.000738055163889
+     Lone Male parent with 1 child: 0.000729319337977
+     Common-law couples Without children at home: 0.000560823866558
+     Married couples With 3 or more children: 0.000483436225045
+     Married couples With 2 children: 0.000357294207163
+Category: syd: computers - by dealer
+     Lone Female parent with 3 or more children: 0.00179309029859
+     Married couples With 3 or more children: 0.00145572703191
+     Married couples Without children at home: 0.00133102177284
+     Lone Male parent with 1 child: 0.0011847687179
+     Lone Female parent with 2 children: 0.0011534722922
+Category: sys: computers - by owner
+     Married couples With 1 child: 0.00195770794277
+     Common-law couples Without children at home: 0.00135218781218
+     Lone Male parent with 1 child: 0.00132592877536
+     Lone Male parent with 2 children: 0.00124114404952
+     Married couples With 3 or more children: 0.000833140520107
+Category: tad: toys & games - by dealer
+     Married couples With 2 children: 0.000492203353269
+     Married couples With 1 child: 0.000139983040592
+     Married couples Without children at home: 0.000116478184194
+     Lone Male parent with 2 children: -1.32986527014e-05
+     Lone Male parent with 3 or more children: -2.32957436675e-05
+Category: tag: toys and games by owner
+     Lone Female parent with 1 child: 0.00160320871923
+     Common-law couples 1 child: 0.000927689818508
+     Common-law couples Without children at home: 0.000548789149923
+     Common-law couples 2 children: 0.000526899139075
+     Married couples With 2 children: 0.000439030541035
+Category: tix: tix by owner
+     Married couples With 3 or more children: 0.00174332805483
+     Married couples Without children at home: 0.00107039482955
+     Lone Female parent with 1 child: 0.000423910693353
+     Lone Female parent with 3 or more children: 0.000401692522556
+     Common-law couples Without children at home: 0.000238670587757
+Category: tld: tools - by dealer
+     Lone Female parent with 1 child: 0.00104616137829
+     Lone Female parent with 3 or more children: 0.000914939430255
+     Lone Female parent with 2 children: 0.000722039633952
+     Married couples With 2 children: 0.000562721873588
+     Lone Male parent with 2 children: 0.000193107634941
+Category: tls: tools - by owner
+     Lone Female parent with 1 child: 0.00111732752099
+     Lone Male parent with 2 children: 0.000329782407914
+     Lone Female parent with 2 children: 0.000298530916011
+     Married couples With 2 children: 0.000246179783564
+     Common-law couples Without children at home: 0.000236673697398
+Category: tro: trailers - by owner
+     Common-law couples 1 child: 2.51021573094e-05
+     Lone Male parent with 1 child: 1.2842260999e-05
+     Common-law couples 2 children: 1.05886119538e-05
+     Common-law couples 3 or more children: -6.94705161492e-06
+     Lone Male parent with 3 or more children: -7.64156715571e-06
+Category: vgd: video gaming - by dealer
+     Lone Female parent with 3 or more children: 0.000275959559112
+     Married couples With 3 or more children: 0.000202640003402
+     Lone Female parent with 2 children: 0.000177469408986
+     Lone Female parent with 1 child: 3.83298728158e-05
+     Lone Male parent with 2 children: 2.29578165921e-05
+Category: vgm: video gaming by owner
+     Married couples With 1 child: 0.000579907105357
+     Common-law couples Without children at home: 0.00049628960957
+     Married couples With 3 or more children: 0.000213153999782
+     Married couples Without children at home: 5.86290505118e-05
+     Common-law couples 3 or more children: 1.37232668574e-05
+Category: wad: wanted - by dealer
+     Common-law couples Without children at home: 0.00195022774426
+     Married couples Without children at home: 0.000184584017925
+     Lone Female parent with 3 or more children: 7.85136582402e-05
+     Lone Male parent with 1 child: 7.83386773358e-05
+     Lone Male parent with 3 or more children: -1.95647869445e-05
+Category: wan: wanted by owner
+     Married couples Without children at home: 0.000386081124681
+     Common-law couples Without children at home: 0.00033442058375
+     Married couples With 1 child: 1.83115066409e-05
+     Lone Male parent with 3 or more children: -1.73311310343e-05
+     Lone Male parent with 2 children: -2.26199101499e-05
+Category: wtd: auto wheels & tires - by dealer
+     Married couples With 3 or more children: 0.000268174406486
+     Married couples With 2 children: 0.000184548904007
+     Lone Female parent with 3 or more children: 0.000144437580333
+     Lone Female parent with 2 children: 3.51074003708e-05
+     Lone Male parent with 3 or more children: 1.23017654022e-05
+Category: wto: auto wheels & tires - by owner
+     Lone Female parent with 3 or more children: 0.00278698724766
+     Common-law couples Without children at home: 0.00152594578356
+     Married couples With 3 or more children: 0.00111254315052
+     Lone Female parent with 2 children: 0.000950956293237
+     Married couples With 1 child: 0.000836635772839
+Category: zip: free stuff
+     Lone Male parent with 3 or more children: -7.04633331681e-06
+     Common-law couples 3 or more children: -1.26607642674e-05
+     Lone Male parent with 2 children: -2.5041258216e-05
+     Common-law couples 2 children: -3.16354294772e-05
+     Common-law couples 1 child: -4.96729347706e-05
