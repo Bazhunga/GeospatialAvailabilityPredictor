@@ -171,6 +171,7 @@ if __name__ == "__main__":
    master_post_count_list = {} #day{ward{}}
    count_list = [] # Accompanies master_post_count_list, contains totals for each day
 
+   # >>>>> GOING THROUGH THE DAYS
    for day in days_list:
       day_files = [filename for filename in json_list if day in filename]
       master_post_count_list[day], tempcount = get_post_counts_dict(day_files, ward_centroid_dict)
@@ -180,8 +181,12 @@ if __name__ == "__main__":
       if (count_list[i] != 0):
          print("Day: " + str(day) + " " + str(master_post_count_list[day]))
          print(count_list[i])
+
+
+
+
    # Graph with respect to other wards
-   graph_wrt_wards(days_list, master_post_count_list, count_list)
+   # graph_wrt_wards(days_list, master_post_count_list, count_list)
 
    # Graph each ward's trend
 

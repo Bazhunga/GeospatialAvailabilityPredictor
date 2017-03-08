@@ -79,7 +79,8 @@ if __name__ == "__main__":
    # poptype = "females"
    # poptype = "males"
    # poptype = "householdtype"
-   poptype = "familytype"
+   # poptype = "familytype"
+   poptype = "malestofemales"
 
    # Load the ward csv into dataframe
    df_wpop = get_ward_info(basePath, poptype)

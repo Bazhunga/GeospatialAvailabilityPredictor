@@ -33,15 +33,31 @@ age_group_order = ["0 to 4 years",
                   "80 to 84 years",
                   "85 years and over"]
                   
-a = np.load('np_feature_list_wards.npy')
-print (a)
+# a = np.load('postings_to_ward.npy').item()
 
 # total = 0
 # for ward in range(1, 44):
-#    for topic in a[ward]:
-#       total = total + a[ward][topic]
-# print(total)
-   # wardkey = "ward_" + str(ward)
-   # for ag in age_group_order: 
-   #    print("Ward " + str(ward) + ": " + ag + " " + str(a[wardkey][ag]))
-   #    total = total + a[wardkey][ag]
+#    # print(a[ward])
+#    cat = max(a[ward].iteritems(), key=operator.itemgetter(1))[0]
+#    print("Ward " + str(ward) + ": " + cat + " " + str(a[ward][cat]))
+#    # raw_input("waiting")
+# #    for category in a[ward]:
+# #       total = total + a[ward][topic]
+# #    # wardkey = "ward_" + str(ward)
+# #    # for ag in age_group_order: 
+# #    #    print("Ward " + str(ward) + ": " + ag + " " + str(a[ward][ag]))
+# #    #    total = total + a[ward][ag]
+# # print(total)
+
+a = np.load('sim_cat_list.npy')
+b = np.load('sim_geoloc_list.npy')
+c = np.load('sim_person_list.npy')
+d = np.load('sim_ward_list.npy')
+
+e = np.load('np_target_list_age.npy')
+print(len(e))
+if(78 in a):
+   print("yes")
+
+
+

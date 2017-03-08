@@ -15,6 +15,9 @@ model_females = 'mclr_females.pkl'
 model_males = 'mclr_males.pkl'
 model_hhtype = 'mclr_hhtype.pkl'
 model_familytype = 'mclr_familytype.pkl'
+model_malestofemales = 'mclr_malestofemales_1000.pkl'
+
+c_val = 1000
 
 # Age
 feature_set_npy = "np_entire_feature_list_age.npy"
@@ -23,6 +26,16 @@ wardlist_set_npy = "np_feature_list_wards_age.npy"
 unique_ward_feature_set_npy = "np_unique_ward_feature_set_age.npy"
 model_used = model_age
 raw_training_npy = "ward_agegroup_training.npy"
+popfeat = popfeat_age
+
+# MalestoFemales
+# feature_set_npy = "np_entire_feature_list_malestofemales.npy"
+# target_set_npy = "np_target_list_malestofemales.npy"
+# wardlist_set_npy = "np_feature_list_wards_malestofemales.npy"
+# unique_ward_feature_set_npy = "np_unique_ward_feature_set_malestofemales.npy"
+# model_used = model_malestofemales
+# raw_training_npy = "ward_malestofemales_training.npy"
+# popfeat = popfeat_age
 
 # Females
 # feature_set_npy = "np_entire_feature_list_females.npy"
@@ -31,6 +44,8 @@ raw_training_npy = "ward_agegroup_training.npy"
 # unique_ward_feature_set_npy = "np_unique_ward_feature_set_females.npy"
 # model_used = model_females
 # raw_training_npy = "ward_females_training.npy"
+# popfeat = popfeat_age
+
 
 # Males
 # feature_set_npy = "np_entire_feature_list_males.npy"
@@ -38,7 +53,8 @@ raw_training_npy = "ward_agegroup_training.npy"
 # wardlist_set_npy = "np_feature_list_wards_males.npy"
 # unique_ward_feature_set_npy = "np_unique_ward_feature_set_males.npy"
 # model_used = model_males
-# raw_training_npy = "ward_males_training.npy"
+# raw_training_npy = "ward_makmles_training.npy"
+# popfeat = popfeat_agekys 
 
 # HHtype
 # feature_set_npy = "np_entire_feature_list_hhtype.npy"
@@ -47,6 +63,8 @@ raw_training_npy = "ward_agegroup_training.npy"
 # unique_ward_feature_set_npy = "np_unique_ward_feature_set_hhtype.npy"
 # model_used = model_hhtype
 # raw_training_npy = "ward_householdtype_training.npy"
+# popfeat = popfeat_hhtyp
+
 
 # FamilyType
 # feature_set_npy = "np_entire_feature_list_familytype.npy"
@@ -55,6 +73,8 @@ raw_training_npy = "ward_agegroup_training.npy"
 # unique_ward_feature_set_npy = "np_unique_ward_feature_set_familytype.npy"
 # model_used = model_familytype
 # raw_training_npy = "ward_familytype_training.npy"
+# popfeat = popfeat_familytype
+
 
 #============================================================
 # Kevin Zhu
@@ -77,7 +97,7 @@ def dist_to_list(ward_distribution_dict):
    #    wd_list.append(ward_distribution_dict[ag])
    # return wd_list
 
-   for ag in popfeat_familytype: 
+   for ag in popfeat: 
       wd_list.append(ward_distribution_dict[ag])
    return wd_list
    
@@ -91,7 +111,7 @@ def organize_training_data(ag_features_dict, ag_ward_to_posting_dict):
    #    wardkey = "ward_" + str(ward)
    #    print(dist_to_list(ag_features_dict[wardkey]))
    unique_ward_features = [] # Contains the feature set for each ward. Must be size 44
-   entire_feature_list = []  
+   entire_feature_list = [] # Bias term
    target_list = []
    ward_list = [] # The ward that the feature set belongs to (entire_feature_list[3] describes ward ward_list[3])
    for ward in ag_ward_to_posting_dict:
@@ -139,7 +159,7 @@ def find_unused_categories(ag_targets_matrix):
 # Each posting (category) is a data point. The features are the distributions
 # X: The distributions Y: The class
 def train_mc_lr(X_train, Y_train):
-   logreg = linear_model.LogisticRegression(C=1e5, solver='lbfgs', multi_class='multinomial')
+   logreg = linear_model.LogisticRegression(C=c_val, solver='lbfgs', multi_class='multinomial', max_iter=1000)
    logreg.fit(X_train, Y_train)
 
    # Save the model
@@ -215,7 +235,7 @@ def run_mc_lr(logreg, X_test, Y_test, X_labels):
 
 
 if __name__ == "__main__":
-   num_test_set = 300
+   num_test_set = 3000
 
    try: 
       logreg = joblib.load(model_used)

@@ -316,7 +316,7 @@ if __name__ == "__main__":
       # get_most_common_category_per_ward_as_dict(ward_category_dict)
 
       # >>>> Graphing the occurences
-      png_folder = os.getcwd() + "/ward_cat_occurence_graphs/"
-      for ward_key in ward_category_dict:
-         temp_freq_dict = ward_category_dict.get(ward_key)
-         graph_occurences(temp_freq_dict, ward_key, png_folder)
+      # png_folder = os.getcwd() + "/ward_cat_occurence_graphs/"
+      # for ward_key in ward_category_dict:
+      #    temp_freq_dict = ward_category_dict.get(ward_key)
+      #    graph_occurences(temp_freq_dict, ward_key, png_folder)
