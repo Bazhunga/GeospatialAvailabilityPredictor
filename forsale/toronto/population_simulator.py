@@ -64,7 +64,7 @@ def getPostCategoryProbability(ward):
         wpc = ward_posts[reverse_targ_to_class[str(i + 1)]]
         post_ward_total += wpc
         posting_list.append(wpc)
-
+ 
     # print(posting_list)
     # print(post_ward_total)
 

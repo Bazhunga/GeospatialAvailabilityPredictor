@@ -212,7 +212,7 @@ def run_mc_lr(logreg, X_test, Y_test, X_labels):
          print(str(category) + " --> " + str(target_to_class[str(category)]) + " " + str(results_probs[i][ordered_indices[k]]))
       print("\n")
 
-      log_lik += log(results_probs[i][ordered_indices[0]]) 
+      log_lik += log(results_probs[i][Y_test[i]]) 
 
    print("Log likelihood")
    print(str(-1 * log_lik))
