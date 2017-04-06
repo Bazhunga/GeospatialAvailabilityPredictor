@@ -20,6 +20,7 @@ model_malestofemales = 'mclr_malestofemales_1000_sim.pkl'
 c_val = 1000
 
 # Age
+person_demog_npy = "np_person_demog_onehot.npy"
 feature_set_npy = "np_entire_feature_list_age_sim.npy"
 target_set_npy = "np_target_list_age_sim.npy"
 wardlist_set_npy = "np_feature_list_wards_age_sim.npy"
@@ -120,6 +121,7 @@ def organize_training_data(ag_features_dict, ag_cat_list, ag_geoloc_list, ag_per
    entire_feature_list = [] # Bias term
    target_list = []
    ward_list = [] # The ward that the feature set belongs to (entire_feature_list[3] describes ward ward_list[3])
+   person_demog_list = []
    
    for i, cat in enumerate(ag_cat_list): 
       ward = ag_ward_list[i]
@@ -132,6 +134,7 @@ def organize_training_data(ag_features_dict, ag_cat_list, ag_geoloc_list, ag_per
       entire_feature_list.append(dist_to_list(ag_features_dict[wardkey]))
       
       target_list.append(cat + 1)
+      person_demog_list.append(popfeat_age.index(ag_person_list[i]))
 
    assert(len(target_list) == len(ag_cat_list))
    assert(len(unique_ward_features) == 44)
@@ -157,13 +160,15 @@ def organize_training_data(ag_features_dict, ag_cat_list, ag_geoloc_list, ag_per
    np_target_list = np.asarray(target_list)
    np_ward_list = np.asarray(ward_list)
    np_unique_ward_features = np.asarray(unique_ward_features)
+   np_person_demog_list = np.asarray(person_demog_list)
 
    np.save(feature_set_npy, np_entire_feature_list)
    np.save(target_set_npy, np_target_list)
    np.save(wardlist_set_npy, np_ward_list)
    np.save(unique_ward_feature_set_npy, np_unique_ward_features)
+   np.save(person_demog_npy, np_person_demog_list)
 
-   return np_entire_feature_list, np_target_list, np_ward_list
+   return np_entire_feature_list, np_target_list, np_ward_list, np_person_demog_list
 
 def find_unused_categories(ag_targets_matrix):
    list_cats = range(1,79)   
@@ -196,6 +201,11 @@ def run_mc_lr(logreg, X_test, Y_test, X_labels):
    # sort of posting can be put in any ward, so we can never get 100%
    # During training, we have the same distribution corresponding to multiple targets, so
    # naturally we'd get stuff wrong.
+
+   print(X_test)
+   raw_input()
+
+
    results = logreg.predict(X_test)
    results_probs = logreg.predict_proba(X_test)
    total_right = 0
@@ -256,107 +266,113 @@ def run_mc_lr(logreg, X_test, Y_test, X_labels):
 
 
 if __name__ == "__main__":
-   num_test_set = 3000
+   num_test_set = int(55000 * 0.2)
 
-   try: 
-      logreg = joblib.load(model_used)
-      ag_feature_matrix = np.load(feature_set_npy)
-      ag_targets_matrix = np.load(target_set_npy) 
-      ag_feature_labels = np.load(wardlist_set_npy) # Labels for the feature set. 
-      ag_unique_ward_features = np.load(unique_ward_feature_set_npy)
+   # try: 
+   #    logreg = joblib.load(model_used)
+   #    ag_feature_matrix = np.load(feature_set_npy)
+   #    ag_targets_matrix = np.load(target_set_npy) 
+   #    ag_feature_labels = np.load(wardlist_set_npy) # Labels for the feature set. 
+   #    ag_unique_ward_features = np.load(unique_ward_feature_set_npy)
       
-      print("Load successful")
+   #    print("Load successful")
 
-      print("Crafting your test set")
-      num_of_targs = ag_targets_matrix.shape[0]
-      random_indices = rand.sample(xrange(0, num_of_targs), num_of_targs)
-      ag_X_test = np.empty([0, ag_feature_matrix.shape[1]])
-      ag_Y_test = []
-      ag_X_labels_test = [] 
-      for index in range(len(random_indices) - num_test_set, len(random_indices)):
-         # print("index2: " + str(random_indices[index]))
-         ag_X_test = np.vstack((ag_X_test, ag_feature_matrix[random_indices[index]]))
-         ag_Y_test.append(ag_targets_matrix[random_indices[index]])
-         ag_X_labels_test.append(ag_feature_labels[random_indices[index]])
+   #    print("Crafting your test set")
+   #    num_of_targs = ag_targets_matrix.shape[0]
+   #    random_indices = rand.sample(xrange(0, num_of_targs), num_of_targs)
+   #    ag_X_test = np.empty([0, ag_feature_matrix.shape[1]])
+   #    ag_Y_test = []
+   #    ag_X_labels_test = [] 
+   #    for index in range(len(random_indices) - num_test_set, len(random_indices)):
+   #       # print("index2: " + str(random_indices[index]))
+   #       ag_X_test = np.vstack((ag_X_test, ag_feature_matrix[random_indices[index]]))
+   #       ag_Y_test.append(ag_targets_matrix[random_indices[index]])
+   #       ag_X_labels_test.append(ag_feature_labels[random_indices[index]])
 
-      run_mc_lr(logreg, ag_X_test, ag_Y_test, ag_X_labels_test)
-   except IOError:
+   #    run_mc_lr(logreg, ag_X_test, ag_Y_test, ag_X_labels_test)
 
-      ag_features_dict = np.load(raw_training_npy).item()
-      ag_cat_list = np.load(sim_cat_npy)
-      ag_geoloc_list = np.load(sim_geoloc_npy)
-      ag_person_list = np.load(sim_person_npy)
-      ag_ward_list = np.load(sim_ward_npy)
+   # except IOError:
 
-
-      # ag_feature_matrix = features_dict_to_matrix(ag_features_dict)
-      # ag_targets_matrix = target_dict_to_matrix(ag_targets_dict)
-      
-      ag_feature_matrix, ag_targets_matrix, ag_feature_labels = organize_training_data(ag_features_dict, ag_cat_list, ag_geoloc_list, ag_person_list, ag_ward_list)
-      # >>>> Debug by printing the feature and target matrix
-      # np.set_printoptions(threshold=np.nan)
-      # print(ag_feature_matrix)
-      # print(ag_targets_matrix)
-
-      # >>>> See if all categories are used
-      # find_unused_categories(ag_targets_matrix)
-
-      # >>>> Slice into training examples!
-      num_of_targs = ag_targets_matrix.shape[0]
-      # We want to randomly sample the training and the validation   
-
-      # Mix up the indices from 0 to the number of targets
-      random_indices = rand.sample(xrange(0, num_of_targs), num_of_targs)
-      print("Slicin' and Dicin'")
-
-      print("Number of samples: " + str(len(random_indices)))
-
-      print("Crafting your training set")
-      ag_X_train = np.empty([0, ag_feature_matrix.shape[1]])
-      ag_Y_train = []
-      for index in range(0, len(random_indices) - num_test_set):
-         # print(ag_feature_matrix[random_indices[index]])
-         # print(ag_targets_matrix[random_indices[index]])
-         # print("index: " + str(random_indices[index]))
-         ag_X_train = np.vstack((ag_X_train, ag_feature_matrix[random_indices[index]]))
-         ag_Y_train.append(ag_targets_matrix[random_indices[index]])
+   ag_features_dict = np.load(raw_training_npy).item()
+   ag_cat_list = np.load(sim_cat_npy)
+   ag_geoloc_list = np.load(sim_geoloc_npy)
+   ag_person_list = np.load(sim_person_npy)
+   ag_ward_list = np.load(sim_ward_npy)
 
 
-      print("Crafting your test set")
-      ag_X_test = np.empty([0, ag_feature_matrix.shape[1]])
-      ag_Y_test = []
-      ag_X_labels_test = [] 
-      for index in range(len(random_indices) - num_test_set, len(random_indices)):
-         # print("index2: " + str(random_indices[index]))
-         ag_X_test = np.vstack((ag_X_test, ag_feature_matrix[random_indices[index]]))
-         ag_Y_test.append(ag_targets_matrix[random_indices[index]])
-         ag_X_labels_test.append(ag_feature_labels[random_indices[index]])
-
-
-      print("Shape information")
-      print("Total")
-      print(ag_feature_matrix.shape)
-      print(ag_targets_matrix.shape)
-      print("Train")
-      print(ag_X_train.shape)
-      print(len(ag_Y_train))
-      print("Test")
-      print(ag_X_test.shape)
-      print(len(ag_Y_test))
-
-      print(ag_feature_matrix)
-      print(ag_targets_matrix)
-
-      # >>>> Verify proper transfer of data
-      print("Random index: " + str(random_indices[45806]))
-      print("Feature matrix: " + str(ag_feature_matrix[random_indices[45806]]))
-      print("Targ: " + str(ag_targets_matrix[random_indices[45806]]))
-      print("ag_X_train: " + str(ag_X_test[0]))
-      print("ag_Y_test: " + str(ag_Y_test[0]))
-      # >>>> Run logistic regression
+   # ag_feature_matrix = features_dict_to_matrix(ag_features_dict)
+   # ag_targets_matrix = target_dict_to_matrix(ag_targets_dict)
    
-      logreg = train_mc_lr(ag_X_train, ag_Y_train)
-      run_mc_lr(logreg, ag_X_test, ag_Y_test, ag_X_labels_test)
+   ag_feature_matrix, ag_targets_matrix, ag_feature_labels, ag_person_demog_list = organize_training_data(ag_features_dict, ag_cat_list, ag_geoloc_list, ag_person_list, ag_ward_list)
+   # >>>> Debug by printing the feature and target matrix
+   # np.set_printoptions(threshold=np.nan)
+   # print(ag_feature_matrix)
+   # print(ag_targets_matrix)
+
+   # >>>> See if all categories are used
+   # find_unused_categories(ag_targets_matrix)
+
+   # >>>> Slice into training examples!
+   num_of_targs = ag_targets_matrix.shape[0]
+   # We want to randomly sample the training and the validation   
+
+   # Mix up the indices from 0 to the number of targets
+   random_indices = rand.sample(xrange(0, num_of_targs), num_of_targs)
+   print("Slicin' and Dicin'")
+
+   print("Number of samples: " + str(len(random_indices)))
+
+   print("Crafting your training set")
+   ag_X_train = np.empty([0, ag_feature_matrix.shape[1]])
+   ag_Y_train = []
+   for index in range(0, len(random_indices) - num_test_set):
+      # print(ag_feature_matrix[random_indices[index]])
+      # print(ag_targets_matrix[random_indices[index]])
+      # print("index: " + str(random_indices[index]))
+      ag_X_train = np.vstack((ag_X_train, ag_feature_matrix[random_indices[index]]))
+      ag_Y_train.append(ag_targets_matrix[random_indices[index]])
+
+
+   print("Crafting your test set")
+   ag_X_test = np.empty([0, ag_feature_matrix.shape[1]])
+   ag_Y_test = []
+   ag_X_labels_test = [] 
+   for index in range(len(random_indices) - num_test_set, len(random_indices)):
+      # print("index2: " + str(random_indices[index]))
+
+      # Create one hot vector
+      temp = np.zeros([1, ag_feature_matrix.shape[1]]) # 1 x 18
+      temp[0][ag_person_demog_list[random_indices[index]]] = 1;
+
+      ag_X_test = np.vstack((ag_X_test, temp[0]))
+      ag_Y_test.append(ag_targets_matrix[random_indices[index]])
+      ag_X_labels_test.append(ag_feature_labels[random_indices[index]])
+
+
+   print("Shape information")
+   print("Total")
+   print(ag_feature_matrix.shape)
+   print(ag_targets_matrix.shape)
+   print("Train")
+   print(ag_X_train.shape)
+   print(len(ag_Y_train))
+   print("Test")
+   print(ag_X_test.shape)
+   print(len(ag_Y_test))
+
+   print(ag_feature_matrix)
+   print(ag_targets_matrix)
+
+   # >>>> Verify proper transfer of data
+   print("Random index: " + str(random_indices[45806]))
+   print("Feature matrix: " + str(ag_feature_matrix[random_indices[45806]]))
+   print("Targ: " + str(ag_targets_matrix[random_indices[45806]]))
+   print("ag_X_train: " + str(ag_X_test[0]))
+   print("ag_Y_test: " + str(ag_Y_test[0]))
+   # >>>> Run logistic regression
+
+   logreg = train_mc_lr(ag_X_train, ag_Y_train)
+   run_mc_lr(logreg, ag_X_test, ag_Y_test, ag_X_labels_test)
 
 
 

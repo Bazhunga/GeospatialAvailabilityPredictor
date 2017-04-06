@@ -258,6 +258,13 @@ if __name__ == "__main__":
          ag_Y_test.append(ag_targets_matrix[random_indices[index]])
          ag_X_labels_test.append(ag_feature_labels[random_indices[index]])
 
+      # Debug 
+      print(logreg.coef_.shape) # This is 78 x 18
+      temp = np.zeros([78,18])
+      temp[:, 3] = 1
+      print(temp)
+      logreg.coef_ = temp
+      raw_input("waiting")
       run_mc_lr(logreg, ag_X_test, ag_Y_test, ag_X_labels_test)
    except IOError:
 

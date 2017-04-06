@@ -61,23 +61,28 @@ def predict_item_by_age(age_bucket):
     # Investigating age group only
     #============================================
     # Need to find P(I | A)
+    # P(I|A) = P(I^A)/P(A)
+    #        = sumout_W P(I,W,A)/sumout_I sumout_W P(I,W,A)
+
+    # Calculate the numerator
     p_item_agegroup = np.zeros(78)
-    p_agegroup = 0
     post_prob_ward = getNormalizedWardPostProbability()
-    for ward in range (1,45):
+    for ward in range (1,45): # Here we are summing out the ward
         index = ward - 1
         tmp_p_w = post_prob_ward[index] # one num
         tmp_p_igw = np.array(getPostCategoryProbability(ward)) # distribution --> shape 78 x 1
-        tmp_p_agw = getPeopleMatrix(ward)[age_bucket]
+        tmp_p_agw = getPeopleMatrix(ward)[age_bucket] # Single number
 
         tmp_tot = tmp_p_w*tmp_p_igw*tmp_p_agw
 
-
         p_item_agegroup += tmp_tot
 
-        tmp_p_a = getPeopleMatrix(ward)[age_bucket]
-        p_agegroup += tmp_p_a
 
+    # Sum out the numerator over the item to get the denominator
+    p_agegroup = 0
+    for category in range (1, 79):
+        index = category - 1
+        p_agegroup += p_item_agegroup[index]    
 
     p_item_given_agegroup = p_item_agegroup/p_agegroup
 
@@ -89,7 +94,6 @@ def predict_item_by_age(age_bucket):
     # 
 
     return p_item_given_agegroup
-
 
 
     # # P(I|W)
@@ -196,14 +200,18 @@ if __name__ == "__main__":
     elif(test_type == "p_i_a"):
         # Run through the age groups 
         age_group_to_category = []
-        for i, age_group in enumerate(popfeat_age):
-            cat_list = predict_item_by_age(i)
+        for i, age_group in enumerate(popfeat_age): # Run through the age groups
+            cat_list = predict_item_by_age(i) # Get the category list for this age bucket
             ordered_indices = np.argsort(np.array(cat_list))[::-1]
 
             top_cat = ordered_indices[0] + 1
-            print(cat_list[top_cat])
-            raw_input(top_cat)
-            top_five = [x+1 for x in ordered_indices[:5]]
+            #print(cat_list[top_cat - 1])
+            raw_input()
+            top_five = [x+1 for x in ordered_indices[:10]] # These are categories!
+            print(popfeat_age[i])
+            for one in top_five:
+                print(target_to_class[str(one)] + ": ", end='')
+                print(cat_list[one - 1])
 
             age_group_to_category.append(top_cat)
 
@@ -215,3 +223,22 @@ if __name__ == "__main__":
 
 # Thing I've discovered
 # Trained on the same model, using category | ward is actually more effective 
+
+
+# Not 
+# What the differences between wards are isn't immensely defined.
+# Age buckets less granular vs more granular
+# Cross product for more granular (age bucket and stuff)
+# Tabular?
+# T, D , Frequency. Then assign probabilitye
+# /Side note: Try decision trees?
+# Less biased model, don't have data to train large models
+# Logistic regression could be better because more biased (fewer parameters and learn things with higher confidence)
+# Compute the P(I|A) based on the frequency. Type 1, Demograph1, frequency 5. Type 2, Demograph1, frequency 5. Sum it up should be 1
+# 3 models to compare P(I|A) is certainly the ground truth. Types don't differ accross demographics it says.
+# 
+
+# See if the rank order is preserved in log reg (the one hot encoding hack)
+# 2 things to do: P(I|A) from the data, then one hot the thing.
+# At least probabioiticly, bayes net approach is better probaiblities assuming structure is correct. 
+# Saving grace is is ranking is still preserved despite crazy probaiblities. 
