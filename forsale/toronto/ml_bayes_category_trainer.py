@@ -32,7 +32,13 @@ sim_ward_npy = "sim_ward_list.npy"
 
 
 # Get P(I|A) or P(I|W)
-test_type = "p_i_a" # p_i_w
+test_type = "classify" #"p_i_a" # p_i_w
+
+sim_cat_npy = "sim_cat_list.npy"
+sim_geoloc_npy = "sim_geoloc_list.npy"
+sim_person_npy = "sim_person_list.npy"
+sim_ward_npy = "sim_ward_list.npy"
+
 
 
 
@@ -206,7 +212,7 @@ if __name__ == "__main__":
 
             top_cat = ordered_indices[0] + 1
             #print(cat_list[top_cat - 1])
-            raw_input()
+            raw_input("WAITING")
             top_five = [x+1 for x in ordered_indices[:10]] # These are categories!
             print(popfeat_age[i])
             for one in top_five:
@@ -217,6 +223,67 @@ if __name__ == "__main__":
 
         for i, cat in enumerate(age_group_to_category):
             print(popfeat_age[i] + ": " +  target_to_class[str(cat)])
+
+    elif (test_type == "classify"):
+        # Load the simulation data
+        ag_cat_list = np.load(sim_cat_npy)
+        ag_geoloc_list = np.load(sim_geoloc_npy)
+        ag_person_list = np.load(sim_person_npy)
+        ag_ward_list = np.load(sim_ward_npy)
+
+        num_datapoints = 55000
+        num_testset = int(0.2 * num_datapoints)
+
+        random_indices = rand.sample(xrange(0, num_datapoints), num_datapoints)
+
+        total_right = 0
+        total_close = 0
+        log_lik = 0
+
+        # Take the last 20 percent to test on
+        for index in range(len(random_indices) - num_testset, len(random_indices) - 1):
+            print("\n\n" + str(index))
+            tmp_person = ag_person_list[index] # Get age demog
+            print("Person demog: " + str(tmp_person)) 
+
+            # PREDICTION
+            cat_list = predict_item_by_age(popfeat_age.index(tmp_person))
+
+            ordered_indices = np.argsort(np.array(cat_list))[::-1]
+
+            top = ordered_indices[0]
+            top_prob = cat_list[ordered_indices[0]]
+
+            print(top)
+            print(ag_cat_list[index])
+
+            if(top == ag_cat_list[index]):
+                print(" CORRECT!")
+                total_right += 1
+            else:
+                top_five = [x for x in ordered_indices[:5]] 
+                if(ag_cat_list[index] in top_five):
+                    print("Close!")
+                    total_close += 1
+                print("")
+
+            #print("Result: " + str(results[i]) + ": " + str(target_to_class[str(results[i])]) + " Desired: " + str(Y_test[i]) + ": " + str(target_to_class[str(Y_test[i])]), end=" ")
+            print("Desired: " + str(ag_cat_list[i]) + " --> " + str(target_to_class[str(ag_cat_list[i])]))
+            print("Top prediction: " + str(top) + " --> " + str(target_to_class[str(top)]))
+            print("Top " + str(5) + ":")
+
+            log_lik += log(cat_list[ordered_indices[0]])
+
+        print("Accuracy: " + str(float(total_right)/float(num_testset)))
+        print("HR@5: " + str(float(total_close)/float(num_testset)))
+        print("loglik: " + str(log_lik))
+
+
+
+
+
+
+
 
 
 
