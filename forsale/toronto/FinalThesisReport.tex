@@ -10,7 +10,7 @@
 \usepackage[lmargin=1.5in, rmargin=1.5in, tmargin=1in, bmargin=1in]{geometry}
 
 
-\title{Thesis Interim Report}
+\title{Thesis Report}
 \date{January 2017}
 \author{Kevin Zhu}
 
@@ -25,7 +25,7 @@
    \centering
    {\scshape\LARGE University of Toronto \par}
    \vspace{1cm}
-   {\scshape\Large Thesis Interim Report\par}
+   {\scshape\Large Thesis Report\par}
    \vspace{1.5cm}
    {\huge\bfseries Geospatial Prediction for Goods Solicitation with Bayesian Data Fusion\par}
    \vspace{2cm}
@@ -34,7 +34,7 @@
    supervised by\par
    Prof.~Scott \textsc{Sanner}
    \vfill
-   {\large January 23, 2017\par}
+   {\large April 10, 2017\par}
 \end{titlepage}
 
 \newpage
@@ -52,9 +52,7 @@ There is no single data set in the world that would allow one to get the statist
 Donations are a huge resource for non-government organizations for a variety of efforts. % Detail what kinds of organizations and what they do. 
 Conventional strategies tend to gravitate towards a mass door-to-door solicitation of items or setups at a certain location and advertising to everyone to donate. %sentencing
 
-   The most modern methods of soliciting goods is through direct mail, door-to-door as well and online postings through Google Ads or Facebook Advertising. Physically mailing or going door-to-door have very clear drawbacks because the amount of time it requires to execute. While advertising platforms allows for wide targeting based on desired audience age, gender, estimated income level, marital and child status, the key question that emerges is how to target the demographics. This paper will describe and demonstrate an approach using Big Data to create user profiles for goods and services availability. 
-
-   The problem with this approach is that credit card companies and retailers have purchaser info, but they do not make it accessible to other parties. It is very hard for third-party to gain cheap access to the data. Even if access were to be provided, the broad range of goods means that not one company or chain can give us the entire picture of habits. Finding the goods being bought is also very loosely related to the goods available for donation. Items that are purchased may not be donated anytime soon.
+The most modern methods of soliciting goods is through direct mail, door-to-door as well and online postings through Google Ads or Facebook Advertising. Physically mailing or going door-to-door have very clear drawbacks because the amount of time it requires to execute. While advertising platforms allows for wide targeting based on desired audience age, gender, estimated income level, marital and child status, the key question that emerges is how to target the demographics. 
 
 A different approach is to observe a source that represents the availability of goods right from the beginning. Crawl community selling sites like Craigslist for latent goods availability. This solves previous concerns because it provides open and free access to data, broad coverage of goods and services and immediate availability of goods for donation. The problem that arises here is the hiding of personal details for privacy sake (and the fact that it's useless for the buyer). This presents the challenge to uncover features of the population that allow us to map between latent demographics of users and latent goods likely available for donation. 
 
@@ -80,7 +78,7 @@ The two types of machine learning algorithms whose usage will be explored are di
 
 One particular method that can be used to make predictions is a discriminative model such as Logistic Regression, as it is generally effective in the presence of an abundance of data. It can be used to learn the trends in categorical postings in Kijiji by cross referencing locations with census data in that location. On the other hand, without a sufficient or diverse training set, such models could potentially make wildly false predictions.
 
-Another method  to querying is Bayesian Networks. <Stuff about Bayes Nets>
+Another method  to querying is Bayesian Networks. By leveraging conditional probability and Bayes rule, one can create a network of conditional probabilities and make any sort of query about the data and get the associating probability. 
 
 % Method
 It is clear that data may only give information support part of the problem, therefore cross referencing and fusion with other data resources is necessary. Sources containing post information as well as locations can be fused with census data from the region of interest to generate probabilities of items becoming available in certain areas. Additional temporal information would support item predictions further into the future. While the data can be limiting, with Craigslist providing only posts and locations, and census data providing aggregate demographics of Toronto city wards, data fusion can be conducted to make inferences on an individual scale. This thesis paper will discuss a framework for Bayesian data fusion of posting data in Toronto with census data and compare it to more naive methods as well as some machine learning methods such as multi-class logistic regression. 
@@ -91,11 +89,13 @@ It is clear that data may only give information support part of the problem, the
 % END INTRODUCTION ==================================================================
 
 % BEGIN LIT REVIEW AND BACKGROUND===========================================
-\subsection{Background information}
+\section{Background information}
 
-\subsubsection{Discriminative Models}
+\subsection{Discriminative Models}
 Discriminative models are a subset of machine learning models which takes in observations of a test sample in order to place it in a certain class.
-These models are trained on a wide variety of samples allow it to be able to classify test examples. The multi-class logistic regression method used in this thesis is an example of a discriminative model
+These models are trained on a wide variety of samples allow it to be able to classify test examples. The multi-class logistic regression method used in this thesis is an example of a discriminative model. 
+
+// More background information on these models
 
 \subsubsection{Logistic Regression}
 Logistic regression uses the sigmoid function coupled with a linear function of multiple independent variables to ultimately determine a binary outcome. The sigmoid function is as follows: 
@@ -108,35 +108,37 @@ The \(x\) values represent independent variables. The \(\beta\) values represent
 Multiclass Logistic Regression is an extension of Logistic regression where the output can be more than just be 0 and 1. The output becomes a vector of probabilities for each possible output class. A function known as softmax, or the normalized exponential function, is used to get the probabilities of each class. The maximum probability would indicate the most likely class, and therefore that class would be the output of MCLR. The softmax function looks like the following: 
 \[Pr(Y_i = K) = \frac{e^{\beta_K} \cdot X_i}{\sum_{k=1}^{K} e^{\beta_K} \cdot X_i}\]
 
-\subsubsection{Generative Models}
+\subsection{Generative Models}
 Generative models, on the other hand, provides the probability of a test case being a result of the model, instead of putting it into one of the many cases a discriminative model would be trained on. 
 
+<More information on BayesNets>
 
-   % Review the state of the art, what has been accomplished and what hasn't been
-   % Problems in current context and further detail
-   % This is probably 2-3 pages
-   % Lit Review topics
-   % Solicitation of stuff. Importance of donaations, etc
-   % Demographics predictions + verification
-   % Feature Extraction/Cross referencing  
-   % Population predictions
-      
-   \subsubsection{Previous Work}
-   % Transition between actual intro to this intro
-   % State purpose
-   % Establish organization
-   While there hasn't been much study conducted on the methods best for the solicitation of goods, there's much research on methods to help with geospatial predictions in ecological studies. This review will investigate different motivations and strategies for geospatial analysis. 
 
-   A conference presentation outlines the vast capabilities of machine learning and targets it towards geospatial prediction \cite{confpres}. Because of the vast number of variables present in geospatial problems, machine learning tends to find patterns and learn them very well. The presentation notes the possibility of training models using census data, allowing for fire risk to be predicted in Manhattan based on income, age and rent. The approach is heavily relevant to the thesis, as census data of Toronto can be used to predict goods availabilities throughout the city.
+% Review the state of the art, what has been accomplished and what hasn't been
+% Problems in current context and further detail
+% This is probably 2-3 pages
+% Lit Review topics
+% Solicitation of stuff. Importance of donaations, etc
+% Demographics predictions + verification
+% Feature Extraction/Cross referencing  
+% Population predictions
+   
+\subsection{Previous Work -- To be changed and updated}
+% Transition between actual intro to this intro
+% State purpose
+% Establish organization
+While there hasn't been much study conducted on the methods best for the solicitation of goods, there's much research on methods to help with geospatial predictions in ecological studies. This review will investigate different motivations and strategies for geospatial analysis. 
 
-   One instance of landscape pattern analysis made use of neutral geographical models cross referenced with observed landscape patterns and ecological processes \cite{lpa}. Neutral models are defined as the minimum set of rules to generate patterns without the interference of another process \cite{neutralmodel}. This method is necessarily useful for gauging the effectiveness of a predictive model because of the comparison with a reference. A model's predictive capabilities may seem very impressive, but if the neutral model were to yield close to the same results, then it would be known that the added complexity of the constructed model would not have provided a worthwhile result. 
+A conference presentation outlines the vast capabilities of machine learning and targets it towards geospatial prediction \cite{confpres}. Because of the vast number of variables present in geospatial problems, machine learning tends to find patterns and learn them very well. The presentation notes the possibility of training models using census data, allowing for fire risk to be predicted in Manhattan based on income, age and rent. The approach is heavily relevant to the thesis, as census data of Toronto can be used to predict goods availabilities throughout the city.
 
-   Another paper studied the link between population dynamics with climate change. They observed population features such as population growth, migration, urbanization, aging and household composition \cite{popdyn}. The paper investigates different feature sets to aid the trend of climate change. The concept of feature extraction and investigation allows one to cross reference patterns characterized by a particular data set (climate change in this case) with a variety of feature sets. 
+One instance of landscape pattern analysis made use of neutral geographical models cross referenced with observed landscape patterns and ecological processes \cite{lpa}. Neutral models are defined as the minimum set of rules to generate patterns without the interference of another process \cite{neutralmodel}. This method is necessarily useful for gauging the effectiveness of a predictive model because of the comparison with a reference. A model's predictive capabilities may seem very impressive, but if the neutral model were to yield close to the same results, then it would be known that the added complexity of the constructed model would not have provided a worthwhile result. 
 
-   The final instance makes use of Markov Random Fields as well as Spatial Autoregression models \cite{autoreg}. The paper takes a different approach from the first presentation's strictly feature learning model, as it takes a time series into account. The paper compares the standard Markov Random Field model for tying in spatial information to classification problems and the Spatial Autoregression model. 
+Another paper studied the link between population dynamics with climate change. They observed population features such as population growth, migration, urbanization, aging and household composition \cite{popdyn}. The paper investigates different feature sets to aid the trend of climate change. The concept of feature extraction and investigation allows one to cross reference patterns characterized by a particular data set (climate change in this case) with a variety of feature sets. 
 
-   \subsubsection{Conclusion}
-   Each paper was crucial to the overall understanding of the manipulation of geospatial elements with data for predictive purposes. Machine learning algorithms are simple to implement on problems with geospatial context due to the abundance of features that are present. While the concept of feature extraction was prevalent in the papers, they did not seem to consider techniques like heatmapping to visualize the data. These solutions have yet to be collectively employed as a holistic predictive system that can analyze features of an area and make predictions. While machine learning algorithms can certainly provide insight to patterns in a geographical area, SAR models can possibly be more accurate since it takes time series into consideration. The comparison between simple machine learning models, SAR and the baseline model without any features would be interesting to investigate. 
+The final instance makes use of Markov Random Fields as well as Spatial Autoregression models \cite{autoreg}. The paper takes a different approach from the first presentation's strictly feature learning model, as it takes a time series into account. The paper compares the standard Markov Random Field model for tying in spatial information to classification problems and the Spatial Autoregression model. 
+
+\subsubsection{Conclusion}
+Each paper was crucial to the overall understanding of the manipulation of geospatial elements with data for predictive purposes. Machine learning algorithms are simple to implement on problems with geospatial context due to the abundance of features that are present. While the concept of feature extraction was prevalent in the papers, they did not seem to consider techniques like heatmapping to visualize the data. These solutions have yet to be collectively employed as a holistic predictive system that can analyze features of an area and make predictions. While machine learning algorithms can certainly provide insight to patterns in a geographical area, SAR models can possibly be more accurate since it takes time series into consideration. The comparison between simple machine learning models, SAR and the baseline model without any features would be interesting to investigate. 
 
    % % Background information
    % % What data is available. What are some other people doing. Understanding of the data
@@ -158,7 +160,7 @@ Data fusion was conducted with two sources: Craigslist and Ontario Census data.
 % Information about the data
 \subsubsection{Craigslist as a source for postings}
 % Explanations of the data sources
-The data collection would be done on a single website to eliminate the variables in inconsistency and productivity between different websites. One could gather data from Ebay and Amazon; however, the postings are mostly from larger vendors, which does not suit the needs of thesis. Craigslist and Kijiji, on the other hand, are suitable because they are well known as "local classifieds", allowing anyone to post item listings for free. Craigslist was chosen for data collcetion because is more widely known and also performs separation of individual sellers and retailers under the guise of individuals. 
+The data collection would be done on a single website to eliminate the variables in inconsistency and productivity between different websites. One could gather data from Ebay and Amazon; however, the postings are mostly from larger vendors, which does not suit the needs of thesis. Craigslist and Kijiji, on the other hand, are suitable because they are well known as "local classifieds", allowing anyone to post item listings for free. Craigslist was chosen for data collection because is more widely known and also performs separation of individual sellers and retailers under the guise of individuals. 
 
 Since Craigslist has quite a simplistic user interface, the process of data scraping is very straightforward. Furthermore, due ot its largely unchanging user interface, data collection over the course of a month would be consistent. Craigslist, however, makes a great effort to prevent users from making a large number of requests to its website, which may cause a denial of service. As a result, they IP-ban computers that make more than a certain number of requests in a set amount of time or more than a certain number of total requests in a day. The scraping effort had to be sharded onto different machines and executed using cron jobs in order to get around this issue.
 
@@ -263,7 +265,7 @@ The clothings posting had over 400 posts over the course of a month, allowing fo
 % Talk about the weights of each age group
 Predicting accuracy and hit rate is useful in determining the correctness of a model; however, since each posting is made by an individual, it comes as a natural consequence to investigate the probability distribution of feature buckets (such as age or family size) for each posting. 
 
-There are two approaches taken to investigating the predictions on a more granular level. One could use the weights of feature variables for each class as an indicator of their importance in the class' prediction. Another approach is to 
+There are two approaches taken to investigating the predictions on a more granular level. One could use the weights of feature variables for each class as an indicator of their importance in the class' prediction. This allows one to see how much being in a particular feature bucket contributes to the final prediction. 
 
 One could use the model to investigate the particular features that best characterize the prevalence of a category. In multi-class logistic regression, the weights give a good indicator of how important a feature is to the overall model. Features that are very close to zero are not useful in terms of contribution to the probabilities of categories, whereas large features are very indicative of category decisions. 
 
@@ -278,18 +280,52 @@ The following shows an example of features that play a large role in certain cat
 In Figure 5, the family of a single mother to a child is the most highly weighted feature. The second highest feature also has only 1 child. This could make potential sense since the child could easily outgrow his/her toys. With no child to pass it down to, it is likely to go up for sale. 
 While these results are interesting, and can make rudimentary sense, there is no method of verifying the correctness of the weights. The weights get noticeably smaller as one goes down the list, and so their meanings must be considered carefully. It is possible that features subsquent to the top contender are simply noisy outputs. 
 
-% One hot encoding
+A major problem with the multi-class logistic regression model lies within the nature of its training. The model is trained with the aggregate demographics of each ward in Toronto. As a result, it is not possible to predict on an individual poster level. As a result, one would not be able to use this model to generate a probabilistic output even if poster demographics were given. 
+
+Due to the nature of the data collected from Craigslist, there is no way to obtain the granular details of the person making a particular post. Unfortunately, without further data about the posters, this is as far as one can take with the analysis, since no verification of the results is possible. With only post categories and the geotag would be given, making it impossible to verify predictions on the type of category posted by a particular demographic. In order to address this lack of individual details, we must simulate the data points given the currently known posting productivity within the wards as well as the demographics of the ward. 
+
+\subsection{Bayesian Inference Model}
+In order to address this lack of individual details, we created a simulation of Toronto's activity on Craigslist. Since the geotag, and hence the ward, is common information between the postings and the census data, one would use the conditional probability \[P(\text{category} | \text{geotag})\] and \[P(\text{individual demographics} | \text{geotag})\] to form a simple Bayes net model. 
+
+//Insert diagram of the Bayes net. 
+// Geotag --\> Category
+// Geotag --\> Individual Demographics
+
+A ground truth Bayes net can be created knowing the relationship between different pieces of data. From the original 55000 scraped points, we have the probabilities of certain posts originating from certain wards, as this is just basic ward productivity. The simulation post first starts off with its ward origin. From here, since category is conditionally dependent on the ward (or geotag), we can generate the post category depending on where the post originates. Finally, we can generate the demographics of a person creating this post since we also have the population probability distributions in wards. This process is repeated 55000 times to generate a new simulation set with information about individual demographics.
+
+% Using the 55000 data points scraped from Craigslist, normalized ward productivities can be created. This would allow for a "drawing samples from a bag" approach for the posts where the probability of a certain post being from a certain ward is the ward productivity over the 55000 data points. Using the ward population distributions for age extracted from census data, one could probabilistically generate the age group that the person making the post would fall in. 
+
+% From here it becomes clear that due to the fact that the Logistic Regression model is trained on aggregate census data fused with Craigslist postings, yada unfinished
+
+The benefit of this Bayesian model is that it basically makes individual predictions possible from aggregate data like the Toronto census, unlike the multi-class logistic regression model which can only make predictions on the aggregate data.  
+
+\subsubsection{Predictions on the Individual}
+While the logistic regression model is not supposed to able to predict the category for an individual, a hack can be done on the model to force a category out for a particular feature bucket. This is done by a one-hot encoding of the feature input (x) for the logistic regression model. Whereas in the previous experiment, a feature vector consisting of the normalized values for the probabilistic distributions of a ward would be inputted as the test example to extract the predicted category, the hack involves inputting a vector where a value of 1 corresponds with the desired bucket and 0 for everything else. This way, the model would output a category based on knowledge about one sole feature bucket. This would allow us to compare the success of Logistic Regression and the Bayes Net on a semantically equal level, 
+This prediction of a category based on details of an individual essentially boils down to the query  \[P(\text{category} | \text{individual demographic})\], which can be easily found with the bayes net. 
+
+The multi-class logistic regression model is trained on the fusion of the aggregate census data and the posting categories, unchanged from the initial prediction experiment. The prediction, however, is done by feeding a one-hot vector representing the feature bucket that the poster falls under. 
 
 
-From here it becomes clear that due to the fact that the Logistic Regression model is trained on aggregate census data fused with Craigslist postings, 
+// Explanation on how to perform this query on the bayes net to be done in background or briefly here. 
 
+The difference in results of predictions on the Bayes net versus the one-hot encoded Logistic Regression model is drastic. 
 
+\begin{table}[]
+\centering
+\begin{tabular}{l|l|l|l|}
+\cline{2-4}
+ & Negative Log-Likelihood & Accuracy & Hit Rate of 5 \\ \hline
+\multicolumn{1}{|l|}{Logistic Regression} & -47624.61 & 1.99\% & 11\% \\ \hline
+\multicolumn{1}{|l|}{Bayes Net} & -24132.38 & 10.92\% & 24.6\% \\ \hline
+\end{tabular}
+\caption{Accuracy of category predictions on an individual.}
+\label{my-label}
+\end{table}
 
-   Due to the nature of the data collected from Craigslist, there is no way to obtain the granular details of the person making a particular post. Only post categories and the geotag would be given, making it impossible to verify predictions on the type of category posted by a particular demographic. 
+Here it becomes clear that due to the fact that the Logistic Regression model is trained on aggregate census data fused with Craigslist postings. The manipulation of the logistic regression model is not feasible, as it gives an abysmal accuracy that is barely better than blindly guessing the category. 
 
-   In order to remedy this, we created a simulation of Toronto's activity on Craigslist. Using the 55000 data points scraped from Craigslist, normalized ward productivities can be created. This would allow for a "drawing samples from a bag" approach for the posts where the probability of a certain post being from a certain ward is the ward productivity over the 55000 data points. Using the ward population distributions for age extracted from census data, one could probabilistically generate the age group that the person making the post would fall in. 
-
-   Using this generative approach, 55000 new simulated data points were created on which Logistic Regression and Bayes Nets inferencing will be done.  
+The Bayes model performs much better in comparison, though still not objectively well. This can be explained by the simplistic nature of the model which is composed of just 3 nodes. With more data, a more complicated model can be created, which would allow for a much more accurate prediction. 
+  
 
 \newpage
 \section{Future Work: Considerations and experiments to perform}
@@ -299,25 +335,29 @@ A much more robust data collection tool must be developed to gather accurate and
 
 The current bayes net that was created is very simplistic, with just 3 nodes of importance. Since the age group distributions for each ward are not extremely distinct, it becomes very difficult to each age bucket predict a very different set of top five categories to be posted. Generating a model with data from more sources would allow it to gather data  The model would be able to make more granular predictions if a greater number of data sources were used. For example, it would be greatly useful to understand more background of the people making the post, such as occupation and features of the person's surroundings. 
 
+\section{Conclusion}
+There is a huge advantage of Bayes model over the usual go-to off-the-shelf Machine Learning techniques such as logistic regression. When sensitive personal data can not be accessed, it becomes impossible for machine learning algorithms to make granular predictions on an individual. Bayes nets, on the other hand, is able to fuse and make use of the aggregate data to make predictions on a singular entity. These results have a huge impact on social service workers, who can easily make use of readily available online data to tune the targeting of their donation efforts. 
+
+The stark contrast in predictive abilities between the discriminative methods and the generative Bayes model shows the much more principled nature of the latter model. As a result, existing data science approaches should consider the use of a more principled Bayesian approach to data fusion, as the conventional off-the-shelf classifiers and scikit-learn toolboxes may not be enough or effective for the task. 
 
 % PREVIOUS STUFF=====================================================================================================
 
-   % Simulations 
-   The greatest challenge with the thesis does not lie within the construction of a model that can accurately predict posting categories, but rather the ability to verify the correctness of such a model. Currently, there is no efficient way of verifying whether such results are indeed representative of the population.
+   % % Simulations 
+   % The greatest challenge with the thesis does not lie within the construction of a model that can accurately predict posting categories, but rather the ability to verify the correctness of such a model. Currently, there is no efficient way of verifying whether such results are indeed representative of the population.
 
-   From the data gathered over Craigslist, we can calculate the following:
-   \[P(\text{category} | \text{demographics})\]
-   % P(category | demographics)  
+   % From the data gathered over Craigslist, we can calculate the following:
+   % \[P(\text{category} | \text{demographics})\]
+   % % P(category | demographics)  
 
-   In order to verify whether the predictions made are reputable, one could distribute surveys among the different wards in Toronto to construct the demographic profiles that are predicted by the multi-class logistic regression model. The however, would create great sample bias since individuals would largely choose to maintain their privacy. Furthermore, the possibility of false survey results remains an issue.
+   % In order to verify whether the predictions made are reputable, one could distribute surveys among the different wards in Toronto to construct the demographic profiles that are predicted by the multi-class logistic regression model. The however, would create great sample bias since individuals would largely choose to maintain their privacy. Furthermore, the possibility of false survey results remains an issue.
 
-   In order to have full visibility of the demographic numbers, it is necessary to create a contained system modeling Toronto along with its wards and ward population behaviours. This way, one would be abel to observe the population distributions among a ward as well as each individuals. As a result, predictions about categories tied to age group can be confirmed by observing the actual preferences of age groups through synthetically created raw data. This would be the first course of action in the coming months. Afterwards, more time would be spent on creating an SAR model to incorporate time elements into the geospatial predictions. This model could be compared with the simple MCLR model in terms of accuracy. Further heatmaps will be created to make it easier to visualize the comparisons. 
+   % In order to have full visibility of the demographic numbers, it is necessary to create a contained system modeling Toronto along with its wards and ward population behaviours. This way, one would be abel to observe the population distributions among a ward as well as each individuals. As a result, predictions about categories tied to age group can be confirmed by observing the actual preferences of age groups through synthetically created raw data. This would be the first course of action in the coming months. Afterwards, more time would be spent on creating an SAR model to incorporate time elements into the geospatial predictions. This model could be compared with the simple MCLR model in terms of accuracy. Further heatmaps will be created to make it easier to visualize the comparisons. 
 
-   While the main project of simulating Toronto as well as creating a new model are underway, the MCLR model will continue to be tweaked with varying combinations of feature sets (combining male and female ward profiles for example). Furthermore, a new baseline model where no features are fed into it will be created to better quantify the role of different features in category predictions in a ward. 
+   % While the main project of simulating Toronto as well as creating a new model are underway, the MCLR model will continue to be tweaked with varying combinations of feature sets (combining male and female ward profiles for example). Furthermore, a new baseline model where no features are fed into it will be created to better quantify the role of different features in category predictions in a ward. 
 
-   \section{Conclusion}
+   % \section{Conclusion}
 
-   Much of the analysis infrastructure for Toronto has been constructed up to this point. Preliminary model results are able to corroborate with prior stereotypical interpretations. Subsequent work will be done to improve the current MCLR model as well as explore additional models like SAR to process the data entirely differently. Because of the extreme difficulty of confirming the results of the models, it is necessary to create a simulated Toronto in order to cross check results with the actual population information, which is unavailable in reality. 
+   % Much of the analysis infrastructure for Toronto has been constructed up to this point. Preliminary model results are able to corroborate with prior stereotypical interpretations. Subsequent work will be done to improve the current MCLR model as well as explore additional models like SAR to process the data entirely differently. Because of the extreme difficulty of confirming the results of the models, it is necessary to create a simulated Toronto in order to cross check results with the actual population information, which is unavailable in reality. 
 % END OF PREVIOUS STUFF=====================================================================================================
 
 

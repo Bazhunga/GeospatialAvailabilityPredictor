@@ -1,0 +1,127 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{biblatex}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\addbibresource{references.bib}
+\linespread{1.25}
+\usepackage[lmargin=1.5in, rmargin=1.5in, tmargin=1in, bmargin=1in]{geometry}
+
+
+\title{Thesis Report}
+\date{January 2017}
+\author{Kevin Zhu}
+
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
+\setlength{\parskip}{1em}
+
+\begin{document}
+\begin{titlepage}
+   \centering
+   {\scshape\LARGE University of Toronto \par}
+   \vspace{1cm}
+   {\scshape\Large Thesis Report\par}
+   \vspace{1.5cm}
+   {\huge\bfseries Geospatial Prediction for Goods Solicitation with Bayesian Data Fusion\par}
+   \vspace{2cm}
+   {\Large\itshape Kevin Zhu\par}
+   \vfill
+   supervised by\par
+   Prof.~Scott \textsc{Sanner}
+   \vfill
+   {\large April 10, 2017\par}
+\end{titlepage}
+
+\newpage
+\tableofcontents
+
+\newpage
+
+\section{Acknowledgements}
+
+
+\section{Introduction}
+
+% Message: You need to target a specific audience
+% Current situation
+With hundreds of charities and organizations seeking to help the less fortunate, donations are key piece in keeping these groups operational and able to make an impact to society. While some funds like the Princess Margaret Cancer Foundation are mostly a monetary-donation based charity, others that rely heavily on physical items like Toys for Tots and local shelters. Because people are not spending their resources for a return, like shopping, there is much user friction that organizations must alleviate in order for them to acquire these resources. 
+
+% What we're doing - Making individual and location predictions possible
+One of the key steps that organizations must get right is communicating their value proposition to the appropriate crowd. If the audience targeting is not done correctly, soliciting goods would be nigh impossible. While it's obvious that soliciting baby goods from a region consisting mostly of university students is fruitless effort, it becomes much more difficult to make predictions of appropriate target audiences and target locations over a large number of less obvious item categories. 
+
+% Current resources for targeting - The gap
+The most modern methods of soliciting goods is through online postings through Google Ads or Facebook Advertising. Physically mailing, posting on public bulletin boards, and public donation boxes have very clear drawbacks because the amount of time it requires to execute. While advertising platforms allows for wide targeting based on desired audience age, gender, estimated income level, marital and child status, the users do not have the assurance that they are indeed targeting the right people. Moreover, they have no idea which parts of the city to target, forcing them to go with the blanket approach. While this is easily scaleable for online platforms (albeit at a higher cost), blanket advertisements in cities require much volunteer manpower that organizations sometimes cannot afford. With no single resource that charitable organizations can consult in order to get an idea of who their target audience should be, they are hard pressed to gather data by themselves and attempt to translate into a tangible likelihood of their advertising success. 
+
+The two basic sets of data the charitable organizations would need are a source for item availability and a source describing the people making these items available. For the sake of ease of data collection and analysis of the thesis, Craigslist posts were used as a measure of item availability in the city. Though not quite representative of what people may give away to charitable organizations, the data fusion can be applied all the same to a different, similarly structured, data set. Information about various target audiences are to be retrieved from Toronto's 2014 publicly available census data, containing aggregate statistics of individuals based on age, housing, and family size. 
+
+% Introducing data fusion
+The first thought that may come to mind is to decompose the data into defining features of different members of the audience and subsequently apply an off-the-shelf machine learning technique to learn what makes different audiences unique. This type of methodology, however, requires a very granular data set where sets of features describe an individual. Companies like Facebook and major banks have access to the data describing people on an individual level; however, this is rarely given to organizations due to its sensitive nature. As a result, charitable organizations will have to rely on publicly available aggregate data sets like census data to gain information on possible target audiences. A much less used, but arguably more valid and structured, model known as a Bayesian Network can be used to fuse aggregate data sets and make much more grounded predictions on an individual level.
+
+The thesis will explore the advantages of Bayesian data fusion and prediction on a granular, individual level over traditional machine learning models. 
+
+\section{Background information}
+There are a number of off-the-shelf machine learning models provided by libraries like python's scikit-learn and Google's TensorFlow to fit the gathered dataset. These models fall under two major categories: discriminative and generative. 
+
+\subsection{Discriminative models}
+Discriminative models take in training data and learn the features that separate different classes. Subsequent test data is then taken by the model, after which it determines the class that would most likely result. Models like Logistic Regression, Support Vector Machines, and neural networks are common examples. This thesis will making use of Logistic Regression to perform the predictions. 
+
+% Explain the Logistic Regression
+% TODO: Edit
+\subsubsection{Logistic Regression}
+Logistic regression uses the sigmoid function coupled with a linear function of multiple independent variables to ultimately determine a binary outcome. The sigmoid function is as follows: 
+\[\frac{1}{1+e^{-z}}\]
+The z is a linear function of the form
+\[z = \beta_0 + \beta_1*x_1 + \beta_2*x_2 + \beta_3*x_3  + ...\]
+The \(x\) values represent independent variables. The \(\beta\) values represent the weights associated with each \(x\) value. The sigmoid function can be used to calculate the probability of the outcome being 0 or 1. Given a vector of independent variables as well as the associated weights, the sigmoid function produces a value between 0 and 1 representing the probability. A threshold, usually 0.5, can be applied such that beyond the threshold, the probability maps to an output of 1 and the reverse maps to an output of 0. 
+
+% TODO: Edit
+\subsubsection{Multiclass Logistic Regression}
+Multiclass Logistic Regression is an extension of Logistic regression where the output can be more than just be 0 and 1. The output becomes a vector of probabilities for each possible output class. A function known as softmax, or the normalized exponential function, is used to get the probabilities of each class. The maximum probability would indicate the most likely class, and therefore that class would be the output of MCLR. The softmax function looks like the following: 
+\[Pr(Y_i = K) = \frac{e^{\beta_K} \cdot X_i}{\sum_{k=1}^{K} e^{\beta_K} \cdot X_i}\]
+
+\subsection{Generative models}
+Generative models train on the data and is subsequently able to provide a full probabilistic model for all the variables used in the training. As a result, in contrast to discriminative models, the generative counterpart takes in a sample test point and outputs probability that the model would have generated the point. Classification of a point can be done with multiple generative models by obtaining the probabilities for each and assigning the point to the one with the highest probability. % Wording 
+This thesis will be making use of Bayesian Networks (or Bayes net for short), as a generative model to perform predictions. 
+
+\subsubsection{Bayesian Networks}
+% TODO: Fill this in
+A Bayesian network is a graphical model that uses Bayes Rule to connect its components, or "nodes". These nodes represent pieces of information, with edges connecting different components symbolizing their relationships to one another. What results from the nodes and connections is a directed graph. 
+
+// TODO: Bayes rule formula. more stuff to explain
+\[P(B_1|A)=\frac{P(B_1\cap A)}{P(A)}=\frac{P(B_1)P(A| B_1)}{\sum_{i=1}^{n} P(B_i)P(A|B_i)}\]
+Bayes rule is a formula that describes how likely a certain event would occur based on a certain condition. 
+
+// Picture of bayes net
+// Caption: A general bayes net. Each arrow points to the node that is conditionally dependent on the arrow source. 
+In the figure, it can be seen that node B is conditionally dependent on node A by bayes rule
+
+\subsection{Learning with Bayesian Data Fusion}
+
+// TODO: Time for some previous work done on this. 
+
+\section{Methodology}
+% How the thesis will approach data fusion
+The sets of data being fused for prediction are a collection of Craigslist "item for sale" item postings in the city of Toronto and the 2014 Toronto census data. These two data sets are required to get a fundamental understanding of the charitable organization's potential target audiences. The problem that arises with solely using Craigslist is that the only useful information taht can be used is the post geotag and category. With no other pieces of information regarding the poster available, one would not be able to go beyond basic clustering and heatmapping to determine category hotspots. This result wouldn't give much insight, and organizations would just be able to post up their donation boxes in the center of the hotspot ---hardly an improvement. In order to see a more complete picture of their target audience, organizations will need a demographics-related data set to fuse with the posting data set. The 2014 Toronto Census data set provides a rich, albeit aggregated, data set with the population distributions over its 44 wards of features such as age, people's housing situations, family sizes and male to female rations.
+
+With the collected data, the popular off-the-shelf machine learning algorithm ---multi class logistic regression--- will first be applied. Afterwards, Bayesian data fusion will be applied and subsequently compared in terms of individual prediction capabilities. 
+
+\subsection{Data collection}
+\subsubsection{Craigslist }
+The data collection would be done on a single website to eliminate the variables in inconsistency and productivity between different websites. One could gather data from Ebay and Amazon; however, the postings are mostly from larger vendors, which is not suitable for individual predictions. Craigslist and Kijiji, on the other hand, are suitable because they are well known as "local classifieds", allowing anyone to post item listings for free. Craigslist was chosen for data collection because it is more widely known and also performs separation of individual sellers and retailers under the guise of individuals. 
+
+
+
+In the Toronto region, Craigslist gets around 2500 "item for sale" posts every two hours, each of which are bucketed into 1 of 78 categories (such a furniture, baby clothing, etc). 
+
+
+
+\section Sources to cite **REMOVE THIS LATER
+
+https://www.nngroup.com/articles/non-profit-websites-donations/
+
+\end{document}
