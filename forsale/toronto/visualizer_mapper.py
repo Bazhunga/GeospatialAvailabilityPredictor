@@ -34,7 +34,7 @@ def print_full(x):
 
 if __name__ == "__main__":
    basePath = os.path.dirname(os.path.abspath(__file__))
-   path = (basePath + "/bigger.json")
+   path = (basePath + "/bigger.json") # TODO: CHANGE THIS TO WHATEVER YOU WANT
    print path
    with open(path) as toronto_json: 
       master_data = json.load(toronto_json)

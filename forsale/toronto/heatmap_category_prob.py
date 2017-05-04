@@ -19,9 +19,6 @@ from data_processing_category_to_ward import *
 # Raw heatmap of postings
 heatmap_category = ["fuo"] 
 heatmap_name = "heatmap_" + str(heatmap_category)
-posting_lats = "posting_lats.npy"
-posting_lons = "posting_lons.npy"
-posting_mags = "posting_mags.npy"
 
 def get_unique_category_code(item_url):
    m = re.search('org/tor/(.+?)/', item_url)
